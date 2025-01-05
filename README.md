@@ -145,14 +145,33 @@ https://www.sciencedirect.com/science/article/pii/S0191886999000914
 
 
 ## Bijlagen
-wave 1 protocol: https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa
-wave 2 protocol: https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y
-raport wave 1 en 2:
-storyboard: https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK
-informed consent 1 (wave 1 en 2):
-informed consent 2 (wave 1 en 2)
-informed consent 3 (wave 1 en 2)
-informed consent 4 (wave 1 en 2)
-informed consent 5 (wave 1 en 2)
-informed consent verpleegkundige (wave 1 en 2)
+
+templates: 
+-	Pestel:
+-	...
+-	...
+-	...
+-	...
+-	...
+
+Intervieuws:
+-	Protocol
+-	Informed consent
+-	Raport
+
+Wave's:
+-	[Protocol wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa)
+-	[Protocol wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)
+-	[Informed consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/pdf%20informed%20consent%20wave%201%20en%202.pdf?csf=1&web=1&e=dfrrTi)
+-	Raport wave 1:
+-	Raport wave 2:
+
+[storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK)
+
+literatuurstudie:
+-	Protocol
+-	Raport
+  
+
+
 
