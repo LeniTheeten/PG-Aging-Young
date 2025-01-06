@@ -51,10 +51,15 @@ Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plus
 Vanuit de Definition template kon een ‘How can/might we?’ worden opgesteld. Hierdoor werden er verschillende onderzoeksmethoden toegepast en zorgde ervoor dat er een duidelijke probleemstelling werd geformuleerd. Het zorgde ervoor dat de onderzoeken werden uitgevoerd in de juiste volgorde. Achter het volledig opstellen van de template maar voordat de ‘How can/might we?’ werd opgesteld, werd nog een WWWWH-model toegepast.
 
 Één van de toegepaste onderzoeksmethoden was een literatuuronderzoek. Hiervoor werd één protocol (Link protocol) opgesteld voor de verschillende onderzoeken. Telkens werd opnieuw gevraagd waar het werd opgezocht, welke sleutelwoorden en zoektermen er werden gebruikt. Verder is telkens ook de bronnen van informatie bijgehouden. Na het onderzoeken van de bronnen werd een rapportering gedaan en een conclusie. In de onderzoeken werden deze vragen onderzocht: 
+
 •	Hoe werkt de RGM-methode? (Research 1)
+
 •	Wat doet muziek met het menselijk brein en lichaam? (Research 2)
+
 •	Wat zijn cognitieve functies of vaardigheden? (Research 3)
+
 •	Wat kan er allemaal voor zorgen dat healthy aging wordt bevorderd? (Research 4)
+
 In Research één werd PESTEL analyse toegepast zodat er een duidelijkheid kwam over de impact van de RGM-methode.
 
 Toevoegen protocol literatuuronderzoek.
@@ -96,18 +101,27 @@ Uit de sprint dag en ideegeneratie kwamen deze ideeën naar voren:
 Tijdens de ideegeneratie werden verschillende ontwerp templates ingevuld voor het proces gemakkelijker te maken.(LINKEN Templates) In de concepten is altijd een combinatie van beweging en muziek aanwezig.
 
 Later werd nog even teruggegrepen naar de Discovery fase voor een benchmarkt onderzoek. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
+
 •	Er bestaan interactieve matten en digitale producten zoals de Nintendo Wii en dance machines, maar deze zijn vaak te intensief voor onze doelgroep. 
+
 •	Toepassen in ons ontwerp: aanpasbaar geluid, antislip, variatie in mogelijkheden, opvouwbaarheid en gebruik voor meerdere personen. 
+
 •	De matten: kleurrijk, vierkant of rechthoekig, aangepast aan kinderen. Ontwerp varieert afhankelijk van het gebruik als instrument- of dansmat.
 
 ### Conclusies & implicaties
 
 Uit de onderzoeken zijn dit de belangrijkste designbeslissingen voor verder te gaan naar de Definition fase zijn:
+
 •	Mensen ouder dan 65 jaar moeten het product kunnen gebruiken
+
 •	Muziek, beweging, sociale interactie, cognitieve oefeningen zijn zeer goed voor de mentale gezondheid. 
+
 •	De oplossing is een combinatie van muziek en beweging, eventueel een spel.
+
 •	De doelgroep moet vlot met het product kunnen werken. De bewegingen mogen niet te intensief zijn. De oplossing mag wel uitdaging geven.
+
 •	In het ontwerp mogen kleuren, figuren en verschillende soorten symbolen gebruikt worden.
+
 •	In de oplossing mag er een variatie aan mogelijke uitdagingen zijn.
 
 Het voorlopig gekozen concept uit de ideegeneratie is een mat met dan een projectie van een instrument/spel. Op dit concept zal verder gewerkt worden in de Definition fase.
