@@ -87,10 +87,12 @@ Uit de interviews hebben we een duidelijk beeld gekregen van de kenmerken van de
 ![image](https://github.com/user-attachments/assets/88c4c258-0ef8-496f-a0fe-5860ab27f530)
 
 Uit de sprint dag en ideegeneratie kwamen deze ideeën naar voren:
+
 ![image](https://github.com/user-attachments/assets/9ed05846-611a-4cf7-97a9-43c0b9107f66)
 ![image](https://github.com/user-attachments/assets/f9561c28-b33c-4f50-a1a2-5827e9cfc0b2)
 ![image](https://github.com/user-attachments/assets/f35eba01-3943-40ee-897d-7012dccbe9bf)
 ![image](https://github.com/user-attachments/assets/8d28875f-13e5-4319-83a9-6416f381ffc2)
+
 Tijdens de ideegeneratie werden verschillende ontwerp templates ingevuld voor het proces gemakkelijker te maken.(LINKEN Templates) In de concepten is altijd een combinatie van beweging en muziek aanwezig.
 
 Later werd nog even teruggegrepen naar de Discovery fase voor een benchmarkt onderzoek. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
