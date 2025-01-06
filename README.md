@@ -225,36 +225,62 @@ De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse 
 Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 Literatuuronderzoek:
+
 https://www.rgm-nederland.nl/site/rgm
+
 https://brainbalanceinstituut.com/muziek-met-je-hersenen/
+
 https://stories.kuleuven.be/nl/verhalen/een-bijsluiter-voor-de-festivalzomer-wat-doet-muziek-met-ons-lijf-en-brein
+
 https://www.uzgent.be/patient/zoek-een-arts-of-dienst/neurologie/aandoeningen-en-behandelingen/geheugenproblemen/wat-zijn-cognitieve-stoornissen#:~:text=Cognitieve%20functies%20of%20vaardigheden%20zijn,worden%2C%20gaan%20ze%20langzaam%20achteruit
+
 https://www.dementie.be/meander/dementie/wat-is-dementie/#:~:text=De%20symptomen%20die%20op%20cognitief,perceptueel-motorisch%20en%20sociale%20cognitie
+
 https://snellezen.com/brein-trainen/
+
 https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability
+
 https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging
+
 https://gray.be/news/whitepapergray2023/GRAY_Whitepaper_Gezond-Verouderen_reduced.pdf
+
 https://www.asr.nl/vitaliteit/gezond-ouder-worden
 
 Benchmarks:
+
 Lobyoh Baby Muziek Mat Piano Mat met 8 Muziekinstrumenten, Keyboard Kids Dance Mat, Speelgoed Cadeau voor Peuters Jongens Meisjes : Amazon.nl: Speelgoed & spellen
+
 IKEA Video Game Interactive Floor Projector - YouTube
+
 Woezel & Pip interactieve speelmat - met licht & geluid - 90 x 70 cm : Amazon.nl: Speelgoed & spellen
+
 https://www.toychamp.be/producten/n-gear-xxl-piano-dansmat/01665352
+
 https://www.ultragadgets.be/contents/nl/p954_Dansmat-dancing-challenge.html
+
 https://www.gameroomguys.com/Step-Revolution-StepMania-Dedicated-Deluxe-DX-Dance-Machine-Arcade-Game
+
 https://www.google.com/search?q=piano+tiles+review&sca_esv=86a7437669578f61&rlz=1C1CHBF_nlBE1097BE1097&biw=1536&bih=695&ei=gDw-Z6fYIuSKkdUPp4u36Qc&oq=piano+tales+revi&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHBpYW5vIHRhbGVzIHJldmkqAggAMgYQABgWGB4yBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIyhlQoANY7AtwAXgBkAEAmAFroAHnA6oBAzMuMrgBAcgBAPgBAZgCBqAC9QPCAgoQABiwAxjWBBhHwgIOEAAYsAMY5AIY1gTYAQHCAhYQLhiABBiwAxhDGNQCGMgDGIoF2AEBwgILEAAYgAQYkQIYigXCAgoQLhiABBhDGIoFwgIHEAAYgAQYCsICCxAuGIAEGJECGIoFwgIHEC4YgAQYCsICBxAAGIAEGA3CAggQABgWGAoYHpgDAIgGAZAGDboGBggBEAEYCZIHAzQuMqAH2ik&sclient=gws-wiz-serp
+
 https://www.backmarket.nl/nl-nl/p/nintendo-wii-systeem-wii-bord/9d8040aa-3cc5-4d84-8a3f-dac513264d55?shopping=gmc&utm_source=google&utm_medium=cpc&utm_campaign=NL_SA_SHOP_G_GEN_Others_RSC&gclid=CjwKCAiArva5BhBiEiwA-oTnXUw-_dqqsk02b8WohJGSN9YO0GqGHCVMKVNTKQQgLMHXcBX3j_GdhhoCsBIQAvD_BwE&gad_source=1&l=12
+
 https://www.wijksnieuws.nl/sport/overig/700226/wijk-balans-spel-voor-ouderen-voor-het-verbeteren-van-spierkrac
+
 https://www.cool2bfit.nl/uploadfiles/1612346431--FILE--31012021_bewegend-ganzenbord.pdf
+
 https://www.cool2bfit.nl/kinderen/leuke-beweegspelletjes-voor-thuis/
+
 https://toystar.nl/products/dancemax-maak-van-je-woonkamer-een-dansvloer-interactieve-dansmat?variant=49868734267733&country=NL&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&tw_source=google&tw_adid=&tw_campaign=21683111445&gad_source=1&gclid=Cj0KCQiAgJa6BhCOARIsAMiL7V-sGMmw2BQP5Hcn7PpLG4-WHp1zPDEmUk4HF4r_m5p2u5sHYlV1JoMaAucDEALw_wcB
 
 
 Zoekopdracht: “studies on repeated actions based on pleasentness of task”:
+
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.977687/full
+
 https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-021-00301-5
+
 https://link.springer.com/article/10.1007/s00221-017-5112-3
+
 https://www.sciencedirect.com/science/article/pii/S0191886999000914
 
 
