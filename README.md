@@ -26,7 +26,6 @@ De bedoeling is om het concept in een nieuw jasje te steken of een nieuw concept
 Het concept bestaat uit een mat en een projectie. De mat is het fysieke gedeelte en wordt gebruikt voor bepaalde acties uit te voeren. De projectie is het digitaal gedeelte en toont de uit te voeren acties. De projectie kan zowel een muzikale activiteit zijn, als een spelletje zoals sudoku waarbij denkvermogen nodig is. Dit zullen we stapsgewijs ontwikkelen.
 
 
-
 ## Methodologie
 
 ![image](https://github.com/user-attachments/assets/f6b9e9de-82e3-4a7d-8c11-6fd9f5cc42a5)
@@ -50,43 +49,37 @@ Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plus
 ### Materiaal & methoden
 Vanuit de Definition template kon een ‘How can/might we?’ worden opgesteld. Hierdoor werden er verschillende onderzoeksmethoden toegepast en zorgde ervoor dat er een duidelijke probleemstelling werd geformuleerd. Het zorgde ervoor dat de onderzoeken werden uitgevoerd in de juiste volgorde. Achter het volledig opstellen van de template maar voordat de ‘How can/might we?’ werd opgesteld, werd nog een WWWWH-model toegepast.
 
-Één van de toegepaste onderzoeksmethoden was een literatuuronderzoek. Hiervoor werd één protocol (Link protocol) opgesteld voor de verschillende onderzoeken. Telkens werd opnieuw gevraagd waar het werd opgezocht, welke sleutelwoorden en zoektermen er werden gebruikt. Verder is telkens ook de bronnen van informatie bijgehouden. Na het onderzoeken van de bronnen werd een rapportering gedaan en een conclusie. In de onderzoeken werden deze vragen onderzocht: 
+Één van de toegepaste onderzoeksmethoden was een literatuuronderzoek. Hiervoor werd één protocol [Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY) opgesteld voor de verschillende onderzoeken. Telkens werd opnieuw gevraagd waar het werd opgezocht, welke sleutelwoorden en zoektermen er werden gebruikt. Verder is telkens ook de bronnen van informatie bijgehouden. Na het onderzoeken van de bronnen werd een rapportering gedaan en een conclusie. In de onderzoeken werden deze vragen onderzocht: 
 
-•	Hoe werkt de RGM-methode? (Research 1)
-
-•	Wat doet muziek met het menselijk brein en lichaam? (Research 2)
-
-•	Wat zijn cognitieve functies of vaardigheden? (Research 3)
-
-•	Wat kan er allemaal voor zorgen dat healthy aging wordt bevorderd? (Research 4)
+-	Hoe werkt de RGM-methode? (Research 1)
+-	Wat doet muziek met het menselijk brein en lichaam? (Research 2)
+-	Wat zijn cognitieve functies of vaardigheden? (Research 3)
+-	Wat kan er allemaal voor zorgen dat healthy aging wordt bevorderd? (Research 4)
 
 In Research één werd PESTEL analyse toegepast zodat er een duidelijkheid kwam over de impact van de RGM-methode.
 
-Toevoegen protocol literatuuronderzoek.
-Tweede manier van onderzoeken was via interviews. Hierbij werd ook een protocol (linken protocol) opgesteld, rapportering gemaakt en conclusies gevormd. Er werd vooral gepeild naar mening over onderwerpen zoals de RGM-methode. Ook werd gevraagd naar hoe hun dagelijkse routine eruitziet. Voordat de interviews werden afgenomen werd een informed consent (linken) ondertekend. Bij de conclusies kwamen het User-model en persona van pas.
-Linken protocol + infomed consents.
+Tweede manier van onderzoeken was via interviews. Hierbij werd ook een protocol [Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa) opgesteld, rapportering gemaakt en conclusies gevormd. Er werd vooral gepeild naar mening over onderwerpen zoals de RGM-methode. Ook werd gevraagd naar hoe hun dagelijkse routine eruitziet. Voordat de interviews werden afgenomen werd een informed consent ondertekend [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun). Bij de conclusies kwamen het User-model en Persona van pas.
 
 Voor de ideegeneratie werd een sprint dag gedaan waarbij er schetsen en ideeën genereerd werden maar ook verschillende templates toegepast zodat er gemakkelijk ideeën werden gecreëerd en duidelijke informatie. De toegepaste templates zijn: Innovatrix, Lotus.
 
-Tijdens de Definition fase werd even teruggekeerd naar de Discovery fase zodat er een Benchmarking onderzoek werd uitgevoerd voor het concept. Hier werd opnieuw protocol, rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en kunnen toegepast worden.
-Linken protocol
-
+Tijdens de Definition fase werd even teruggekeerd naar de Discovery fase zodat er een Benchmarking onderzoek werd uitgevoerd voor het concept. Hier werd opnieuw protocol [Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN), rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en kunnen toegepast worden.
 
 ### Resultaten
 De probleemstelling werd eerder al vermeld bij de doelstellingen.
 
-Uit research 1 is af te leiden dat met het werken van muziek met daarbij beweging en kleuren te verbinden effectief helpt voor mensen motoriek en cognitief te stimuleren. Dit zorgt nieuwe verbindingen in de hersenen, en blijven mensen mentaal en fysiek langer jong. In de oplossing zou een combinatie van beweging, coördinatie en muziek dus een meer waarde zijn. Er werd een PESTEL template opgesteld over de RGM-methode. (LINKEN) + Linken research
+Uit research 1 is af te leiden dat met het werken van muziek met daarbij beweging en kleuren te verbinden effectief helpt voor mensen motoriek en cognitief te stimuleren. Dit zorgt nieuwe verbindingen in de hersenen, en blijven mensen mentaal en fysiek langer jong. In de oplossing zou een combinatie van beweging, coördinatie en muziek dus een meer waarde zijn. Er werd een PESTEL template opgesteld over de RGM-methode. [Pestel](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/PESTEL_template.pdf?csf=1&web=1&e=REgUMT) & [Research1](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research1_Rapport.pdf?csf=1&web=1&e=HAiX50)
 
-Uit research 2 blijkt dat muziek een diepgaande invloed op mentale en fysieke welzijn. Het geeft een gezond effect op je emoties en zorgt voor een beter gemoed. Het leren van muziek zorgt voor motorische vaardigheden. Het gebruiken van muziek in de oplossing zou helpen op vlak van gezond welzijn en het ontwikkelen van vaardigheden. (LINKEN) + Linken research
+Uit research 2 blijkt dat muziek een diepgaande invloed op mentale en fysieke welzijn. Het geeft een gezond effect op je emoties en zorgt voor een beter gemoed. Het leren van muziek zorgt voor motorische vaardigheden. Het gebruiken van muziek in de oplossing zou helpen op vlak van gezond welzijn en het ontwikkelen van vaardigheden. [Research2](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research2_Rapport.pdf?csf=1&web=1&e=1YDNdJ)
 
-Uit research 3 zijn cognitieve functies zoals aandacht, geheugen, taal en executieve functies essentieel voor het verwerken van informatie en om effectief te functioneren in het dagelijks leven. Kleine brainspelletjes hebben niet genoeg inspanning voor cognitief uitdagend te zijn. In de oplossing zou een spel kunnen zitten maar wel met uitdaging genoeg. (LINKEN) + Linken research
+Uit research 3 zijn cognitieve functies zoals aandacht, geheugen, taal en executieve functies essentieel voor het verwerken van informatie en om effectief te functioneren in het dagelijks leven. Kleine brainspelletjes hebben niet genoeg inspanning voor cognitief uitdagend te zijn. In de oplossing zou een spel kunnen zitten maar wel met uitdaging genoeg. [Research3](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research3_Rapport.pdf?csf=1&web=1&e=K6hXtP)
 
-Uit research 4 komt voor dat de context waarin mensen leven beïnvloedden kan zijn voor het gezond verouderen. Zoals het stressmanagement, de sociale contacten en levenskwaliteit zijn belangrijke aspecten. In de oplossing kan bijvoorbeeld dat het door meerdere personen kan worden gebruikt. (LINKEN) + Linken research
-Op het einde van de onderzoeken werd een WWWWH-model opgesteld. (LINKEN)
+Uit research 4 komt voor dat de context waarin mensen leven beïnvloedden kan zijn voor het gezond verouderen. Zoals het stressmanagement, de sociale contacten en levenskwaliteit zijn belangrijke aspecten. In de oplossing kan bijvoorbeeld dat het door meerdere personen kan worden gebruikt. [Research4](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research4_Rapport.pdf?csf=1&web=1&e=KMOxsK)
+Op het einde van de onderzoeken werd een WWWWH-model opgesteld. [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4)
 
 ![image](https://github.com/user-attachments/assets/2abd9b14-ba42-4f3c-8164-35650cb89cd3)
 
-Uit de interviews hebben we een duidelijk beeld gekregen van de kenmerken van de doelgroep en waar ze niet of wel mee akkoord zijn. Zo mag de oplossing met muziek zijn en bewegen maar wel allemaal in beperkte mate. Er werd een User-Model en Persona opgesteld. (LINKEN templates + Linken Researh)
+Uit de interviews hebben we een duidelijk beeld gekregen van de kenmerken van de doelgroep en waar ze niet of wel mee akkoord zijn. Zo mag de oplossing met muziek zijn en bewegen maar wel allemaal in beperkte mate. Er werd een User-Model en Persona opgesteld. [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & [Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & [Interview_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_Rapport.pdf?csf=1&web=1&e=gxyd6T)
+
 “Als ik het zou toepassen dan zou ik het toepassen in de ochtend juist na het ontbijt”
 
 ![image](https://github.com/user-attachments/assets/88c4c258-0ef8-496f-a0fe-5860ab27f530)
@@ -98,31 +91,24 @@ Uit de sprint dag en ideegeneratie kwamen deze ideeën naar voren:
 ![image](https://github.com/user-attachments/assets/f35eba01-3943-40ee-897d-7012dccbe9bf)
 ![image](https://github.com/user-attachments/assets/8d28875f-13e5-4319-83a9-6416f381ffc2)
 
-Tijdens de ideegeneratie werden verschillende ontwerp templates ingevuld voor het proces gemakkelijker te maken.(LINKEN Templates) In de concepten is altijd een combinatie van beweging en muziek aanwezig.
+Tijdens de ideegeneratie werden verschillende ontwerp templates ingevuld voor het proces gemakkelijker te maken [Innovatrix](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/INNOVATRIX_template.pdf?csf=1&web=1&e=6s3CBK) [LOTUS](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/LOTUS_BLOEM_template.pdf?csf=1&web=1&e=3lhmXI) . In de concepten is altijd een combinatie van beweging en muziek aanwezig.
 
-Later werd nog even teruggegrepen naar de Discovery fase voor een benchmarkt onderzoek. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
+Later werd nog even teruggegrepen naar de Discovery fase voor een benchmarkt onderzoek [Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_Rapport.pdf?csf=1&web=1&e=VvSswk). Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
 
-•	Er bestaan interactieve matten en digitale producten zoals de Nintendo Wii en dance machines, maar deze zijn vaak te intensief voor onze doelgroep. 
-
-•	Toepassen in ons ontwerp: aanpasbaar geluid, antislip, variatie in mogelijkheden, opvouwbaarheid en gebruik voor meerdere personen. 
-
-•	De matten: kleurrijk, vierkant of rechthoekig, aangepast aan kinderen. Ontwerp varieert afhankelijk van het gebruik als instrument- of dansmat.
+-	Er bestaan interactieve matten en digitale producten zoals de Nintendo Wii en dance machines, maar deze zijn vaak te intensief voor onze doelgroep.
+-	Toepassen in ons ontwerp: aanpasbaar geluid, antislip, variatie in mogelijkheden, opvouwbaarheid en gebruik voor meerdere personen.
+-	De matten: kleurrijk, vierkant of rechthoekig, aangepast aan kinderen. Ontwerp varieert afhankelijk van het gebruik als instrument- of dansmat.
 
 ### Conclusies & implicaties
 
 Uit de onderzoeken zijn dit de belangrijkste designbeslissingen voor verder te gaan naar de Definition fase zijn:
 
-•	Mensen ouder dan 65 jaar moeten het product kunnen gebruiken
-
-•	Muziek, beweging, sociale interactie, cognitieve oefeningen zijn zeer goed voor de mentale gezondheid. 
-
-•	De oplossing is een combinatie van muziek en beweging, eventueel een spel.
-
-•	De doelgroep moet vlot met het product kunnen werken. De bewegingen mogen niet te intensief zijn. De oplossing mag wel uitdaging geven.
-
-•	In het ontwerp mogen kleuren, figuren en verschillende soorten symbolen gebruikt worden.
-
-•	In de oplossing mag er een variatie aan mogelijke uitdagingen zijn.
+-	Mensen ouder dan 65 jaar moeten het product kunnen gebruiken
+-	Muziek, beweging, sociale interactie, cognitieve oefeningen zijn zeer goed voor de mentale gezondheid.
+-	De oplossing is een combinatie van muziek en beweging, eventueel een spel.
+-	De doelgroep moet vlot met het product kunnen werken. De bewegingen mogen niet te intensief zijn. De oplossing mag wel uitdaging geven.
+-	In het ontwerp mogen kleuren, figuren en verschillende soorten symbolen gebruikt worden.
+-	In de oplossing mag er een variatie aan mogelijke uitdagingen zijn.
 
 Het voorlopig gekozen concept uit de ideegeneratie is een mat met dan een projectie van een instrument/spel. Op dit concept zal verder gewerkt worden in de Definition fase.
 
@@ -136,7 +122,7 @@ Het grootste probleem is dat ouderen te vaak onvoldoende gestimuleerd worden om 
 
 De doelstelling was het valideren of deze oplossing intuïtief begrijpelijk is voor gebruikers en het uitvoeren van eerste testen om het concept te valideren en verder vorm te geven.  
 
-Bij de eerste gebruikerstest lag de focus op: vorm van mat die beste bewegingsvrijheid geeft en of participanten de werking begrijpen: De focus bij de tweede gebruikerstesten lag dan weer op de tekens & symbolen en type knop de doelgroep het aangenaamst vond. 
+Bij de eerste gebruikerstest lag de focus op: vorm van mat die beste bewegingsvrijheid geeft en of participanten de werking begrijpen. De focus bij de tweede gebruikerstesten lag dan weer op de tekens & symbolen en type knop de doelgroep het aangenaamst vond. 
 
 ![image](https://github.com/user-attachments/assets/fced84bf-3706-4998-9481-8064708b0caf)  ![image](https://github.com/user-attachments/assets/2f1a9ff0-f571-4e8b-aef4-8586577af250)
 
@@ -152,7 +138,7 @@ De gebruikte materialen zijn opgedeeld in gebruik:
 -	Beoordelen van comfort en gebruiksgemak: plastic, wol, mouse, karton, plakband
 -	Muzikale begeleiding en spelprojectie: laptopscherm met interne speaker
 
-De methodologie kreeg volgende aanpak. Een observator observeerde en noteerde de natuurlijke interactie met e-het product, in dit geval was dit Leni. De testleider was Amber, zij voerde tests uit en stelde vragen om inzichten te verzamelen via het “think aloud protocol”. En als laatste nog multimediagebruik, foto’s en video’s werden (met toestemming) vastgelegd voor latere analyse.
+De methodologie kreeg volgende aanpak. Een observator observeerde en noteerde de natuurlijke interactie met het product, in dit geval was dit Leni. De testleider was Amber, zij voerde tests uit en stelde vragen om inzichten te verzamelen via het “think aloud protocol”. En als laatste nog multimediagebruik, foto’s en video’s werden (met toestemming) vastgelegd voor latere analyse.
 
 Voor de eerste test was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden ([wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa)). Test 2 ging over de lay-out voorkeuren, de verschillende matvormen werden in een random volgorde getest. De deelnemers beoordeelden elke lay-out op comfort en gebruiksvriendelijkheid nadien. Een laatste test was de leesbaarheid en de knoppen. Knoppen werden met zowel de hand, en voet getest op comfort. Ook werden de symbolen en letters op de afgedrukte piano’s geëvalueerd op duidelijkheid ([[wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)]).
 
@@ -164,11 +150,11 @@ In de gebruikerstesten zowel wave 1 als wave 2 werden op dezelfde dag afgelegd, 
 
 De werking van de mat werd door de meeste deelnemers herkend. Zonder uitgebreide uitleg begonnen zij zelfstandig de interactie aan te gaan met de opstelling. Vooral de cirkelvorm werd als aangenaamst ontvangen, omdat deze het meest herkenbaar en logisch aanvoelde in combinatie met de cijfers, denk aan een klok. Andere vormen zoals de rechthoek of vierkant waren minder positief.
 
-Een terugkomend probleem was de rollators. De matten bleken te groot te zijn voor onder een rollator te passen. Ook belemmerden deze rollators het zicht van de figuren op de matten. Een deelnemer met de rollator voerde de test volledig zittend uit, war de bewegingsvrijheid verder beperkte. 
+Een terugkomend probleem was de rollators. De matten bleken te groot te zijn voor onder een rollator te passen. Ook belemmerden deze rollators het zicht van de figuren op de matten. Een deelnemer met de rollator voerde de test volledig zittend uit, maar de bewegingsvrijheid beperkte verder. 
 
 ![image](https://github.com/user-attachments/assets/b3689f0c-fdb9-4eb8-acac-c5eda0203ae0)
 
-Door gebrek aan kleurencontrast werden de figuren en symbolen vaak moeilijker herkend. De meeste ouderen gaven aan dat we met kleur moeten werken om visuele onderscheiding duidelijker te maken. Bij de leesbaarheid van de piano-opstelling  werden de hoofdletters consistent verkozen. “De hoofdletters zijn het grootst, tuurlijk dat deze beter leesbaar zijn”. Dit was echter niet het geval alle symbolen en cijfers werden in hoogte en breedte op gelijke maten geplaatst.
+Door gebrek aan kleurencontrast werden de figuren en symbolen vaak moeilijker herkend. De meeste ouderen gaven aan dat we met kleur moeten werken om visuele onderscheiding duidelijker te maken. Bij de leesbaarheid van de piano-opstelling werden de hoofdletters consistent verkozen. “De hoofdletters zijn het grootst, tuurlijk dat deze beter leesbaar zijn”. Dit was echter niet het geval alle symbolen en cijfers werden in hoogte en breedte op gelijke maten geplaatst.
 
 De voorkeur van knoppen gingen uit naar deze die zachter was. Deze werd als comfortabeler ervaren, vooral door mensen met beperkte kracht in handen en voeten. Daarnaast werd opgemerkt dat de hardere knoppen net iets meer uitsteken en een struikelgevaar kunnen vormen, zeker voor ouderen die minder stabiel zijn. 
 
@@ -286,35 +272,35 @@ https://www.sciencedirect.com/science/article/pii/S0191886999000914
 
 ## Bijlagen
 
-templates: 
--	Pestel:
--	...
--	...
--	...
--	...
--	...
+Templates: 
+-	[Pestel](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/PESTEL_template.pdf?csf=1&web=1&e=REgUMT)
+-	[WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4)
+-	[User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB)
+-	[Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB)
+-	[Innovatrix](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/INNOVATRIX_template.pdf?csf=1&web=1&e=6s3CBK)
+-	[LOTUS](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/LOTUS_BLOEM_template.pdf?csf=1&web=1&e=3lhmXI)
 
-literatuurstudie:
--	Protocol
--	Raport
-  
+Literatuurstudie:
+-	[Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)
+-	[Research1](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research1_Rapport.pdf?csf=1&web=1&e=HAiX50)
+ 	[Research2](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research2_Rapport.pdf?csf=1&web=1&e=1YDNdJ)
+ 	[Research3](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research3_Rapport.pdf?csf=1&web=1&e=K6hXtP)
+ 	[Research4](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research4_Rapport.pdf?csf=1&web=1&e=KMOxsK)
 
 Intervieuws:
--	Protocol
--	Informed consent
--	Rapport
+-	[Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)
+-	[Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun)
+-	[Interview_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_Rapport.pdf?csf=1&web=1&e=gxyd6T)
 
 Benchmarks:
--	Protocol
--	Rapport
+-	[Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)
+-	[Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_Rapport.pdf?csf=1&web=1&e=VvSswk)
   
-
 Wave's:
 -	[Protocol wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa)
 -	[Protocol wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)
 -	[Informed consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/pdf%20informed%20consent%20wave%201%20en%202.pdf?csf=1&web=1&e=dfrrTi)
--	Raport wave 1:
--	Raport wave 2:
+-	[Rapport wave 1 & wave 2](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Rapport_Wave1_Wave2.pdf?csf=1&web=1&e=YTk6Dm)
 
 [storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK)
 
