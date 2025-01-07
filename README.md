@@ -151,7 +151,7 @@ In de gebruikerstesten zowel wave 1 als wave 2 werden op dezelfde dag afgelegd, 
 
 De werking van de mat werd door de meeste deelnemers herkend. Zonder uitgebreide uitleg begonnen zij zelfstandig de interactie aan te gaan met de opstelling. Vooral de cirkelvorm werd als aangenaamst ontvangen, omdat deze het meest herkenbaar en logisch aanvoelde in combinatie met de cijfers, denk aan een klok. Andere vormen zoals de rechthoek of vierkant waren minder positief.
 
-Een terugkomend probleem was de rollators. De matten bleken te groot te zijn voor onder een rollator te passen. Ook belemmerden deze rollators het zicht van de figuren op de matten. Een deelnemer met de rollator voerde de test volledig zittend uit, maar de bewegingsvrijheid beperkte verder. 
+Een terugkomend probleem was de rollators. De matten bleken te groot te zijn voor onder een rollator te passen. Ook belemmerden deze rollators het zicht van de figuren op de matten. Een deelnemer met de rollator voerde de test volledig zittend uit, waar de bewegingsvrijheid verder beperkte. 
 
 ![image](https://github.com/user-attachments/assets/b3689f0c-fdb9-4eb8-acac-c5eda0203ae0)
 
@@ -165,10 +165,6 @@ Een bijzondere uitvoering was deze van een deelnemer die fysiek fitter was, hij 
 ([storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK))
 
 ### Conclusies & implicaties
-
-De informatie van de uitgevoerde tests vormt de basis voor verder aanpassingen en optimalisaties van het product. Het concept zal verder worden ontwikkeld met verbeteringen in leesbaarheid, kleurgebruik en materiaalkeuze. En er wordt speciale aandacht besteed aan de compabiliteit met hulpmiddelen zoals rollators en wandelstokken.
-
-De tests zullen voortaan worden afgenomen bij zelfstandig wonende ouderen. Hierbij is rekening gehouden met obstakelvrije ontwerpen en knoppen zonder achterwaarts te moeten kijken om bediend te worden.
 
 Op basis van feedback wordt het concept verruimd naar gebruikers die hulpmiddelen zoals rollators of wandelstokken gebruiken. Tests zullen voortaan ook zelfstandig wonende ouderen omvatten. Hierbij is rekening gehouden met obstakelvrije ontwerpen en gebruiksvriendelijke knoppen die zonder achterwaarts kijken bediend kunnen worden.
 
@@ -184,9 +180,9 @@ De essentiële producteigenschappen die nu voorop gesteld zijn, zijn:
 
 Voor de bill of materials kan deze opgesplitst worden in 2 zaken: de hardware vereisten en de interacties van de interactieve mat.
 
-Als hardware vereisten is een standaard compacte projector die makkelijk aansluitbaar is op de computer of laptop noodzakelijk. Deze computer draait de benodigde software voor het spel en de  inputsignalen van de mat verwerkt. 
+Als hardware vereisten is een standaard compacte projector die makkelijk aansluitbaar is op de computer of laptop noodzakelijk. Deze computer draait de benodigde software voor het spel en de inputsignalen van de mat verwerkt. 
 
-De interactieve mat bevat componenten zoals druksensoren, drukknoppenmateriaal, waterdichte stof en stevig materiaal de belangrijkste.  De druksensoren worden geïntegreerd in de mat om input van de gebruikers te detecteren bij aanraking. Het materiaal van de drukknoppen wordt een zacht, flexibel medium dat comfortabel is om op te drukken, zowel met handen, voeten als eventuele hulpmiddelen zoals wandelstok of rollator. De stop die voor het omhulsel gebruikt wordt moet waterdicht en duurzaam zijn, zodat deze bestand is tegen morsen, vuil en vocht. Dit zal de interne elektronica beschermen tegen beschadiging. Ook moet de mat volledig uit stevige materialen bestaan die bestand is tegen het volledig gewicht van de gebruiker, inclusief eventuele belasting door hulpmiddelen zoals rollators.
+De interactieve mat bevat componenten zoals druksensoren, drukknoppenmateriaal, waterdichte stof en stevig materiaal, dit zijn de belangrijkste.  De druksensoren worden geïntegreerd in de mat om input van de gebruikers te detecteren bij aanraking. Het materiaal van de drukknoppen wordt een zacht, flexibel medium dat comfortabel is om op te drukken, zowel met handen, voeten als eventuele hulpmiddelen zoals wandelstok of rollator. De stop die voor het omhulsel gebruikt wordt moet waterdicht en duurzaam zijn, zodat deze bestand is tegen morsen, vuil en vocht. Dit zal de interne elektronica beschermen tegen beschadiging. Ook moet de mat volledig uit stevige materialen bestaan die bestand is tegen het volledig gewicht van de gebruiker, inclusief eventuele belasting door hulpmiddelen zoals rollators.
 
 ## Kritische reflectie
 
@@ -203,13 +199,12 @@ De zaken die op de planning staan voor volgend semester zijn de volgende:
 -	Vastelggen van materialen voor het prototype via een touch-and-feel board
 -	Afmetingen van het product afstellen op gestandaardiseerde maten.
 
-Er zullen volgend semester ook 2 belangrijke aandachtspunten zijn. De lichtsterkte van de spelprojectie zal in de ontwikkelfase grondig moeten worden getest met gebruikers die een beter of slechter zicht hebben. Dit omdat ouderen vaak een verminderd gezichtsvermogen ervaren, waardoor een goed zichtbare projectie cruciaal is voor gebruike van het product. Daarnaast wordt overwogen om gebruik te maken van geluidssignalen als feedbackmechanisme. Hierbij zal getest worden of dit ondersteunend werkt of juist een storende ervaring. Naast het zicht gaat ook het gehoor van onze doelgroep achteruit naarmate de tijd. Het geluid van de muziek en eventuele audiocomponenten moeten duidelijk en goed verstaanbaar zijn. Extra aandacht gaat daarbij uit naar dialectverschillen, aangezien veel van de participanten West-Vlaams spreken. 
+Er zullen volgend semester ook 2 belangrijke aandachtspunten zijn. De lichtsterkte van de spelprojectie zal in de ontwikkelfase grondig moeten worden getest met gebruikers die een beter of slechter zicht hebben. Dit omdat ouderen vaak een verminderd gezichtsvermogen ervaren, waardoor een goed zichtbare projectie cruciaal is voor gebruikte van het product. Daarnaast wordt overwogen om gebruik te maken van geluidssignalen als feedbackmechanisme. Hierbij zal getest worden of dit ondersteunend werkt of juist een storende ervaring. Naast het zicht gaat ook het gehoor van onze doelgroep achteruit naarmate de tijd. Het geluid van de muziek en eventuele audiocomponenten moeten duidelijk en goed verstaanbaar zijn. Extra aandacht gaat daarbij uit naar dialectverschillen, aangezien veel van de participanten West-Vlaams spreken. 
 
 De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse planning en taakverdeling. Wel werd duidelijk dat het huidige systeem, waarbij documenten en verslagen verspreid zijn over verschillende computers, zorgt voor een chaotisch overzicht. Dit vraagt voor een meer gestructureerde aanpak in semester 2. 
 
 
 ## Bronnen
-Voeg je volledige bibliografie toe van bronnen naarwaar je verwees.
 
 Literatuuronderzoek:
 
