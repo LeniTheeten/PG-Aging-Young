@@ -168,7 +168,7 @@ Een bijzondere uitvoering was deze van een deelnemer die fysiek fitter was, hij 
 
 Op basis van feedback wordt het concept verruimd naar gebruikers die hulpmiddelen zoals rollators of wandelstokken gebruiken. Tests zullen voortaan ook zelfstandig wonende ouderen omvatten. Hierbij is rekening gehouden met obstakelvrije ontwerpen en gebruiksvriendelijke knoppen die zonder achterwaarts kijken bediend kunnen worden.
 
-De essentiële producteigenschappen die nu voorop gesteld zijn, zijn:
+De essentiële producteigenschappen die nu voorop gesteld zijn:
 -	Fysieke beweging en cognitieve stimulatie moet worden gecombineerd
 -	Het concept moet eenvoudig toepasbaar zijn in een woonomgeving zonder grote aanpassingen
 -	Het ontwerp moet neutraal, volwassen ogen zoadat het niet kinderachtig oogt.
