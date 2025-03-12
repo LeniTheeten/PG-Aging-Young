@@ -18,100 +18,130 @@ Het uiteindelijke concept die we willen realiseren is een interactieve mat (met 
 
 
 ## Introductie
+
 In kader van het vak Project Gebruiksgericht Ontwerp en toepassing van het vak Gebruiksgericht Ontwerp, is de keuze gegeven uit drie challenges, de gekozen challenge voor dit project is Healthy Aging. Startende vanuit een bestaand concept, de Ronnie Gardiner Methode (RGM), wordt er gevraagd een nieuw concept te ontwikkelen of de RGM in een nieuw jasje te steken. Samengevat is de Ronnie Gardiner Methode een methode om mensen met ziektes zoals parkisons, revalidatie na hersenbloeding, etc… opnieuw in beweging te brengen terwijl er ook cognitieve uitdaging is. Het is een vrolijke, gestructureerde, multi-sensorische
 oefenmethode voor de hersenen, waarbij ritme en muziek worden ingezet om motoriek, spraak en cognitie te stimuleren. Dit zorgt ervoor dat mensen opnieuw mentaal fit worden. Het kan zowel alleen als in groep worden uitgevoerd.
 
-De bedoeling is om het concept in een nieuw jasje te steken of een nieuw concept te ontwikkelen, dit van toepassing voor gezonde ouderen. Aan de hand van smart product design. Voor het project is gekozen een nieuw concept te ontwikkelen. In de oplossing moeten zowel digitale als fysieke componenten aanwezig zijn. Het moet cognitief uitdagend zijn voor gezonde 65-plussers. Er zal ook rekening gehouden worden dat niet alle 65-plussers even fysiek zijn en dat de oplossing dus zitten en staand kan toegepast worden. Het sociaal contact met andere personen een invloed heeft op de mentale fitheid van mensen, het concept zou dus individueel toegepast worden maar ook eventueel met meerdere personen.
-
-Het concept bestaat uit een mat en een projectie. De mat is het fysieke gedeelte en wordt gebruikt voor bepaalde acties uit te voeren. De projectie is het digitaal gedeelte en toont de uit te voeren acties. De projectie kan zowel een muzikale activiteit zijn, als een spelletje zoals sudoku waarbij denkvermogen nodig is. Dit zullen we stapsgewijs ontwikkelen.
+De grote uitdaging bij dit project is 65-plussers mentaal en fysiek moeten worden gezond gehouden. De smart product design zorgt dat de interactie tussen gebruiker en het product moeiteloos verloopt. Het uiteindelijke concept zal zowel digitale als fysieke componenten bevatten. De mentale fitheid van ouderen kan worden beïnvloed door het sociaal contact met anderen, dit kan een invloed hebben voor het ontwerpen voor een enkel individu of een concept voor in groep.
+Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
+-	Veiligheid: De bewegingen mogen de fysieke mogelijkheden van de deelnemers niet overstijgen.
+-	Gebruiksvriendelijkheid: De instructies moeten helder en eenvoudig geformuleerd zijn.
+-	Intuïtief: De methodiek moet aansluiten bij muziekherkenning en natuurlijke bewegingen.
+-	Interactief: Het product moet deelnemers actief betrekken en hen stimuleren om te reageren op ritmische prikkels.
 
 
 ## Methodologie
 
 ![image](https://github.com/user-attachments/assets/f6b9e9de-82e3-4a7d-8c11-6fd9f5cc42a5)
 
-Doorheen het volledig proces van het project zal de Double Diamond methodologie toegepast worden. De stappen van het proces worden uitgezet op de tijdlijn. In de discovery fase wordt de vraag gesteld ‘Wat is het probleem?’. Er werd begonnen bij het kiezen van de challenge en het definiëren van probleem hierbij werd de PESTEL-analyse toegepast. In de discovery fase werd ook een literatuuronderzoek uitgevoerd. Dit aan de hand van een opgesteld protocol. Er werden vier onderzoeken uit gevoerd die elk iets anders bestudeerden hieruit werden dan telkens research rapporten gemaakt die conclusies maakten. Er werden voor de eerste keer ook interviews afgenomen met de doelgroep. Deze werden verwerkt aan de hand van protocollen, informed consents en rapporten waarna er opnieuw conclusies konden gemaakt worden. Uit deze resultaten werd een User-Model en Persona opgesteld worden. Uit de andere onderzoeken werd een WWWWH-model ook opgesteld. Tijdens deze onderzoeken door werd de ideegeneratie ook al van start gezet aan de hand van een sprint. Hier begon het ontwerpen en neerzetten van ideeën die een antwoord gaven op de onderzoeken. Daardoor werd ook nog een Innovatrix, Stakeholder mapping en Lotus template opgesteld. Nadat alle onderzoeken en interviews werden uitgevoerd werd er verder gewerkt aan een eerste concept die ook de conclusies implementeerde. Op het einde van de discovery fase werd er verwacht het eerste concept voor te leggen en te pitchen.
+Het gehele ontwerpproces van deze opdracht is vastgelegd met de double diamond methodologie. In de discovery fase wordt de vraag gesteld ‘Wat is het probleem?’.Om wat meer in de diepte te gaan over de RGM methode werd er een literatuurstudie uitgevoerd. Hierin werden zaken in verband met de RGM methode en cognitieve bevordering van het menselijk brein onderzocht. Uit de intevieuws met de gebruikers kwam er een duidelijk beeld van overeenkomsten waarop een persona en user model werdt gebaseerd. Doorheen de onderzoeken werdt een WWWWH-model opgesteld. In deze eerste fase werdt in een sprint dag aan een eerste ideegeneratie gedaan. 
 
-Na de discovery fase werd er over gegaan naar de definition fase. Hier werd de vraag gesteld ‘Wat is de oplossing?’. Het begon met een sprint dag, met het maken van een eerste prototype en concept sketches die dan gepitcht werden aan de klasgenoten. Door het eerste prototype werd al snel opgemerkt dat een benchmark onderzoek wel nodig is. Daarom werd even teruggegrepen naar de discovery fase voor een benchmarkt onderzoek dit in dezelfde stappen zoals het literatuuronderzoek en interviews. Ondertussen werd van start gegaan met het opstellen van het storyboard voor een eerste validatie bij de doelgroep. Daarna ook het opstellen van de eerste gebruikerstest wave en het testen ervan aan de hand van protocol, prototypes, rapportering en conclusie. Verder werd op dezelfde wijze te werk gegaan voor een tweede gebruikerstest wave te doorlopen. Uit de wave’s komen de conclusies voor het eerste semester en wordt opnieuw het concept voorgesteld.
+Het verder werken van de kern van het probleem werdt gedaan in de definition fase. In de defenition is de vraag “Wat is de oplossing?” essentieel.Eerste prototypes en concept sketches werden gemaakt om te pitchen aan klasgenoten. Ook vroegtijdig gebruikerstesten werden afgelegd om zo feedback te krijgen van het doelpubliek. De feedback van de gebruikers was essentieel om inzicht te krijgen in de noden die zullen worden aangepakt door toepassen van de RGM methode in een product. Uit elk onderzoek werden design requirements opgesteld die het finaal concept laten voldoen aan de noden van de gebruikers. 
 
 ![image](https://github.com/user-attachments/assets/4e29b6cf-4c96-437e-8fac-ce9fd3a5186e)
 
 ## Discovery (N = 3)
 
-### Doestellingen
 In de discovery wordt een duidelijke probleemstelling gedefinieerd. Er wordt onderzocht welke oplossingen er kunnen zijn voor de problemen of welke verbeteringen kunnen gedaan worden. Dit aan de hand van ideegeneratie, literatuuronderzoek en interviews wordt er een product gegenereerd voor gezonde ouderen die cognitief en motoriek stimuleert.
+
+### Doestellingen
 
 ![image](https://github.com/user-attachments/assets/98929917-63f9-4f11-8798-e4f4e25cf00b)
 
 De probleemstelling:
+
 Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plussers, vereist een aanpak die zowel cognitieve stimulatie als fysieke en mentale activiteit bevordert. Het is het ontwikkelen van een nieuw, digitaal en fysieke ondersteunde methode die zowel muzikale als actieve elementen combineert, en dit mogelijk voor een gezonde 65-plussers.
 
 ### Materiaal & methoden
-Vanuit de Definition template kon een ‘How can/might we?’ worden opgesteld. Hierdoor werden er verschillende onderzoeksmethoden toegepast en zorgde ervoor dat er een duidelijke probleemstelling werd geformuleerd. Het zorgde ervoor dat de onderzoeken werden uitgevoerd in de juiste volgorde. Achter het volledig opstellen van de template maar voordat de ‘How can/might we?’ werd opgesteld, werd nog een WWWWH-model toegepast.
 
-Één van de toegepaste onderzoeksmethoden was een literatuuronderzoek. Hiervoor werd één protocol ([Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)) opgesteld voor de verschillende onderzoeken. Telkens werd opnieuw gevraagd waar het werd opgezocht, welke sleutelwoorden en zoektermen er werden gebruikt. Verder is telkens ook de bronnen van informatie bijgehouden. Na het onderzoeken van de bronnen werd een rapportering gedaan en een conclusie. In de onderzoeken werden deze vragen onderzocht: 
+Om een gestructureerde en onderbouwde probleemstelling te formuleren, werd gebruik gemaakt van de Definition Template, waarmee een “How might we? “- vraag werd opgesteld. Voorafgaande hieraan werdt het WWWWH-model toegepast om de onderzoeksvraag te verfijnen.
 
--	Hoe werkt de RGM-methode? (Research 1)
--	Wat doet muziek met het menselijk brein en lichaam? (Research 2)
--	Wat zijn cognitieve functies of vaardigheden? (Research 3)
--	Wat kan er allemaal voor zorgen dat healthy aging wordt bevorderd? (Research 4)
+Allereerst werd een literatuurstudie ([Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)) uitgevoerd aan de hand van een onderzoeksprotocol waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
+De centrale onderzoeksvragen waren:
+1. Hoe werkt de RGM-methode?
+2. Wat doet muziek met het menselijk brein en lichaam?
+3. Wat zijn cognitieve functies of vaardigheden?
+4. Hoe kan healthy aging worden bevorderd?
 
-In Research één werd PESTEL analyse toegepast zodat er een duidelijkheid kwam over de impact van de RGM-methode.
+Om kwalitatieve inzichten te verkrijgen, werden intervieuws([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen.Voorafgaande aan elk interview werd een [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun) ondertekend. Uit de inzichten van de intervieuws werd een persona en [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & [Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) opgesteld.
 
-Tweede manier van onderzoeken was via interviews. Hierbij werd ook een protocol ([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) opgesteld, rapportering gemaakt en conclusies gevormd. Er werd vooral gepeild naar mening over onderwerpen zoals de RGM-methode. Ook werd gevraagd naar hoe hun dagelijkse routine eruitziet. Voordat de interviews werden afgenomen werd een informed consent ondertekend ([Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun)). Bij de conclusies kwamen het User-model en Persona van pas.
 
-Voor de ideegeneratie werd een sprint dag gedaan waarbij er schetsen en ideeën genereerd werden maar ook verschillende templates toegepast zodat er gemakkelijk ideeën werden gecreëerd en duidelijke informatie. De toegepaste templates zijn: Innovatrix, Lotus.
+In de sprintdag begon de ideegeneratiefase waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de innovatrix (om de graad van innovatie te bepalen) en de lotus ( om de brainstormsessie te structureren).
 
-Tijdens de Definition fase werd even teruggekeerd naar de Discovery fase zodat er een Benchmarking onderzoek werd uitgevoerd voor het concept. Hier werd opnieuw protocol ([Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)), rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en kunnen toegepast worden.
+In de definition fase werdt het belang van een Benchmarkstudie ([Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)) duidelijk, waardoor er een benchmarkonderzoek werdt uitgevoerd. Dit hielp bestaande oplossingen te identificeren en het duidelijk maken van de sterktes en zwaktes van elk bestaand product. Om een onderbouwd en gebruiksgericht concept te bekomen werden de sterktes ervan gecombineerd.
+
 
 ### Resultaten
-De probleemstelling werd eerder al vermeld bij de doelstellingen.
 
-Uit research 1 is af te leiden dat met het werken van muziek met daarbij beweging en kleuren te verbinden effectief helpt voor mensen motoriek en cognitief te stimuleren. Dit zorgt nieuwe verbindingen in de hersenen, en blijven mensen mentaal en fysiek langer jong. In de oplossing zou een combinatie van beweging, coördinatie en muziek dus een meer waarde zijn. Er werd een PESTEL template opgesteld over de RGM-methode. ([Pestel](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/PESTEL_template.pdf?csf=1&web=1&e=REgUMT) & [Research1](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research1_Rapport.pdf?csf=1&web=1&e=HAiX50))
+Uit de resultaten van de verschillende onderzoeken werden design requirements opgesteld, deze vormen een basis voor het uiteindelijk concept.
 
-Uit research 2 blijkt dat muziek een diepgaande invloed op mentale en fysieke welzijn. Het geeft een gezond effect op je emoties en zorgt voor een beter gemoed. Het leren van muziek zorgt voor motorische vaardigheden. Het gebruiken van muziek in de oplossing zou helpen op vlak van gezond welzijn en het ontwikkelen van vaardigheden. ([Research2](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research2_Rapport.pdf?csf=1&web=1&e=1YDNdJ))
+In researchen van het literatuur onderzoekt blijkt dat een combinatie van muziek, beweging en kleur bijdraagt tot een fysieke en cognitieve stimulatie. Deze bevordert nieuwe verbindingen in de hersenen en helpt bij het behouden van het welzijn van de gebruikers. Daarbij heeft muziek een positief effect op emoties en motorische vaardigheden.
 
-Uit research 3 zijn cognitieve functies zoals aandacht, geheugen, taal en executieve functies essentieel voor het verwerken van informatie en om effectief te functioneren in het dagelijks leven. Kleine brainspelletjes hebben niet genoeg inspanning voor cognitief uitdagend te zijn. In de oplossing zou een spel kunnen zitten maar wel met uitdaging genoeg. ([Research3](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research3_Rapport.pdf?csf=1&web=1&e=K6hXtP))
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.1 De oplossing moet muziek, beweging en coördinatie combineren.
+> - D1.2 De activiteit moet bijdragen aan zowel fysieke als cognitieve stimulatie.
+> - D1.3 Muziek moet op een intuïtieve manier geïntegreerd worden.
 
-Uit research 4 komt voor dat de context waarin mensen leven beïnvloedden kan zijn voor het gezond verouderen. Zoals het stressmanagement, de sociale contacten en levenskwaliteit zijn belangrijke aspecten. In de oplossing kan bijvoorbeeld dat het door meerdere personen kan worden gebruikt. ([Research4](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research4_Rapport.pdf?csf=1&web=1&e=KMOxsK))
+Cognitieve functies zoals geheugen en aandacht zijn essentieel voor de 65+ers om dagelijks te functioneren. Kleine brein games bieden vaak onvoldoende uitdagingen.
 
-Op het einde van de onderzoeken werd een WWWWH-model opgesteld. ([WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4))
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.4 De oplossing moet cognitief uitdagend genoeg zijn en niet te eenvoudig.
+> - D1.5 Het concept moet meerdere cognitieve functies tegelijk aanspreken (zoals geheugen en reactievermogen).
+
+Stressmanagement, levenskwaliteit en sociale interactie beïnvloed het gezond ouder worden, sociaal contact / een sociaal component kan bijdragen aan betere hechtvastheid van de ouderen om het concept te gaan toepassen.
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.6 Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen zich er comfortabel bij voelen.
+
+Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
 
 ![image](https://github.com/user-attachments/assets/2abd9b14-ba42-4f3c-8164-35650cb89cd3)
 
-Uit de interviews hebben we een duidelijk beeld gekregen van de kenmerken van de doelgroep en waar ze niet of wel mee akkoord zijn. Zo mag de oplossing met muziek zijn en bewegen maar wel allemaal in beperkte mate. Er werd een User-Model en Persona opgesteld. ([User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & [Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & [Interview_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_Rapport.pdf?csf=1&web=1&e=gxyd6T))
+Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voor een activiteit met muziek en beweging, maar in beperkte mate. De voorkeur gaat uit naar oefeningen die in de ochtend of voormiddag plaatsvinden omdat de namiddag een vaste routine heeft meestal. Voor onze doelgroep is een eenvoudige en duidelijke interface belangrijk door bijvoorbeeld zaken als gehoor- en zichtverlies. De populairste sociale en cognitieve spellen bij de ouderen zijn kaarten, Sudoku en Rummikub.
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.7 De oplossing moet eenvoudig en laagdrempelig zijn, zonder ingewikkelde instructies.
+> - D1.8 Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.
+
 
 “Als ik het zou toepassen dan zou ik het toepassen in de ochtend juist na het ontbijt”
 
 ![image](https://github.com/user-attachments/assets/88c4c258-0ef8-496f-a0fe-5860ab27f530)
 
-Uit de sprint dag en ideegeneratie kwamen deze ideeën naar voren:
+
+De eerste concepten uit de sprint day bevatten telkens een combinatie van beweging en muziek.
 
 ![image](https://github.com/user-attachments/assets/9ed05846-611a-4cf7-97a9-43c0b9107f66)
 ![image](https://github.com/user-attachments/assets/f9561c28-b33c-4f50-a1a2-5827e9cfc0b2)
 ![image](https://github.com/user-attachments/assets/f35eba01-3943-40ee-897d-7012dccbe9bf)
 ![image](https://github.com/user-attachments/assets/8d28875f-13e5-4319-83a9-6416f381ffc2)
 
-Tijdens de ideegeneratie werden verschillende ontwerp templates ingevuld voor het proces gemakkelijker te maken ([Innovatrix](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/INNOVATRIX_template.pdf?csf=1&web=1&e=6s3CBK) & [LOTUS](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/LOTUS_BLOEM_template.pdf?csf=1&web=1&e=3lhmXI)) . In de concepten is altijd een combinatie van beweging en muziek aanwezig.
+Uit de intervieuws werd geen referentieproduct aangehaald, hiervoor is er daarom een vergelijking gemaakt tussen tal van bestaande interactieve producten zoals dansmatten, Nintendo Wii en andere interactieve systemen. Dit niet specifiek gericht op onze doelgroep maar wel gequoteerd op vaardigheden en implementatie bij ouderen. Daardoor bleek ook dat Veel van de producten te intensief zijn of niet aangepast zijn voor het gebruik door ouderen. In die zake is er ook ruimte voor verbetering op gebied van gebruiksvriendelijkheid en aanpasbaarheid zoals bijvoorbeeld evenwichtsondersteuning voor de 65 plussers. Belangrijk in de bestaande producten zijn de functionaliteiten zoals aanpasbaar geluid, variabele moeilijkheidsgraden en antislip van matten op de ondergrond.
 
-Later werd nog even teruggegrepen naar de Discovery fase voor een benchmarkt onderzoek ([Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_Rapport.pdf?csf=1&web=1&e=VvSswk)). Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
+> [!IMPORTANT]
+> Design Requirements:
+> - D1.9 De oplossing moet een instelbaar niveaus hebben.
+> - D1.10 Een antislip-oppervlak is essentieel om veiligheid te garanderen.
+> - D1.11 Het concept moet makkelijk op te bergen zijn.
+> - D1.12 De interface mag geen gebruik maken van complexe instructies.
 
--	Er bestaan interactieve matten en digitale producten zoals de Nintendo Wii en dance machines, maar deze zijn vaak te intensief voor onze doelgroep.
--	Toepassen in ons ontwerp: aanpasbaar geluid, antislip, variatie in mogelijkheden, opvouwbaarheid en gebruik voor meerdere personen.
--	De matten: kleurrijk, vierkant of rechthoekig, aangepast aan kinderen. Ontwerp varieert afhankelijk van het gebruik als instrument- of dansmat.
 
 ### Conclusies & implicaties
 
-Uit de onderzoeken zijn dit de belangrijkste designbeslissingen voor verder te gaan naar de Definition fase zijn:
+De belangrijkste designbeslissingen uit de defenition fase, door de inzichten van de verschillende onderzoeken te combineren, zijn: 
+-	De toegankelijkheid voor ouderen boven de 65 jaar, zodanig dat het product geschikt en intuïtief is.
+-	Gezondheidsbevorderende elementen zoals muziek, beweging en sociale interactie die helpen bij de mentale gezondheid en hiermee de kern vormen van de oplossing.
+-	De combnatie van muziek en beweging die op een interactieve manier cognitieve en fysieke stimulatie ondersteunt, verwerkt in een spelvorm.
+-	Gebruiksvriendelijkheid: de doelgroep moet vlot en zonder veel uitleg met het product kunnen werken.
+-	Visuele ondersteuning zoals kleuren figuren en vershillende symbolen. 
 
--	Mensen ouder dan 65 jaar moeten het product kunnen gebruiken
--	Muziek, beweging, sociale interactie, cognitieve oefeningen zijn zeer goed voor de mentale gezondheid.
--	De oplossing is een combinatie van muziek en beweging, eventueel een spel.
--	De doelgroep moet vlot met het product kunnen werken. De bewegingen mogen niet te intensief zijn. De oplossing mag wel uitdaging geven.
--	In het ontwerp mogen kleuren, figuren en verschillende soorten symbolen gebruikt worden.
--	In de oplossing mag er een variatie aan mogelijke uitdagingen zijn.
+Het voorlopig concept is een interactieve mat met een projectie van een instrument of spel, dit concept combineert beweging met een visuele ervaring. Dit zal in de Defenition fase verder onderzocht worden door middel van tests.
 
-Het voorlopig gekozen concept uit de ideegeneratie is een mat met dan een projectie van een instrument/spel. Op dit concept zal verder gewerkt worden in de Definition fase.
+
 
 ## Definition (N = 5)
 
