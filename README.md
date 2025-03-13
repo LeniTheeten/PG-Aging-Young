@@ -173,7 +173,7 @@ De **_tweede test_** volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.
 
 ![image](https://github.com/user-attachments/assets/a58d7464-7b49-4c86-aaee-7615686d1629)  ![image](https://github.com/user-attachments/assets/213b946b-3a56-45d0-b929-2008bcab1ad3)
 
-Er werd een **_benchmarking-** onderzoek uitgevoerd voor het concept. Hier werd opnieuw ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)), rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
+Er werd een **_benchmarking_** onderzoek uitgevoerd voor het concept. Hier werd opnieuw ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)), rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
 
 ### Resultaten
 
