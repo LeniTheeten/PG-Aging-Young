@@ -169,11 +169,11 @@ De testen volgden een methodische aanpak: Leni observeerde en noteerde de natuur
 
 Voor de **_eerste test_** werd een([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa))opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.. 
 
-De tweede test volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.
+De **_tweede test_** volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.
 
 ![image](https://github.com/user-attachments/assets/a58d7464-7b49-4c86-aaee-7615686d1629)  ![image](https://github.com/user-attachments/assets/213b946b-3a56-45d0-b929-2008bcab1ad3)
 
-Er werd een Benchmarking onderzoek uitgevoerd voor het concept. Hier werd opnieuw ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)), rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
+Er werd een **_benchmarking-** onderzoek uitgevoerd voor het concept. Hier werd opnieuw ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)), rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
 
 ### Resultaten
 
@@ -188,10 +188,10 @@ In de gebruikerstesten zowel **_wave 1_** als **_wave 2_** werden op dezelfde da
 
 ([wave1_resultaten](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERRFWS9-bCxKi_x_W7haszcBp11-S-wy_OMZbQtCtLh6Lg?e=spmyJ9)) & ([wave2_resultaten](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Edp2z4fMv7RIjM0WtIWSaRcBYyjB8X5Bx9Ilxk6zJUd_Wg?e=Rhwbat))
 
-![image](https://github.com/user-attachments/assets/623310bf-0068-4456-aebd-882eaec7587f)
-
 Er werd een **_storyboard_** opgesteld om het concept verder te valideren bij de gebruikers. De gebruikers begrepen het storyboard goed, maar gaven direct aan dat ruimtegebrek een aandachtspunt is.
 ([storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK))
+
+![image](https://github.com/user-attachments/assets/623310bf-0068-4456-aebd-882eaec7587f)
 
 > [!IMPORTANT]
 > Design Requirements:
