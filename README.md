@@ -206,7 +206,7 @@ Er werd een **_storyboard_** opgesteld om het concept verder te valideren bij de
 > - D2.9 De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.
 > - 2.10 Struikelgevaar moet vermeden worden.
 
-Ook werden nog even de bestaande benchmarks bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
+Ook werden nog even de bestaande benchmarks (([rapport_benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=5866hT))) bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
 - Interactieve matten en digitale producten zoals de Nintendo Wii zijn vaak te intensief voor onze doelgroep.
 - Matten zijn kleurrijk, vierkant of rechthoekig, en aangepast aan kinderen, met variërend ontwerp voor instrument- of dansgebruik.
 - Ook deze design requirements kwamen naar voren:
@@ -344,11 +344,12 @@ Wave's:
 -	[Protocol wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa)
 -	[Protocol wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)
 -	[Informed consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/pdf%20informed%20consent%20wave%201%20en%202.pdf?csf=1&web=1&e=dfrrTi)
--	[Rapport wave 1 & wave 2](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Rapport_Wave1_Wave2.pdf?csf=1&web=1&e=YTk6Dm)
+- [Rapport wave 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERRFWS9-bCxKi_x_W7haszcBp11-S-wy_OMZbQtCtLh6Lg?e=spmyJ9)
+- [Rapport wave 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Edp2z4fMv7RIjM0WtIWSaRcBYyjB8X5Bx9Ilxk6zJUd_Wg?e=Rhwbat)
 
 Benchmarks:
--	[Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)
--	[Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_Rapport.pdf?csf=1&web=1&e=VvSswk)
+-	[Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)
+-	[Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=5866hT)
 
 [storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK)
 
