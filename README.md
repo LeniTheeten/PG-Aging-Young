@@ -8,11 +8,11 @@
 
 ## Samenvatting
 
-In onze huidige samenleving groeit de aandacht voor zowel mentale fitheid en fysieke gezondheid. Een versterkend effect is door onderzoek gevonden, wanneer men cognitieve en fysieke uitdagingen combineert. Een veelbelovende methode is de Ronnie Gardiner Methode. Deze maakt gebruik van ritme en muziek om motoriek, spraak en cognitieve functies te verbeteren. Door meerdere hersengebieden tegelijkertijd te activeren wordt de gehele hersenconditie verbeterd. 
+In onze huidige samenleving groeit de aandacht voor zowel mentale fitheid en fysieke gezondheid. Onderzoek heeft aangetoond dat het combineren van cognitieve en fysieke uitdagingen een versterkend effect heeft. Een veelbelovende methode is de **_Ronnie Gardiner Methode (RGM)_**. Deze maakt gebruik van ritme en muziek om motoriek, spraak en cognitieve functies te verbeteren. Door meerdere hersengebieden tegelijkertijd te activeren wordt de gehele hersenconditie verbeterd. 
 
-Om dit concept te ontwikkelen hebben we eerst deskresearch gedaan naar de Ronnie Gardiner Methode. Vervolgens om een eerste concept op te stellen, intervieuws afgenomen. Daarna zijn meerdere user-tests uitgevoerd om te evalueren of het concept technisch haalbaar is om het product te gaan realiseren en te zien of het concept eenvoudig genoeg is voor de ouderen om het te gaan begrijpen.
+Om dit concept te vernieuwen werd eerst deskresearch gedaan naar de RGM. Vervolgens om een eerste concept op te stellen werden interviews afgenomen. Daarna zijn meerdere user-tests uitgevoerd om te evalueren of het concept technisch haalbaar is om het product te gaan realiseren en te zien of het concept eenvoudig genoeg is voor de ouderen om het te begrijpen.
 
-Het uiteindelijke concept die we willen realiseren is een interactieve mat (met nog een onbepaalde vorm) in combinatie met een losse spelprojectie. De werking splitst zich op in het stimuleren van de fysieke beweging doordat ouderen zich over de mat moeten bewegen om de juiste knoppen te gaan gebruiken en cognitieve verrijking die ontstaat doordat de gebruikers tijdens het spel goed moeten nadenken.
+Het uiteindelijke concept is een **_interactieve mat_** waarmee de mensen in beweging komen en tegelijkertijd genieten van een muziek naar keuze. Tijdens het gebruik wordt de mat op de grond gelegd en geeft deze aanwijzingen waar de gebruiker zijn of haar voet moet plaatsen. Hierdoor creëren de spelers zelf muziek. Aan het einde van het spel horen ze het volledige liedje, mits het correct is uitgevoerd. De werking zorgt voor het stimuleren van de **_fysieke beweging_** doordat ouderen zich over de mat moeten bewegen om de juiste knoppen te gaan gebruiken en **_cognitieve verrijking_** die ontstaat doordat de gebruikers tijdens het spel goed moeten nadenken. 
 
 ![image](https://github.com/user-attachments/assets/2778c2cb-1524-4dfe-b493-660d175b26a0)
 
@@ -46,11 +46,11 @@ In de discovery wordt een duidelijke probleemstelling gedefinieerd. Er wordt ond
 
 ### Doestellingen
 
-![image](https://github.com/user-attachments/assets/98929917-63f9-4f11-8798-e4f4e25cf00b)
-
 De probleemstelling:
 
 Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plussers, vereist een aanpak die zowel cognitieve stimulatie als fysieke en mentale activiteit bevordert. Het is het ontwikkelen van een nieuw, digitaal en fysieke ondersteunde methode die zowel muzikale als actieve elementen combineert, en dit mogelijk voor een gezonde 65-plussers.
+
+![Ideegeneratie](https://github.com/user-attachments/assets/e1c290d8-a3cf-495a-b57d-cf64afa9652f)
 
 ### Materiaal & methoden
 
@@ -120,15 +120,6 @@ De eerste concepten uit de sprint day bevatten telkens een combinatie van bewegi
 ![image](https://github.com/user-attachments/assets/f35eba01-3943-40ee-897d-7012dccbe9bf)
 ![image](https://github.com/user-attachments/assets/8d28875f-13e5-4319-83a9-6416f381ffc2)
 
-Uit de intervieuws werd geen referentieproduct aangehaald, hiervoor is er daarom een vergelijking gemaakt tussen tal van bestaande interactieve producten zoals dansmatten, Nintendo Wii en andere interactieve systemen. Dit niet specifiek gericht op onze doelgroep maar wel gequoteerd op vaardigheden en implementatie bij ouderen. Daardoor bleek ook dat Veel van de producten te intensief zijn of niet aangepast zijn voor het gebruik door ouderen. In die zake is er ook ruimte voor verbetering op gebied van gebruiksvriendelijkheid en aanpasbaarheid zoals bijvoorbeeld evenwichtsondersteuning voor de 65 plussers. Belangrijk in de bestaande producten zijn de functionaliteiten zoals aanpasbaar geluid, variabele moeilijkheidsgraden en antislip van matten op de ondergrond.
-
-> [!IMPORTANT]
-> Design Requirements:
-> - D1.9 De oplossing moet een instelbaar niveaus hebben.
-> - D1.10 Een antislip-oppervlak is essentieel om veiligheid te garanderen.
-> - D1.11 Het concept moet makkelijk op te bergen zijn.
-> - D1.12 De interface mag geen gebruik maken van complexe instructies.
-
 
 ### Conclusies & implicaties
 
@@ -145,15 +136,15 @@ Het voorlopig concept is een interactieve mat met een projectie van een instrume
 
 ## Definition (N = 5)
 
-Het grootste probleem is dat ouderen te vaak onvoldoende gestimuleerd worden om mentaal en fysiek actief te blijven. Dit kan leiden tot het slechter worden van mobiliteit, cognitieve scherpte en sociale interactie. Het probleem en doel kan worden samengevat worden in een “How-can-we”: ‘Hoe kunnen we technologie inzetten om fysieke en cognitieve stimulatie voor ouderen aantrekkelijker en toegankelijker te maken ?’
+Ouderen worden vaak onvoldoende gestimuleerd om mentaal en fysiek actief te blijven, wat mobiliteit, cognitieve scherpte en sociale interactie kan verslechteren. De centrale vraag luidt: Hoe kan technologie fysieke en cognitieve stimulatie voor ouderen aantrekkelijker en toegankelijker maken?
 
 ### Doestellingen
 
 ![image](https://github.com/user-attachments/assets/3a0f4918-cad6-44dd-9488-53fcc511e1d3)  ![image](https://github.com/user-attachments/assets/82058791-4d5a-4547-8f6e-4e311401fc53)  ![image](https://github.com/user-attachments/assets/c2939e07-e5fb-44cd-bbe1-d8d5b444549f)
 
-De doelstelling was het valideren of deze oplossing intuïtief begrijpelijk is voor gebruikers en het uitvoeren van eerste testen om het concept te valideren en verder vorm te geven.  
-
-Bij de eerste gebruikerstest lag de focus op: vorm van mat die beste bewegingsvrijheid geeft en of participanten de werking begrijpen. De focus bij de tweede gebruikerstesten lag dan weer op de tekens & symbolen en type knop de doelgroep het aangenaamst vond. 
+De doelstelling was het valideren of deze oplossing intuïtief begrijpelijk is voor gebruikers en het uitvoeren van eerste testen om het concept te valideren en verder vorm te geven.      
+- **_Eerste gebruikerstest_**: focus op de vorm van mat die beste bewegingsvrijheid geeft en of dat de participanten de werking begrijpen. 
+- **_Tweede gebruikerstest_**: lag dan weer de focus op de tekens & symbolen en type knop de doelgroep het aangenaamst vond. 
 
 ![image](https://github.com/user-attachments/assets/fced84bf-3706-4998-9481-8064708b0caf)  ![image](https://github.com/user-attachments/assets/2f1a9ff0-f571-4e8b-aef4-8586577af250)
 
@@ -161,50 +152,78 @@ Beide tests werden uitgevoerd in het rusthuis in Alveringem, met ouderen die men
 
 ### Materiaal & methoden
 
-Het onderzoek werd in 2 waves uitgevoerd, hierbij werd gebruik gemaakt van een combinatie van sensorial boards: verschillende texturen, materialen en drkgevoelige knoppen; kartonnen prototypes: simulaties van de mat met verschillende layouts en digitale interfaces: een figma template werdt voorbereid op de laptop om te spelinteractie te simuleren. Deze verschillende prototypes werden ontwikkeld en getest om on bruikbaarheid en ontwerp inzicht te krijgen. De testen zelf vonden plaats op 8 december.
+Het onderzoek werd in 2 waves uitgevoerd, hierbij werd gebruik gemaakt van een combinatie van:
+- Sensorial boards: verschillende texturen, materialen en drukgevoelige knoppen
+- Kartonnen prototypes: simulaties van de mat met verschillende lay-outs
+- Digitale interfaces: een Figma template werd voorbereid op de laptop om te spelinteractie te simuleren.
+
+Deze verschillende prototypes werden ontwikkeld en getest om onbruikbaarheid en ontwerp inzicht te krijgen. De testen zelf vonden plaats op 8 december.
 
 De gebruikte materialen zijn opgedeeld in gebruik: 
 -	Voor snelle aanpassing aan de matopstelling: plakband en karton
+-	Muzikale begeleiding en spelprojectie: laptopscherm met interne speaker
 -	Leesbaarheid testen: afgedrukte piano lay-outs
 -	Beoordelen van comfort en gebruiksgemak: plastic, wol, mouse, karton, plakband
--	Muzikale begeleiding en spelprojectie: laptopscherm met interne speaker
 
-De methodologie kreeg volgende aanpak. Een observator observeerde en noteerde de natuurlijke interactie met het product, in dit geval was dit Leni. De testleider was Amber, zij voerde tests uit en stelde vragen om inzichten te verzamelen via het “think aloud protocol”. En als laatste nog multimediagebruik, foto’s en video’s werden (met toestemming) vastgelegd voor latere analyse.
+De testen volgden een methodische aanpak: Leni observeerde en noteerde de natuurlijke interactie met het product, terwijl Amber als testleider vragen stelde en inzichten verzamelde via het "think aloud protocol". Daarnaast werden, met toestemming, foto’s en video’s vastgelegd voor verdere analyse.
 
-Voor de eerste test was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden ([wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa)). Test 2 ging over de lay-out voorkeuren, de verschillende matvormen werden in een random volgorde getest. De deelnemers beoordeelden elke lay-out op comfort en gebruiksvriendelijkheid nadien. Een laatste test was de leesbaarheid en de knoppen. Knoppen werden met zowel de hand, en voet getest op comfort. Ook werden de symbolen en letters op de afgedrukte piano’s geëvalueerd op duidelijkheid ([[wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)]).
+Voor de **_eerste test_** werd een([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa))opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.. 
+
+De tweede test volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.
 
 ![image](https://github.com/user-attachments/assets/a58d7464-7b49-4c86-aaee-7615686d1629)  ![image](https://github.com/user-attachments/assets/213b946b-3a56-45d0-b929-2008bcab1ad3)
 
+Er werd een Benchmarking onderzoek uitgevoerd voor het concept. Hier werd opnieuw ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)), rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
+
 ### Resultaten
 
-In de gebruikerstesten zowel wave 1 als wave 2 werden op dezelfde dag afgelegd, onder begeleiding van Theeten Leni en Barra Amber. Alle deelnemers ondertekenden het informed consent met nog extra toestemming van een van de hoofdverplegers. De resultaten tonen herhaaldelijke inzichten en benadrukken zowel positieve aspecten als verbeterpunten van het concept.
+In de gebruikerstesten zowel **_wave 1_** als **_wave 2_** werden op dezelfde dag afgelegd, onder begeleiding van Theeten Leni en Barra Amber. Alle deelnemers ondertekenden het **_informed consent_** met nog extra toestemming van een van de hoofdverplegers. De resultaten tonen herhaaldelijke inzichten en benadrukken zowel positieve aspecten als verbeterpunten van het concept.
 
-De werking van de mat werd door de meeste deelnemers herkend. Zonder uitgebreide uitleg begonnen zij zelfstandig de interactie aan te gaan met de opstelling. Vooral de cirkelvorm werd als aangenaamst ontvangen, omdat deze het meest herkenbaar en logisch aanvoelde in combinatie met de cijfers, denk aan een klok. Andere vormen zoals de rechthoek of vierkant waren minder positief.
+| Onderzocht | Resultaat | Extra feedback |                  
+| --- | --- | --- |
+| 'Intuïtief gebruik' | De meeste deelnemers herkenden de mat direct en begonnen zonder uitgebreide uitleg zelfstandig met de interactie. | Een fysiek fitte deelnemer benaderde de mat op een unieke manier door deze met zijn voet te draaien in plaats van zelf te bewegen. |
+| 'Bewegingsvrijheid' | De cirkelvorm werd als aangenaamst ontvangen, omdat deze het meest herkenbaar en logisch aanvoelde in combinatie met de cijfers, denk aan een klok. Andere vormen zoals de rechthoek of vierkant werden als minder aangenaam of te groot gezien. | Rollators vormden een probleem: de matten pasten er niet onder en het zicht op de figuren werd belemmerd. ![image](https://github.com/user-attachments/assets/b3689f0c-fdb9-4eb8-acac-c5eda0203ae0) |
+| 'Gebruik symbolen & groottes' | Door onvoldoende kleurcontrast waren figuren en symbolen lastig te herkennen. Ouderen gaven aan dat kleurgebruik de zichtbaarheid zou verbeteren. Bij de piano-opstelling werden hoofdletters als duidelijker ervaren, ondanks hun gelijke grootte met andere tekens. | / |
+| 'Knop zacht of hard' | De zachtere knoppen werden verkozen vanwege het hogere comfort, vooral voor mensen met beperkte kracht in handen en voeten. | De uitstekende harde knoppen werden als een struikelgevaar ervaren, vooral door ouderen met een verminderde stabiliteit. |
 
-Een terugkomend probleem was de rollators. De matten bleken te groot te zijn voor onder een rollator te passen. Ook belemmerden deze rollators het zicht van de figuren op de matten. Een deelnemer met de rollator voerde de test volledig zittend uit, waar de bewegingsvrijheid verder beperkte. 
-
-![image](https://github.com/user-attachments/assets/b3689f0c-fdb9-4eb8-acac-c5eda0203ae0)
-
-Door gebrek aan kleurencontrast werden de figuren en symbolen vaak moeilijker herkend. De meeste ouderen gaven aan dat we met kleur moeten werken om visuele onderscheiding duidelijker te maken. Bij de leesbaarheid van de piano-opstelling werden de hoofdletters consistent verkozen. “De hoofdletters zijn het grootst, tuurlijk dat deze beter leesbaar zijn”. Dit was echter niet het geval alle symbolen en cijfers werden in hoogte en breedte op gelijke maten geplaatst.
-
-De voorkeur van knoppen gingen uit naar deze die zachter was. Deze werd als comfortabeler ervaren, vooral door mensen met beperkte kracht in handen en voeten. Daarnaast werd opgemerkt dat de hardere knoppen net iets meer uitsteken en een struikelgevaar kunnen vormen, zeker voor ouderen die minder stabiel zijn. 
-
-Een bijzondere uitvoering was deze van een deelnemer die fysiek fitter was, hij gebruikte de mat op een innovatieve manier door de mat te gaan draaien met de voet ipv zelf te gaan bewegen.
+([wave1_resultaten](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERRFWS9-bCxKi_x_W7haszcBp11-S-wy_OMZbQtCtLh6Lg?e=spmyJ9)) & ([wave2_resultaten](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Edp2z4fMv7RIjM0WtIWSaRcBYyjB8X5Bx9Ilxk6zJUd_Wg?e=Rhwbat))
 
 ![image](https://github.com/user-attachments/assets/623310bf-0068-4456-aebd-882eaec7587f)
+
+Er werd een **_storyboard_** opgesteld om het concept verder te valideren bij de gebruikers. De gebruikers begrepen het storyboard goed, maar gaven direct aan dat ruimtegebrek een aandachtspunt is.
 ([storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK))
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D2.1 Het spel moet intuïtief en eenvoudig te gebruiken zijn.
+> - D2.2 Het ontwerp moet neutraal en volwassen ogen.
+> - D2.3 Voldoende bewegingsvrijheid is essentieel.
+> - D2.4 Ouderen moeten zich ontspannen voelen zonder evaluatiedruk.
+> - D2.5 Het concept moet makkelijk in een woonomgeving passen zonder grote aanpassingen.
+> - D2.6 De knoppen moeten comfortabel, duidelijk en goed leesbaar zijn.
+> - D2.7 Het spel moet bruikbaar zijn met een rollator of steunmogelijkheid voor balans.
+> - D2.8 Kleuren moeten visuele onderscheiding vergemakkelijken.
+> - D2.9 De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.
+> - 2.10 Struikelgevaar moet vermeden worden.
+
+Ook werden nog even de bestaande benchmarks bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
+- Interactieve matten en digitale producten zoals de Nintendo Wii zijn vaak te intensief voor onze doelgroep.
+- Matten zijn kleurrijk, vierkant of rechthoekig, en aangepast aan kinderen, met variërend ontwerp voor instrument- of dansgebruik.
+- Ook deze design requirements kwamen naar voren:
+
+> [!IMPORTANT]
+> Design Requirements:
+> D2.11 	Instelbaar geluidsniveau in het spel
+> D2.12 	Diverse spelmogelijkheden aanbieden
+> D2.13 	Anti-sliplaag voor extra stabiliteit tijdens het spelen
+> D2.14 	Geschikt voor meerdere spelers
+> D2.15	Keuze uit verschillende instrumentgeluiden en melodieën
+> D2.16 	Opvouwbaarheid voor eenvoudig opbergen en transport
 
 ### Conclusies & implicaties
 
-Op basis van feedback wordt het concept verruimd naar gebruikers die hulpmiddelen zoals rollators of wandelstokken gebruiken. Tests zullen voortaan ook zelfstandig wonende ouderen omvatten. Hierbij is rekening gehouden met obstakelvrije ontwerpen en gebruiksvriendelijke knoppen die zonder achterwaarts kijken bediend kunnen worden.
-
-De essentiële producteigenschappen die nu voorop gesteld zijn:
--	Fysieke beweging en cognitieve stimulatie moet worden gecombineerd
--	Het concept moet eenvoudig toepasbaar zijn in een woonomgeving zonder grote aanpassingen
--	Het ontwerp moet neutraal, volwassen ogen zoadat het niet kinderachtig oogt.
--	Ouderen moeten tijdens het spelen een ontspannen gevoel hebben, waarbij ze niet het idee hebben dat ze geevalueerd worden
--	Het concept moet gebruik maken van contrastrijke kleuren dat ook voor kleurenblinden het goed zichtbaar is
-
+Uit de testen bleek dat het concept intuïtief te gebruiken was. Het concept zal verder worden ontwikkeld met verbeteringen in leesbaarheid, kleurgebruik en materiaalkeuze.
+Eerder werd uitgegaan van mobiele ouderen zonder hulpmiddelen, maar op basis van feedback is het concept uitgebreid naar gebruikers met rollators of wandelstokken. Dit leidde tot een pivot: de focus ligt nu op zelfstandig wonende, actieve ouderen.  Er worden obstakelvrij en knoppen gebruiksvriendelijk ontworpen, zodat ze zonder achterwaarts kijken bediend kunnen worden
 
 ## Bill of materials
 
@@ -284,6 +303,10 @@ https://www.cool2bfit.nl/kinderen/leuke-beweegspelletjes-voor-thuis/
 
 https://toystar.nl/products/dancemax-maak-van-je-woonkamer-een-dansvloer-interactieve-dansmat?variant=49868734267733&country=NL&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&tw_source=google&tw_adid=&tw_campaign=21683111445&gad_source=1&gclid=Cj0KCQiAgJa6BhCOARIsAMiL7V-sGMmw2BQP5Hcn7PpLG4-WHp1zPDEmUk4HF4r_m5p2u5sHYlV1JoMaAucDEALw_wcB
 
+https://oxinome.com/products/quick-push-bubble-game
+
+https://www.dignis.nl/ehealth/tovertafel/
+
 
 Zoekopdracht: “studies on repeated actions based on pleasentness of task”:
 
@@ -299,7 +322,6 @@ https://www.sciencedirect.com/science/article/pii/S0191886999000914
 ## Bijlagen
 
 Templates: 
--	[Pestel](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/PESTEL_template.pdf?csf=1&web=1&e=REgUMT)
 -	[WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4)
 -	[User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB)
 -	[Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB)
@@ -317,10 +339,6 @@ Intervieuws:
 -	[Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)
 -	[Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun)
 -	[Interview_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_Rapport.pdf?csf=1&web=1&e=gxyd6T)
-
-Benchmarks:
--	[Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)
--	[Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_Rapport.pdf?csf=1&web=1&e=VvSswk)
   
 Wave's:
 -	[Protocol wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa)
@@ -328,8 +346,13 @@ Wave's:
 -	[Informed consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/pdf%20informed%20consent%20wave%201%20en%202.pdf?csf=1&web=1&e=dfrrTi)
 -	[Rapport wave 1 & wave 2](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Rapport_Wave1_Wave2.pdf?csf=1&web=1&e=YTk6Dm)
 
+Benchmarks:
+-	[Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)
+-	[Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_Rapport.pdf?csf=1&web=1&e=VvSswk)
+
 [storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK)
 
+Develop 1:
 
 
 
