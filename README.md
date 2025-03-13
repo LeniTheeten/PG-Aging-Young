@@ -408,6 +408,7 @@ https://link.springer.com/article/10.1007/s00221-017-5112-3
 https://www.sciencedirect.com/science/article/pii/S0191886999000914
 
 Antropometrische data:
+
 https://www.dinbelg.be/ouderentotaal.htm
 
 https://www.wandeltraining.nl/stappenteller.htm#:~:text=De%20gemiddelde%20staplengte%20voor%20een,pas%20bestaat%20uit%20twee%20stappen.
@@ -472,7 +473,7 @@ Benchmarks:
 -	[Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)
 -	[Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=5866hT)
 
-[storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK)
+- [storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK)
 
 Develop 1:
 - [Literatuuronderzoek 2_protocol](https://ugentbe-my.sharepoint.com/:f:/g/personal/amber_barra_ugent_be/EmlXFazKElZHl0-18dP_LOIBXBfoJwNxMWfIDaCutvVNQA?e=D1DHOj)
