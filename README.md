@@ -213,12 +213,12 @@ Ook werden nog even de bestaande benchmarks bekeken en geëvalueerd, deze kunnen
 
 > [!IMPORTANT]
 > Design Requirements:
-> D2.11 	Instelbaar geluidsniveau in het spel
-> D2.12 	Diverse spelmogelijkheden aanbieden
-> D2.13 	Anti-sliplaag voor extra stabiliteit tijdens het spelen
-> D2.14 	Geschikt voor meerdere spelers
-> D2.15	Keuze uit verschillende instrumentgeluiden en melodieën
-> D2.16 	Opvouwbaarheid voor eenvoudig opbergen en transport
+> - D2.11 	Instelbaar geluidsniveau in het spel
+> - D2.12 	Diverse spelmogelijkheden aanbieden
+> - D2.13 	Anti-sliplaag voor extra stabiliteit tijdens het spelen
+> - D2.14 	Geschikt voor meerdere spelers
+> - D2.15	Keuze uit verschillende instrumentgeluiden en melodieën
+> - D2.16 	Opvouwbaarheid voor eenvoudig opbergen en transport
 
 ### Conclusies & implicaties
 
