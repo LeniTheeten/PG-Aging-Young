@@ -225,6 +225,95 @@ Ook werden nog even de bestaande benchmarks (([rapport_benchmarks](https://ugent
 Uit de testen bleek dat het concept intuïtief te gebruiken was. Het concept zal verder worden ontwikkeld met verbeteringen in leesbaarheid, kleurgebruik en materiaalkeuze.
 Eerder werd uitgegaan van mobiele ouderen zonder hulpmiddelen, maar op basis van feedback is het concept uitgebreid naar gebruikers met rollators of wandelstokken. Dit leidde tot een pivot: de focus ligt nu op zelfstandig wonende, actieve ouderen.  Er worden obstakelvrij en knoppen gebruiksvriendelijk ontworpen, zodat ze zonder achterwaarts kijken bediend kunnen worden
 
+## Development 1 (N = 4)
+
+### Doelstellingen
+
+In deze eerste develop fase wordt gestreefd naar een beter gevalideerd concept, zodat er zeker aan het juiste product wordt gewerkt en een oplossing ontstaat die de doelgroep daadwerkelijk zal gebruiken.
+
+Belangrijke aandachtspunten in deze fase:
+-	Onderzoek naar de keuze voor een rechthoekige vorm bij bestaande spelmatten in benchmarks via een literatuurstudie.
+-	Evaluatie of een projector de beste optie is voor het spel, of dat dit te ingewikkeld zou zijn. Alternatieve oplossingen worden bekeken.
+-	Peiling bij de doelgroep om inzicht te krijgen in hun mening over het concept en mogelijke alternatieven.
+  	Onderzoek naar antropometrische gegevens van de doelgroep, zodat de fysieke eigenschappen goed worden verwerkt in het ontwerp.
+-	Uitvoeren van gebruikerstesten om concepten te valideren en nieuwe inzichten te verkrijgen voor verdere ontwikkeling.
+
+### Materiaal & methoden
+
+Er werd een **_literatuuronderzoek_** (([protocol](https://ugentbe-my.sharepoint.com/:f:/g/personal/amber_barra_ugent_be/EmlXFazKElZHl0-18dP_LOIBXBfoJwNxMWfIDaCutvVNQA?e=D1DHOj))) uitgevoerd naar waarom spelmatten vaak rechthoekig zijn en niet een andere vorm, zoals een cirkel. Daarnaast werd onderzocht of een projector geschikt is voor het spel, met specifieke aandacht voor de impact van op- en neerwaartse oogbewegingen en de antropometrie van het gezichtsveld.
+
+Er werd verder gewerkt aan de validatie van het concept en het verzamelen van meningen over alternatieve ideeën. Omdat eerdere validatie nog onvoldoende was, werd een **_bevraging_** opgesteld en via **_Google Forms_** verspreid onder de doelgroep. De enquête bestond uit meerkeuze- en open vragen om zowel kwantitatieve als kwalitatieve inzichten te verkrijgen. Daarnaast werden aanvullende aandachtspunten bevraagd voor het verdere ontwerpproces, met bijbehorend ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Ec1hUPYb7zRDoE2LG7lhJQwBG3r8PADqIow15AuP48VzOw?e=6swvXS) en rapport.
+
+Om het ontwerpproces verder te zetten, werd gezocht naar **_antropometrische data_** (([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERhBBPLdsilCtcZHyxPOscEBoxuF0XTou8eZ1hebcRLUUw?e=PYHdz9))), die later in het design verwerkt kan worden. Deze informatie werd verzameld via DINBelg en andere betrouwbare bronnen. Dit werd in een kleine analyse geplaats.
+
+Tot slot werden opnieuw **_gebruikerstesten_** (([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EbBdN8cEEBZEnKubPO4GDcIB7URGulgF5_XDvzKcvhPH5g?e=SLeIz9))) uitgevoerd volgens een vooraf opgesteld protocol, met achteraf een rapport. De testen vonden thuis plaats, waarbij observaties, foto’s en video’s werden verzameld voor latere analyse. Het product werd opnieuw gevalideerd via verschillende testen:
+- Zowel losse als vaste matten werden getest.
+- Twee spelletjes werden uitgeprobeerd.
+- Er werd onderzocht hoe de doelgroep hun evenwicht bewaart en welke ondersteuning zij het meest geschikt vinden.
+
+Voor de prototypes werden kartonnen (low-fidelity) matten gebruikt, met kleuren om de spellen goed uit te voeren. Tijdens de evenwichtstesten werd geobserveerd welke objecten deelnemers spontaan gebruikten ter ondersteuning. Achteraf werd een korte test uitgevoerd om de vorm van de tegels te analyseren, zonder de doelgroep, volgens protocol en rapportering.
+
+![image](https://github.com/user-attachments/assets/a73b8f2c-38fe-463b-9258-004ddbb34b34) ![image](https://github.com/user-attachments/assets/8cea9146-dea7-4e99-a59b-f05894c31a55)
+
+### Resultaten
+
+Uit de literatuurstudie (([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EfD4RJg_5RNIp21dfLDsmWQBkHR2P1bFz4B0FWIxsNzVIw?e=pR9z7s))) bleek dat veranderingen in het gezichtsveld, zoals de gevoeligheid van S-kegeltjes en de beperking van het bruikbare gezichtsveld, leeftijdsgebonden zijn. Balans is cruciaal voor de veiligheid van ouderen, waarbij staan op twee voeten meer stabiliteit biedt dan op één been, wat meer spiercontrole en snelle reacties vereist. Omdat rechthoekige vormen vaak voorkwamen in benchmarks, werd dit verder onderzocht. Daarnaast toonde een ooganalyse aan dat een afzonderlijke spelprojectie hinderlijk kan zijn, omdat dit snelle reacties en goede oog-beencoördinatie vraagt. 
+
+![image](https://github.com/user-attachments/assets/73aa78c7-ef4b-4e90-b310-acb99273d815) ![image](https://github.com/user-attachments/assets/5c362884-12cf-499c-bc70-d232927d75e9)
+
+> [!IMPORTANT]
+> De design requirements volgend uit het literatuuronderzoek zijn:
+> - DR 3.1 De benaderingen van het spel moeten de gulden snede volgen.
+> - DR 3.2 Het product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.
+> - DR 3.3  Belangrijke visuele informatie moet binnen het centrale gezichtsveld geplaatst zijn.
+> - DR 3.4 Balansverstoringen mogen geen obstakel vormen in het gebruiken van het product.
+> - DR 3.5 De oefenomgeving moet veilige en gecontroleerde omstandigheden bieden.
+> - DR 3.6 De oplossing moet zowel met twee voeten als met een voet speelbaar zijn.
+
+Parallel aan het literatuuronderzoek werden gebruikers bevraagd (([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVBC19PzliNBv2nJAG8V2FYBWU75DWE8H5IpxA-M4bC7JQ?e=ADMuIM))). Hieruit bleek dat het pianospel niet voor iedereen duidelijk was, ondanks de voorkeur voor interactieve spellen. Ouderen gaven aan graag met meerdere spelers te willen spelen om sociale interactie te bevorderen. Voor de opstelling werden losse tegels met objecten in huis als houvast verkozen. Omdat muziek een belangrijk element is, werden muziekvoorkeuren bevraagd. Ouderen gaven de voorkeur aan klassieke en soms Franse muziek. Bij een memorie-spel met muziek vonden velen het een goed idee om de muziek met bijbehorende tekst af te spelen.
+
+> [!IMPORTANT]
+> Design requirements:
+> - DR 3.7 Het spel moet een goede balans hebben tussen complexiteit en speelbaarheid
+> - DR3.8 De oplossing moet een kabelvrije oplossing bieden
+> - DR 3.9 Muziek met tekst moet geïntegreerd zijn in de oplossing
+> - DR 3.10 Bij langdurig gebruik mogen geen frustraties naar boven komen
+
+Op basis van deze inzichten werden gebruikerstesten uitgevoerd (([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EY-EuLq6HiFLntbR0UOzbjcBp-6xQOo4F3TqE37nIXbfDA?e=mqJhR4))). Zoals in de bevraging werd bevestigd dat een vaste tegelopstelling minder praktisch was vanwege de beperkte bewegingsvrijheid. Tijdens het spelen grepen de gebruikers intuïtief naar een tafel of een lage stoelleuning als steunpunt, maar dit werd niet als noodzakelijk ervaren.
+
+![image](https://github.com/user-attachments/assets/b0ddf925-ee63-4acb-842a-8df5783fc248)
+
+De twee varianten van een memory-spel toonden geen significant verschil in duur en mentale belasting. Wel werd duidelijk dat het spel niet langer dan 20-30 minuten mag duren, omdat fysieke belasting en frustraties toenemen bij herhaling. “Goh kvoel het toch wel al in me heupen en benen hoor!" Het onderscheiden van de huidige sequentie en dat van het vorig spel was voor de ouderen zeer moeilijk.
+
+Intuïtief verplaatsten de ouderen zicht van tegel naar tegel, waarbij steeds maar één voet tegelijk op een tegel werd geplaatst.
+
+> [!IMPORTANT]
+> Design requirements:
+> - DR 3.11 De oplossing moet bestaan uit losse elementen
+> - DR 3.12 De elementen moeten variabel te positioneren zijn
+> - DR 3.13 De oplossing moet bewegingsvrijheid garanderen
+> - DR 3.14 De oplossing moet compatibel zijn met een steunoptie naar keus
+> - DR 3.15 De gebruiker mag niet uitgebrand zijn na gebruik
+> - DR 3.16 Het spel moet positieve feedback geven
+> - DR 3.17 De activiteit moet kunnen plaatsvinden met 1 voet aanraking
+> - DR 3.18 De elementen mogen niet falen tijdens lange rustmomenten
+
+![image](https://github.com/user-attachments/assets/3e63eda0-835c-4cd2-87d7-688ed135826c)
+![image](https://github.com/user-attachments/assets/a4216468-eb34-48dc-8bcf-e84dcc00a14f)
+
+### Conclusies & implicaties
+
+Een modulaire en flexibele opstelling is belangrijk voor de gebruikers, waardoor er verder wordt gewerkt met losse, verplaatsbare elementen. Om struikelgevaar voor ouderen te minimaliseren, moeten de elementen draadloos met elkaar verbonden zijn.
+
+Visuele en auditieve ondersteuning zijn, zoals hiervoor aangehaald, een centraal aspect in het ontwerp. De visuele informatie mag geen beperking vormen voor ouderen bij wie het zicht en kleurenperceptie achteruitgaat. De auditieve ondersteuning door muziek moet met tekst worden aangeboden om een aangenamere gebruikerservaring te garanderen.
+
+Voor de 65-plussers die nog goed evenwicht hebben is een steunoppervlak niet nodig, terwijl dit bij de ouderen in het rusthuis wel noodzakelijk was. Omdat we in de vorige fase de pivot gemaakt hebben om de doelgroep te wijzigen, is de steun van een tafel of stoel aanwezig in de woning van de gebruiker voldoende ondersteuning. 
+
+In een volgende fase zal verder gewerkt worden op de ideale spelduur en het garanderen van positieve feedback om de motivatie te behouden.
+
+![Heroshot aparte tegels](https://github.com/user-attachments/assets/ed30ad2f-e1d1-4804-b508-08e306ae637e)
+
+
 ## Bill of materials
 
 Voor de bill of materials kan deze opgesplitst worden in 2 zaken: de hardware vereisten en de interacties van de interactieve mat.
@@ -318,6 +407,38 @@ https://link.springer.com/article/10.1007/s00221-017-5112-3
 
 https://www.sciencedirect.com/science/article/pii/S0191886999000914
 
+Antropometrische data:
+https://www.dinbelg.be/ouderentotaal.htm
+
+https://www.wandeltraining.nl/stappenteller.htm#:~:text=De%20gemiddelde%20staplengte%20voor%20een,pas%20bestaat%20uit%20twee%20stappen.
+
+https://www.tweevoeter.nl/wandeluitrusting/stappentellers/  
+
+file:///C:/Users/amber/Downloads/gedliczka-et-al-2008-defining-space-models-of-arm-reach-envelopes-for-static-forced-postures.pdf 
+
+Literatuurstudie develop 1:
+
+https://books.google.be/books?hl=en&lr=&id=JXIEz2XYnp8C&oi=fnd&pg=PA5&dq=reason+use+of+rectangulars+in+design&ots=XzE8U4mxch&sig=X_9M9Ad-3yesLW02JOVluluWITA&redir_esc=y#v=onepage&q=reason%20use%20of%20rectangulars%20in%20design&f=false 
+
+https://www.sciencedirect.com/science/article/pii/S0169814199000268 
+
+https://www.sciencedirect.com/science/article/abs/pii/S0161642087333093 
+
+https://karger.com/ger/article/51/2/94/146756/Influence-of-Elderly-Executive-Cognitive-Function 
+
+https://link.springer.com/article/10.1023/A:1026206927686 
+
+https://iovs.arvojournals.org/article.aspx?articleid=2183403 
+
+https://utppublishing.com/doi/abs/10.3138/ptc.41.5.240 
+
+https://journals.sagepub.com/doi/abs/10.1177/0269215506070144 
+
+https://www.tandfonline.com/doi/abs/10.1080/00140130110038044 
+
+https://www.emerald.com/insight/content/doi/10.1108/ria-09-2022-0227/full/html 
+
+
 
 ## Bijlagen
 
@@ -354,7 +475,13 @@ Benchmarks:
 [storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK)
 
 Develop 1:
-
+- [Literatuuronderzoek 2_protocol](https://ugentbe-my.sharepoint.com/:f:/g/personal/amber_barra_ugent_be/EmlXFazKElZHl0-18dP_LOIBXBfoJwNxMWfIDaCutvVNQA?e=D1DHOj)
+- [Literatuuronderzoek 2_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EfD4RJg_5RNIp21dfLDsmWQBkHR2P1bFz4B0FWIxsNzVIw?e=pR9z7s)
+- [Bevraging_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Ec1hUPYb7zRDoE2LG7lhJQwBG3r8PADqIow15AuP48VzOw?e=6swvXS)
+- [Bevraging_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVBC19PzliNBv2nJAG8V2FYBWU75DWE8H5IpxA-M4bC7JQ?e=ADMuIM)
+- [Antropometrie](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERhBBPLdsilCtcZHyxPOscEBoxuF0XTou8eZ1hebcRLUUw?e=PYHdz9)
+- [Gebruikerstesten_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EbBdN8cEEBZEnKubPO4GDcIB7URGulgF5_XDvzKcvhPH5g?e=SLeIz9)
+- [Gebruikerstesten_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EY-EuLq6HiFLntbR0UOzbjcBp-6xQOo4F3TqE37nIXbfDA?e=mqJhR4)
 
 
 
