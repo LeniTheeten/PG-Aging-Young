@@ -418,7 +418,7 @@ Daarnaast werden nog een paar openvragen gesteld, en kwamen volgende tips naar v
 - Beloningen toevoegen voor correct spel
 - Score of competitie-element
 
-![image](https://github.com/user-attachments/assets/e6135d1a-a764-46cf-a59e-103adf669461) ![image](https://github.com/user-attachments/assets/ffb66d13-3491-4b74-96e9-31f8f473af15)  ![image](https://github.com/user-attachments/assets/60f1a2c6-172d-41ad-ad9a-18925590981f)
+![image](https://github.com/user-attachments/assets/e6135d1a-a764-46cf-a59e-103adf669461)!![image](https://github.com/user-attachments/assets/dbb4374a-b8c1-4e3c-a8dc-3e25cb75efdd)[image](https://github.com/user-attachments/assets/60f1a2c6-172d-41ad-ad9a-18925590981f)
 
 Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de mensen van het product opzich zelf vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
 
