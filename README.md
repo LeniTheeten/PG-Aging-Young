@@ -418,7 +418,7 @@ Daarnaast werden nog een paar openvragen gesteld, en kwamen volgende tips naar v
 - Beloningen toevoegen voor correct spel
 - Score of competitie-element
 
-![image](https://github.com/user-attachments/assets/e6135d1a-a764-46cf-a59e-103adf669461)!![image](https://github.com/user-attachments/assets/dbb4374a-b8c1-4e3c-a8dc-3e25cb75efdd)[image](https://github.com/user-attachments/assets/60f1a2c6-172d-41ad-ad9a-18925590981f)
+![image](https://github.com/user-attachments/assets/e6135d1a-a764-46cf-a59e-103adf669461)![image](https://github.com/user-attachments/assets/dbb4374a-b8c1-4e3c-a8dc-3e25cb75efdd)![image](https://github.com/user-attachments/assets/60f1a2c6-172d-41ad-ad9a-18925590981f)
 
 Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de mensen van het product opzich zelf vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
 
@@ -429,13 +429,13 @@ Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de m
 
 > [!IMPORTANT]
 > Design requirements:
-> - DR 4.1 Compititie in het spel.Bbv scores, makkelijk beginnen en naar moeilijker gaan
+> - DR 4.1 Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.
 > - DR 4.2 Duur van muziek mag niet te lang
-> - DR 4.3 Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar
-> - DR 4.4 Meer variatie in muziek
-> - DR 4.5 Precisie van sensoren
-> - DR 4.6 Wifi modules vlotter werken
-> - DR 4.7 Feedback bij fouten
+> - DR 4.3 Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar.
+> - DR 4.4 Meer variatie in muziek brengen
+> - DR 4.5 Precisie van sensoren hoger
+> - DR 4.6 Wifi modules vlotter werken met elkaar en de code
+> - DR 4.7 Meer feedback bij fouten geven
 
 Verder werd er ook gekeken voor een ideale opstelling van de tegels, dit verder werkend op de **_antropometrie_** onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rond om de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
 
@@ -449,7 +449,7 @@ Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hie
 
 ![image](https://github.com/user-attachments/assets/127049a3-4028-447a-aa35-a99e63d9ce8b)  ![image](https://github.com/user-attachments/assets/7649a8b4-1147-4299-933a-0c73e417f793)  ![image](https://github.com/user-attachments/assets/0cb60aaf-bea3-4e63-9226-86a96aa5f2c2)  ![image](https://github.com/user-attachments/assets/a054be57-1d79-4b53-a9cd-3c9421d30361)
     
-Ze worden gequoteerd op verschillede criteria die met een score van 1 tot 5 wordt gevalueerd. Als uiteindelijke ontwerp word gekozen voor (sensor) en (ontwerp), omdat … 
+Ze worden gequoteerd op verschillende criteria die met een score van 1 tot 5 wordt geëvalueerd. Als uiteindelijke ontwerp wordt gekozen voor (sensor) en (ontwerp), omdat … 
 (foto's van keuze)
 
 ### Conclusies & implicaties
