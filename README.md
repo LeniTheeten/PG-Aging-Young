@@ -455,6 +455,11 @@ Ze worden gequoteerd op verschillende criteria die met een score van 1 tot 5 wor
 
 ### Conclusies & implicaties
 
+Uit de gebruikerstesten blijkt dat de gebruikers over het algemeen zeer positief zijn over zowel het product als het spel. De logboeken geven aan dat de gebruikers enthousiast zijn en het spel als een meerwaarde ervaren. Ze melden dat ze het spel langer en intensiever spelen en zich actiever voelen tijdens het gebruik. Er zijn echter nog enkele verbeterpunten, zoals het optimaliseren van de muziekduur, het toevoegen van meer gerichte feedback, en het verbeteren van de technische aspecten. Bijvoorbeeld, de internetmodules werken nog niet altijd optimaal.
+
+Er is inmiddels wel een ideale opstelling voor het spel vastgesteld, die zowel de aanbevolen configuratie biedt als ruimte laat voor persoonlijke aanpassingen door de gebruikers.
+
+Ook is het ontwerp gekozen via testen en er is gekozen voor een dubbele laag in de tegels, die de Arduino-onderdelen beschermen tegen beschadiging. Daarnaast is er een antislip laag toegevoegd voor extra veiligheid tijdens gebruik. De gekozen sensor … en het gekozen ontwerp met … . Dit ontwerp is zorgvuldig getest en geoptimaliseerd, waarbij we nu alleen nog kleine aanpassingen moeten maken om de precisie en de algehele functionaliteit verder te verbeteren. 
 
 ## Bill of materials
 
