@@ -316,7 +316,7 @@ In een volgende fase zal verder gewerkt worden op de ideale spelduur en het gara
 ## Development 2 (N = 6)
 
 ### Doelstellingen
-Het doel van de 2e ontwikkelfase is een electronica gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het protocol (protocol development 2), deze zijn:
+Het doel van de 2e ontwikkelfase is een electronica gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het protocol ([protocol development 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Protcol_Develop_2.docx?d=w7a63eda598a3493baf7f74cf83195043&csf=1&web=1&e=812wJg)), deze zijn:
 -	Gebruiksvriendelijkheid evalueren: nagaan of het spel duidelijk en eenvoudig te gebruiken is voor gezonde ouderen, zonder externe hulp na een eerste introductie.
 -	Feedbacksystemen beoordelen: onderzoeken of de feedback die gebruikers krijgen tijdens het spel (zowel positief als bij fouten) voldoende en correct is. En nagaan welke vormen van feedback mogelijks ontbreken.
 -	Realistische gebruikerservaring vastleggen: begrijpen hoe het spel wordt gespeeld in een natuurlijke leefomgeving van de doelgroep over meerdere dagen.
@@ -332,7 +332,7 @@ Tijdens de testfase werd het fysiek prototype gebouwd uit 3D geprinte tegels met
 
 ![image](https://github.com/user-attachments/assets/9a12d4f4-41b2-4156-9c77-fbcda14afe81)
 
-Vooraleer de gebruikers effectief met het spel aan de slag gingen is een blackboxmodel ontworpen als basis. Hierin is vastgelegd wat elk onderdeel van het spel moet doen. Dit beschrijft de input-outputrelaties voor elk interactie-element. Dit model vormde de basis voor de opbouw van zowel de software (python) en de hardware (arduino).
+Vooraleer de gebruikers effectief met het spel aan de slag gingen is een blackboxmodel ontworpen als basis. Hierin is vastgelegd wat elk onderdeel van het spel moet doen. Dit beschrijft de input-outputrelaties voor elk interactie-element. Dit model vormde de basis voor de opbouw van zowel de software (python) en de hardware (arduino). 
 
 ![image](https://github.com/user-attachments/assets/6533327a-e29d-446d-b217-02f187a46549)
 
@@ -340,11 +340,11 @@ Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen i
 
 ![image](https://github.com/user-attachments/assets/edbe5ea7-2764-4274-baec-e31820c7c796)
 
-Voorafgaande aan de gebruikerstesten, werd het spel virtueel uitgevoerd door simulaties. De arduino’ worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld),hierbij werden de denkpatronen van de ouderen na gebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd .
+Voorafgaande aan de gebruikerstesten, werd het spel virtueel uitgevoerd door simulaties. De arduino’s worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld),hierbij werden de denkpatronen van de ouderen na gebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd. Bij de map Data zijn de gebruikte code-bestanden terug te vinden.
 
 Op basis van Nirals Eye werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5) van de gebruiker vastgelegd, met doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment die vaak op de radio wordt gespeeld associëren met ons spel. 
 
-Pas nadat het prototype voldoende stabiel en logisch opgebouwd was startten de gebruikerstesten met de ouderen.([Protocol_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EZ6zjfJua19Dk-QrMcrUoOMBwK6GUJZ0xblBtL6yCgC69w?e=1GbkXL)) Hierbij werden zes, 65 plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025. 
+Pas nadat het prototype voldoende stabiel en logisch opgebouwd was startten de gebruikerstesten met de ouderen. Hierbij werden zes, 65 plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025. 
 Bij de voorbereiding werd het informed consent ondertekent. 
 Dag 1 staat in teken van start en observatie. De gebruiker speelt het spel voor het eerst onder toezicht van de observator en testleider. Door het gebruik van Wizard of Oz-methode, wordt het spel manueel opgestart via Python, gelinkt aan de activering van de powerbank door de gebruiker.
 Dag 2 bood de deelnemers de vrijheid om het spel zelfstandig te gebruiken in hun eigen omgeving.
@@ -374,11 +374,11 @@ Deze aanpassingen werden doorgevoerd vóór de start van de gebruikerstesten, zo
 
 De **_gebruikerstesten_** zijn opgedeeld in verschillende onderwerpen. Uit de **_logboeken_** kwamen de volgende informatie voor:
 
-Het eerste onderwerp is hoe de gebruikers het vrij gebruik van het prototype ervaarden. Dus met andere worden hoe vaak ze het spel speelden. In de tabel hieronder is te zien per persoon hoeveel maal ze het spel speelden: eenmaal, tweemaal, driemaal of meer.
+Het eerste onderwerp is hoe de gebruikers het vrij gebruik van het prototype ervaarden. Dus met andere worden hoe vaak ze het spel speelden. In de tabel hieronder is te zien per persoon hoeveel maal ze het spel speelden: eenmaal, tweemaal, drie of meer.
 
 ![image](https://github.com/user-attachments/assets/5e288b73-1024-40b2-9a42-2cd78ba6ce36)
 
-Hierbij is te zien dat ze allemaal bij de laatste dag het spel driemaal speelden, er werd vastgesteld dat het kwam doordat ze het spel beter begrepen. Maar ook omdat ze het spel enthousiast meespeelden.
+Hierbij is te zien dat ze bijna allemaal bij de laatste dag het spel driemaal speelden, er werd vastgesteld dat het kwam doordat ze het spel beter begrepen. Maar ook omdat ze het spel enthousiast meespeelden.
 
 Het tweede onderwerp was hun motivatie en spelmoment. Dit waren de ervaringen:
 - De ouderen waren zeer flexibel tijdens gebruik. Zeer gemotiveerd.
