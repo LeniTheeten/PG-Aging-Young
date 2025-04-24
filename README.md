@@ -342,23 +342,111 @@ Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen i
 
 Voorafgaande aan de gebruikerstesten, werd het spel virtueel uitgevoerd door simulaties. De arduino’ worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld),hierbij werden de denkpatronen van de ouderen na gebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd .
 
-Op basis van Nirals Eye werden de [triggers](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/TRIGGERS,....docx?d=waf84bde412c9405fbb364c1322de4644&csf=1&web=1&e=ZhRUQ2) van de gebruiker vastgelegd, met doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment die vaak op de radio wordt gespeeld associëren met ons spel. 
+Op basis van Nirals Eye werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5) van de gebruiker vastgelegd, met doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment die vaak op de radio wordt gespeeld associëren met ons spel. 
 
-Pas nadat het prototype voldoende stabiel en logisch opgebouwd was startten de gebruikerstesten met de ouderen. Hierbij werden zes, 65 plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025. 
+Pas nadat het prototype voldoende stabiel en logisch opgebouwd was startten de gebruikerstesten met de ouderen.([Protocol_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EZ6zjfJua19Dk-QrMcrUoOMBwK6GUJZ0xblBtL6yCgC69w?e=1GbkXL)) Hierbij werden zes, 65 plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025. 
 Bij de voorbereiding werd het informed consent ondertekent. 
 Dag 1 staat in teken van start en observatie. De gebruiker speelt het spel voor het eerst onder toezicht van de observator en testleider. Door het gebruik van Wizard of Oz-methode, wordt het spel manueel opgestart via Python, gelinkt aan de activering van de powerbank door de gebruiker.
 Dag 2 bood de deelnemers de vrijheid om het spel zelfstandig te gebruiken in hun eigen omgeving.
 Dag 3 werd opnieuw begeleid door testleider en observator waarbij belangrijke veranderingen werden genoteerd. 
-Elke dag vulden de gebruikers een [logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6) in die verschillende aspecten van het spel bevragen. Op de laatste dag werd de System Usability Scale ook ingevuld ([SUS](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/SUS%20manier%20van%20evalueren.docx?d=w91ce282902b3409fbf208a154169f6b8&csf=1&web=1&e=WeiZ9X)).
+Elke dag vulden de gebruikers een [logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6) in die verschillende aspecten van het spel bevragen. Op de laatste dag werd de System Usability Scale ook ingevuld ([SUS](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EeoH8CZmnLhMgiC3C3AzJtABEacxWBImbtrPJ_n8sL6-RQ?e=fLgI5q)).
 
 ![image](https://github.com/user-attachments/assets/07231d98-0818-4962-bcef-c458ec0b6bc6)
 
-Na afloop van de gebruikerstesten werd variety prototyping toegepast om het grootste probleem namelijk de lichtsensor te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD model ontworpen, waarbij rekening werd gehoudende met de [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Antropometrie%20voor%20mat.docx?d=wf4422da20f8345f8aac6a16d8c0e2820&csf=1&web=1&e=7ZRtCP). De technische schakeling van elke oplossing is gedocumenteerd in het hardwareprotocol ([protocol hardware](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Protocol%20Hardware.docx?d=wd72f397d27584b2ab4e4be95ab1c51c3&csf=1&web=1&e=eitscI)).  
+Na afloop van de gebruikerstesten werd variety prototyping toegepast om het grootste probleem namelijk de lichtsensor te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD model ontworpen, waarbij rekening werd gehoudende met de [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ESMYJ2hMMlpNjmPszoZSaYsBGAYIlG5Dg3-M26ssu1h2lw?e=acZaUG). 
+De technische schakeling van elke oplossing is gedocumenteerd in het hardwareprotocol ([protocol hardware](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=heA9mc)).  
 
 ![image](https://github.com/user-attachments/assets/0588508f-c848-4d59-8326-61dee37b6268)
 
 
 ### Resultaten
+**_Eigengebruikers testen_**
+Voorafgaand aan de effectieve gebruikerstesten werd het product eerst intern getest, zowel fysiek als cognitief. Deze interne testronde **_(user testing without users)_** had als doel om eventuele functionele of gebruiksproblemen vroegtijdig op te sporen en te verhelpen.
+
+Uit deze tests kwamen de volgende aandachtspunten naar voren:
+- Het groene licht blijft nu langer branden tot de muziek start. Dit compenseert mogelijke verbindingsvertragingen en zorgt voor een duidelijker startsignaal voor de gebruiker.
+- Deze kleur geeft aan welke tegels actief zijn. Dit maakt het voor de ontwikkelaars direct zichtbaar of een tegel correct werkt, en geeft gebruikers feedback of dat de tegel aan ligt.
+
+Deze aanpassingen werden doorgevoerd vóór de start van de gebruikerstesten, zodat de gebruikerservaring al wat bevorderd is.
+
+**_Gebruikerstesten_**
+
+De **_gebruikerstesten_** zijn opgedeeld in verschillende onderwerpen. Uit de **_logboeken kwamen_** de volgende informatie voor:
+
+Het eerste onderwerp is hoe de gebruikers het vrij gebruik van het prototype ervaarden. Dus met andere worden hoe vaak ze het spel speelden. In de tabel hieronder is te zien per persoon hoeveel maal ze het spel speelden: eenmaal, tweemaal, driemaal of meer.
+
+![image](https://github.com/user-attachments/assets/5e288b73-1024-40b2-9a42-2cd78ba6ce36)
+
+Hierbij is te zien dat ze allemaal bij de laatste dag het spel driemaal speelden, er werd vastgesteld dat het kwam doordat ze het spel beter begrepen. Maar ook omdat ze het spel enthousiast meespeelden.
+
+Het tweede onderwerp was hun motivatie en spelmoment. Dit waren de ervaringen:
+- De ouderen waren zeer flexibel tijdens gebruik. Zeer gemotiveerd.
+- Bij fysieke ongemakken verlegden de gebruikers de tegels bv. naar de tafel.
+- Verder werd tijdens het spel als ze minder evenwicht hadden ook eens naar de tafel gegrepen voor steun.
+- Ook werd tijdens het spel tussen de twee gebruikers wat competitie ingestoken zodat ze nog enthousiaster werden.
+- Bij energieke moment legden ze zelfs de tegels wat verder.
+
+Hun motivatie tijdens het spelen was zeker positief en scoorde in het logboek een 3,9/5.
+
+Hardware en techniek was het derde onderwerp waarop gequoteerd werd. Hier was het meer in ons kamp dat er nog wat problemen waren zoals:
+- De Arduino IoT modules verbonden niet allemaal zo goed.
+- Lichtje was niet goed gepositioneerd in de tegel.
+
+De gebruikers vermelden deze problemen:
+- De lichtsensor meet niet altijd wanneer ze met hun voet erop stonden.
+- Soms mag het muziekje wat korter zijn.
+
+Aan de hardware en techniek zijn er zeker nog wat aanpassingen en frustraties maar op gebruiksvriendelijkheid van het ontwerp werd wel goed gequoteerd.
+
+Vierde onderwerp ging over het begrip en zelfstandig gebruik. Deze bevindingen werden vastgesteld.
+- Het zelfstandig gebruik ging goed, op voorwaarde dat het spel voor spelen goed stapsgewijs werd uitgelegd.
+- Het spelen zelf vonden ze vlotter gaan in de ochtend (wanneer ze minder vermoeid zijn) dan in de avond
+- Ze ondervonden het spel als leuk, vrolijk makend en ontspannend.
+- Ze wilden het zelfs nog langer gebruiken.
+
+Daarnaast werden nog een paar openvragen gesteld, en kwamen volgende tips naar voor:
+- Opbouwend niveau: begin eenvoudig, voeg geleidelijk meer tegels toe
+- Grotere sensoren: minder precisie nodig bij het stappen
+- Meer variatie in muziek: per spel andere tracks
+- Gebruik van handen mogelijk maken
+- Knoppen toevoegen (zoals een bel) i.p.v. enkel voet- of lichtsensor
+- Betere connectiviteit (minder uitval wifi/server)
+- Snellere sensorrespons (anders vergeten spelers de volgorde)
+- Beter zichtbare lichtjes (minder lichtinval, fellere LEDs)
+- Verduidelijking bij fouten (feedback geven als sensor niet werkt)
+- Beloningen toevoegen voor correct spel
+- Score of competitie-element
+
+![image](https://github.com/user-attachments/assets/e6135d1a-a764-46cf-a59e-103adf669461) ![image](https://github.com/user-attachments/assets/ffb66d13-3491-4b74-96e9-31f8f473af15)  ![image](https://github.com/user-attachments/assets/60f1a2c6-172d-41ad-ad9a-18925590981f)
+
+Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de mensen van het product opzich zelf vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
+
+![image](https://github.com/user-attachments/assets/1942d9a5-d578-4271-bdcf-da37fffb3767)
+
+> [!IMPORTANT]
+> Design requirements:
+> - DR 4.1 Compititie in het spel.Bbv scores, makkelijk beginnen en naar moeilijker gaan
+> - DR 4.2 Duur van muziek mag niet te lang
+> - DR 4.3 Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar
+> - DR 4.4 Meer variatie in muziek
+> - DR 4.5 Precisie van sensoren
+> - DR 4.6 Wifi modules vlotter werken
+> - DR 4.7 Feedback bij fouten
+
+Verder werd er ook gekeken voor een ideale opstelling van de tegels, dit verder werkend op de **_antropometrie_** onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rond om de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
+
+![image](https://github.com/user-attachments/assets/a9b3d41b-d9b9-426b-aae0-d4b25127e534)
+
+Op het ontwerp en sensoren van onze tegels werd verder gezocht **_(Hardware choices)_**. De tegel werd veranderd naar een tegel die uit twee lagen bestaand, zodat de Arduino onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken dat er antislip op de tegel kan worden gevoegd. ([(hardware choices)](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=v9yM0U))
+
+![image](https://github.com/user-attachments/assets/e229a57b-f824-4d6d-9b75-ee1dcd34ecab)  ![image](https://github.com/user-attachments/assets/4de3d5d8-d1b9-4c65-942f-2f5da5517111)
+
+Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hierbij het best past. Er wordt aan variety protyping gedaan van de doosjes en ze worden getest per sensor. 
+
+![image](https://github.com/user-attachments/assets/127049a3-4028-447a-aa35-a99e63d9ce8b)  ![image](https://github.com/user-attachments/assets/7649a8b4-1147-4299-933a-0c73e417f793)  ![image](https://github.com/user-attachments/assets/0cb60aaf-bea3-4e63-9226-86a96aa5f2c2)  ![image](https://github.com/user-attachments/assets/a054be57-1d79-4b53-a9cd-3c9421d30361)
+    
+Ze worden gequoteerd op verschillede criteria die met een score van 1 tot 5 wordt gevalueerd. Als uiteindelijke ontwerp word gekozen voor (sensor) en (ontwerp), omdat … 
+(foto's van keuze)
 
 ### Conclusies & implicaties
 
