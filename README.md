@@ -361,6 +361,7 @@ De technische schakeling van elke oplossing is gedocumenteerd in het hardwarepro
 
 ### Resultaten
 **_Eigengebruikers testen_**
+
 Voorafgaand aan de effectieve gebruikerstesten werd het product eerst intern getest, zowel fysiek als cognitief. Deze interne testronde **_(user testing without users)_** had als doel om eventuele functionele of gebruiksproblemen vroegtijdig op te sporen en te verhelpen.
 
 Uit deze tests kwamen de volgende aandachtspunten naar voren:
@@ -371,7 +372,7 @@ Deze aanpassingen werden doorgevoerd vóór de start van de gebruikerstesten, zo
 
 **_Gebruikerstesten_**
 
-De **_gebruikerstesten_** zijn opgedeeld in verschillende onderwerpen. Uit de **_logboeken kwamen_** de volgende informatie voor:
+De **_gebruikerstesten_** zijn opgedeeld in verschillende onderwerpen. Uit de **_logboeken_** kwamen de volgende informatie voor:
 
 Het eerste onderwerp is hoe de gebruikers het vrij gebruik van het prototype ervaarden. Dus met andere worden hoe vaak ze het spel speelden. In de tabel hieronder is te zien per persoon hoeveel maal ze het spel speelden: eenmaal, tweemaal, driemaal of meer.
 
@@ -421,6 +422,9 @@ Daarnaast werden nog een paar openvragen gesteld, en kwamen volgende tips naar v
 
 Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de mensen van het product opzich zelf vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
 
+([rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Eb14NZj02RpJueEuV5QmxaYB_O-dqX9yAyYtQIq0YhjybQ?e=pGeihz))
+([resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5))
+
 ![image](https://github.com/user-attachments/assets/1942d9a5-d578-4271-bdcf-da37fffb3767)
 
 > [!IMPORTANT]
@@ -441,7 +445,7 @@ Op het ontwerp en sensoren van onze tegels werd verder gezocht **_(Hardware choi
 
 ![image](https://github.com/user-attachments/assets/e229a57b-f824-4d6d-9b75-ee1dcd34ecab)  ![image](https://github.com/user-attachments/assets/4de3d5d8-d1b9-4c65-942f-2f5da5517111)
 
-Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hierbij het best past. Er wordt aan variety protyping gedaan van de doosjes en ze worden getest per sensor. 
+Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hierbij het best past. Er wordt aan **_variety protyping_** gedaan van de doosjes en ze worden getest per sensor. 
 
 ![image](https://github.com/user-attachments/assets/127049a3-4028-447a-aa35-a99e63d9ce8b)  ![image](https://github.com/user-attachments/assets/7649a8b4-1147-4299-933a-0c73e417f793)  ![image](https://github.com/user-attachments/assets/0cb60aaf-bea3-4e63-9226-86a96aa5f2c2)  ![image](https://github.com/user-attachments/assets/a054be57-1d79-4b53-a9cd-3c9421d30361)
     
@@ -621,5 +625,13 @@ Develop 1:
 - [Gebruikerstesten_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EbBdN8cEEBZEnKubPO4GDcIB7URGulgF5_XDvzKcvhPH5g?e=SLeIz9)
 - [Gebruikerstesten_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EY-EuLq6HiFLntbR0UOzbjcBp-6xQOo4F3TqE37nIXbfDA?e=mqJhR4)
 
-
-
+Develop 2:
+- [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5)
+- [Protocol_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EZ6zjfJua19Dk-QrMcrUoOMBwK6GUJZ0xblBtL6yCgC69w?e=1GbkXL)
+- [logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6)
+- ([SUS](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EeoH8CZmnLhMgiC3C3AzJtABEacxWBImbtrPJ_n8sL6-RQ?e=fLgI5q))
+- [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ESMYJ2hMMlpNjmPszoZSaYsBGAYIlG5Dg3-M26ssu1h2lw?e=acZaUG)
+- [protocol hardware](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=heA9mc)
+- [rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Eb14NZj02RpJueEuV5QmxaYB_O-dqX9yAyYtQIq0YhjybQ?e=pGeihz)
+- [resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5)
+- [Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP)
