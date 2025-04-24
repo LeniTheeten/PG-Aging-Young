@@ -313,6 +313,47 @@ In een volgende fase zal verder gewerkt worden op de ideale spelduur en het gara
 
 ![Heroshot aparte tegels](https://github.com/user-attachments/assets/ed30ad2f-e1d1-4804-b508-08e306ae637e)
 
+## Development 2 (N = 6)
+
+### Doelstellingen
+Het doel van de 2e ontwikkelfase is een electronica gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het protocol (protocol development 2), deze zijn:
+-	Gebruiksvriendelijkheid evalueren: nagaan of het spel duidelijk en eenvoudig te gebruiken is voor gezonde ouderen, zonder externe hulp na een eerste introductie.
+-	Feedbacksystemen beoordelen: onderzoeken of de feedback die gebruikers krijgen tijdens het spel (zowel positief als bij fouten) voldoende en correct is. En nagaan welke vormen van feedback mogelijks ontbreken.
+-	Realistische gebruikerservaring vastleggen: begrijpen hoe het spel wordt gespeeld in een natuurlijke leefomgeving van de doelgroep over meerdere dagen.
+-	Emotionele reacties vastleggen zoals motivatiepieken en frustraties.
+-	Suggesties van verbeterpunten verzamelen 
+
+
+### Materiaal & methoden
+
+![image](https://github.com/user-attachments/assets/f4369090-456e-45a6-bd16-dbdbb7ee990e)
+
+Tijdens de testfase werd het fysiek prototype gebouwd uit 3D geprinte tegels met een plexiglas bovenlaag. De elektronica bestaat uit een Arduino Nano 33 IoT, een RGB LED,een lichtsensor, een breadboard, geleiders en voeding via een powerbank. De verschillende Arduino onderdelen zijn op de figuur hierboven te zien. De besturing van het spel is geprogrammeerd in python, waarbij de communicatie met de Arduino via een online MQTT-server verloopt. Enkel voor de initiële opstart van het spel is er het gebruik van de computer.
+
+![image](https://github.com/user-attachments/assets/9a12d4f4-41b2-4156-9c77-fbcda14afe81)
+
+Vooraleer de gebruikers effectief met het spel aan de slag gingen is een blackboxmodel ontworpen als basis. Hierin is vastgelegd wat elk onderdeel van het spel moet doen. Dit beschrijft de input-outputrelaties voor elk interactie-element. Dit model vormde de basis voor de opbouw van zowel de software (python) en de hardware (arduino).
+
+![image](https://github.com/user-attachments/assets/6533327a-e29d-446d-b217-02f187a46549)
+
+Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen in 1 groot bestand te plaatsen. Als laatste is er een optimalisatie in de python logica gebeurd voor een duidelijk overzicht te verkrijgen in de stappen. 
+
+![image](https://github.com/user-attachments/assets/edbe5ea7-2764-4274-baec-e31820c7c796)
+
+Voorafgaande aan de gebruikerstesten, werd het spel virtueel uitgevoerd door simulaties. De arduino’ worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld),hierbij werden de denkpatronen van de ouderen na gebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd .
+
+
+Pas nadat het prototype voldoende stabiel en logisch opgebouwd was startten de gebruikerstesten met de ouderen. Hierbij werden zes, 65 plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025. 
+Bij de voorbereiding werd het informed consent ondertekent. 
+Dag 1 staat in teken van start en observatie. De gebruiker speelt het spel voor het eerst onder toezicht van de observator en testleider. Door het gebruik van Wizard of Oz-methode, wordt het spel manueel opgestart via Python, gelinkt aan de activering van de powerbank door de gebruiker.
+Dag 2 bood de deelnemers de vrijheid om het spel zelfstandig te gebruiken in hun eigen omgeving.
+Dag 3 werd opnieuw begeleid door testleider en observator waarbij belangrijke veranderingen werden genoteerd. 
+Elke dag vulden de gebruikers een [logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6) in die verschillende aspecten van het spel bevragen. Op de laatste dag werd de System Usability Scale ook ingevuld (link SUS).
+
+### Resultaten
+
+### Conclusies & implicaties
+
 
 ## Bill of materials
 
