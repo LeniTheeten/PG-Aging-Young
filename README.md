@@ -420,9 +420,10 @@ Daarnaast werden nog een paar openvragen gesteld, en kwamen volgende tips naar v
 
 ![image](https://github.com/user-attachments/assets/e6135d1a-a764-46cf-a59e-103adf669461)![image](https://github.com/user-attachments/assets/dbb4374a-b8c1-4e3c-a8dc-3e25cb75efdd)![image](https://github.com/user-attachments/assets/60f1a2c6-172d-41ad-ad9a-18925590981f)
 
-Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de mensen van het product opzich zelf vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
+Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de mensen van het product vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
 
 ([rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Eb14NZj02RpJueEuV5QmxaYB_O-dqX9yAyYtQIq0YhjybQ?e=pGeihz))
+
 ([resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5))
 
 ![image](https://github.com/user-attachments/assets/1942d9a5-d578-4271-bdcf-da37fffb3767)
