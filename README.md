@@ -351,7 +351,12 @@ Dag 2 bood de deelnemers de vrijheid om het spel zelfstandig te gebruiken in hun
 Dag 3 werd opnieuw begeleid door testleider en observator waarbij belangrijke veranderingen werden genoteerd. 
 Elke dag vulden de gebruikers een [logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6) in die verschillende aspecten van het spel bevragen. Op de laatste dag werd de System Usability Scale ook ingevuld ([SUS](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/SUS%20manier%20van%20evalueren.docx?d=w91ce282902b3409fbf208a154169f6b8&csf=1&web=1&e=WeiZ9X)).
 
+![image](https://github.com/user-attachments/assets/07231d98-0818-4962-bcef-c458ec0b6bc6)
+
 Na afloop van de gebruikerstesten werd variety prototyping toegepast om het grootste probleem namelijk de lichtsensor te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD model ontworpen, waarbij rekening werd gehoudende met de [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Antropometrie%20voor%20mat.docx?d=wf4422da20f8345f8aac6a16d8c0e2820&csf=1&web=1&e=7ZRtCP). De technische schakeling van elke oplossing is gedocumenteerd in het hardwareprotocol ([protocol hardware](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Protocol%20Hardware.docx?d=wd72f397d27584b2ab4e4be95ab1c51c3&csf=1&web=1&e=eitscI)).  
+
+![image](https://github.com/user-attachments/assets/0588508f-c848-4d59-8326-61dee37b6268)
+
 
 ### Resultaten
 
