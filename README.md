@@ -316,7 +316,7 @@ In een volgende fase zal verder gewerkt worden op de ideale spelduur en het gara
 ## Development 2 (N = 6)
 
 ### Doelstellingen
-Het doel van de 2e ontwikkelfase is een electronica gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het protocol ([protocol development 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Protcol_Develop_2.docx?d=w7a63eda598a3493baf7f74cf83195043&csf=1&web=1&e=812wJg)), deze zijn:
+Het doel van de 2e ontwikkelfase is een elektronica gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het protocol ([protocol development 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Protcol_Develop_2.docx?d=w7a63eda598a3493baf7f74cf83195043&csf=1&web=1&e=812wJg)), deze zijn:
 -	Gebruiksvriendelijkheid evalueren: nagaan of het spel duidelijk en eenvoudig te gebruiken is voor gezonde ouderen, zonder externe hulp na een eerste introductie.
 -	Feedbacksystemen beoordelen: onderzoeken of de feedback die gebruikers krijgen tijdens het spel (zowel positief als bij fouten) voldoende en correct is. En nagaan welke vormen van feedback mogelijks ontbreken.
 -	Realistische gebruikerservaring vastleggen: begrijpen hoe het spel wordt gespeeld in een natuurlijke leefomgeving van de doelgroep over meerdere dagen.
