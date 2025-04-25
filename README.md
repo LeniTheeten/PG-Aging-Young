@@ -1,6 +1,6 @@
 # Active Harmony
 
-*"Active Harmony" is ontworpen als een stimulerende spel voor 65-plussers—een bron van beweging en mentale uitdaging en een interactieve activiteit waar lichaam en geest samenkomen voor welzijn en plezier.* 
+*"Active Harmony" is ontworpen als een stimulerende spel voor 65-plusser een bron van beweging en mentale uitdaging en een interactieve activiteit waar lichaam en geest samenkomen voor welzijn en plezier.* 
 
 *Aging Young: Barra Amber; Theeten Leni*
 
