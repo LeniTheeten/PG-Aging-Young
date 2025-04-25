@@ -438,7 +438,7 @@ Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de m
 > - DR 4.6 Wifi modules vlotter werken met elkaar en de code.
 > - DR 4.7 Meer feedback bij fouten geven.
 
-Verder werd er ook gekeken voor een ideale opstelling van de tegels, dit verder werkend op de **_antropometrie_** onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rond om de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
+Verder werd er ook gekeken voor een ideale opstelling van de tegels, dit verder werkend op het **_antropometrie_** onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rond om de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
 
 ![image](https://github.com/user-attachments/assets/a9b3d41b-d9b9-426b-aae0-d4b25127e534)
 
