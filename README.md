@@ -431,12 +431,12 @@ Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de m
 > [!IMPORTANT]
 > Design requirements:
 > - DR 4.1 Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.
-> - DR 4.2 Duur van muziek mag niet te lang
+> - DR 4.2 Duur van muziek mag niet te lang.
 > - DR 4.3 Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar.
-> - DR 4.4 Meer variatie in muziek brengen
-> - DR 4.5 Precisie van sensoren hoger
-> - DR 4.6 Wifi modules vlotter werken met elkaar en de code
-> - DR 4.7 Meer feedback bij fouten geven
+> - DR 4.4 Meer variatie in muziek brengen.
+> - DR 4.5 Precisie van sensoren hoger.
+> - DR 4.6 Wifi modules vlotter werken met elkaar en de code.
+> - DR 4.7 Meer feedback bij fouten geven.
 
 Verder werd er ook gekeken voor een ideale opstelling van de tegels, dit verder werkend op de **_antropometrie_** onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rond om de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
 
