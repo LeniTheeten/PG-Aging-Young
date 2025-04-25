@@ -400,8 +400,8 @@ De gebruikers vermelden deze problemen:
 Aan de hardware en techniek zijn er zeker nog wat aanpassingen en frustraties maar op gebruiksvriendelijkheid van het ontwerp werd wel goed gequoteerd.
 
 Vierde onderwerp ging over het begrip en zelfstandig gebruik. Deze bevindingen werden vastgesteld.
-- Het zelfstandig gebruik ging goed, op voorwaarde dat het spel voor spelen goed stapsgewijs werd uitgelegd.
-- Het spelen zelf vonden ze vlotter gaan in de ochtend (wanneer ze minder vermoeid zijn) dan in de avond
+- Het zelfstandig gebruik ging goed, op voorwaarde dat het spel voor spelen duidelijk stapsgewijs werd uitgelegd.
+- Het spelen zelf vonden ze vlotter gaan in de ochtend (wanneer ze minder vermoeid zijn) dan in de avond.
 - Ze ondervonden het spel als leuk, vrolijk makend en ontspannend.
 - Ze wilden het zelfs nog langer gebruiken.
 
