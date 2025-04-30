@@ -116,11 +116,8 @@ Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voo
 De eerste concepten uit de sprint day bevatten telkens een combinatie van beweging en muziek.
 
 ![ideegeneratie_1](https://github.com/user-attachments/assets/530793b8-f9f0-4b29-9911-5ddb9bdcbeb2)
-
 ![ideegeneratie_2](https://github.com/user-attachments/assets/06497c22-9405-43b3-9c5b-a164ada213ec)
-
 ![ideegeneratie_3](https://github.com/user-attachments/assets/4339071b-95d2-438e-9b46-4331fa41639d)
-
 ![ideegeneratie_4](https://github.com/user-attachments/assets/1b09792a-5b16-4bc0-b182-bd7496213d52)
 
 ### Conclusies & implicaties
