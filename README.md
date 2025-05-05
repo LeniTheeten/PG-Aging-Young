@@ -180,8 +180,10 @@ In de gebruikerstesten zowel **_wave 1_** als **_wave 2_** werden op dezelfde da
 
 | Onderzocht | Resultaat | Extra feedback |                  
 | --- | --- | --- |
+|**Wave 1**|
 | 'Intuïtief gebruik' | De meeste deelnemers herkenden de mat direct en begonnen zonder uitgebreide uitleg zelfstandig met de interactie. | Een fysiek fitte deelnemer benaderde de mat op een unieke manier door deze met zijn voet te draaien in plaats van zelf te bewegen. |
 | 'Bewegingsvrijheid' | De cirkelvorm werd als aangenaamst ontvangen, omdat deze het meest herkenbaar en logisch aanvoelde in combinatie met de cijfers, denk aan een klok. Andere vormen zoals de rechthoek of vierkant werden als minder aangenaam of te groot gezien. | Rollators vormden een probleem: de matten pasten er niet onder en het zicht op de figuren werd belemmerd. ![image](https://github.com/user-attachments/assets/b3689f0c-fdb9-4eb8-acac-c5eda0203ae0) |
+|**Wave 2**|
 | 'Gebruik symbolen & groottes' | Door onvoldoende kleurcontrast waren figuren en symbolen lastig te herkennen. Ouderen gaven aan dat kleurgebruik de zichtbaarheid zou verbeteren. Bij de piano-opstelling werden hoofdletters als duidelijker ervaren, ondanks hun gelijke grootte met andere tekens. | / |
 | 'Knop zacht of hard' | De zachtere knoppen werden verkozen vanwege het hogere comfort, vooral voor mensen met beperkte kracht in handen en voeten. | De uitstekende harde knoppen werden als een struikelgevaar ervaren, vooral door ouderen met een verminderde stabiliteit. |
 
