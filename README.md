@@ -203,7 +203,7 @@ Er werd een **_storyboard_** opgesteld om het concept verder te valideren bij de
 > - D2.7 Het spel moet bruikbaar zijn met een rollator of steunmogelijkheid voor balans.
 > - D2.8 Kleuren moeten visuele onderscheiding vergemakkelijken.
 > - D2.9 De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.
-> - 2.10 Struikelgevaar moet vermeden worden.
+> - D2.10 Struikelgevaar moet vermeden worden.
 
 Ook werden nog even de bestaande benchmarks (([rapport_benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=5866hT))) bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
 - Interactieve matten en digitale producten zoals de Nintendo Wii zijn vaak te intensief voor onze doelgroep.
@@ -487,6 +487,62 @@ Er zullen volgend semester ook 2 belangrijke aandachtspunten zijn. De lichtsterk
 
 De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse planning en taakverdeling. Wel werd duidelijk dat het huidige systeem, waarbij documenten en verslagen verspreid zijn over verschillende computers, zorgt voor een chaotisch overzicht. Dit vraagt voor een meer gestructureerde aanpak in semester 2. 
 
+## Design requirements
+|Nummer|Criteria|Bron|Datum|Toestand|
+|---|---|---|---|---|
+|**Discovery**|
+|1.1|De oplossing moet muziek, beweging en coördinatie combineren.|---|---|---|
+|1.2|De activiteit moet bijdragen aan zowel fysieke als cognitieve stimulatie.|onderzoek|datum|<details><summary>OK</summary><br>uitleg</details>|
+|1.3|Muziek moet op een intuïtieve manier geïntegreerd worden.|onderzoek|datum|---|
+|1.4|De oplossing moet cognitief uitdagend genoeg zijn en niet te eenvoudig.|onderzoek|datum|---|
+|1.5|Het concept moet meerdere cognitieve functies tegelijk aanspreken (zoals geheugen en reactievermogen).|onderzoek|datum|---|
+|1.6|Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen zich er comfortabel bij voelen.|onderzoek|datum|---|
+|1.7|De oplossing moet eenvoudig en laagdrempelig zijn, zonder ingewikkelde instructies.|onderzoek|datum|---|
+|1.8|Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.|onderzoek|datum|---|
+|**Definition**|
+|2.1|Het spel moet intuïtief en eenvoudig te gebruiken zijn.|onderzoek|datum|---|
+|2.2|Het ontwerp moet neutraal en volwassen ogen.|onderzoek|datum|---|
+|2.3|Voldoende bewegingsvrijheid is essentieel.|onderzoek|datum|---|
+|2.4|Ouderen moeten zich ontspannen voelen zonder evaluatiedruk.|onderzoek|datum|---|
+|2.5|Het concept moet makkelijk in een woonomgeving passen zonder grote aanpassingen.|onderzoek|datum|---|
+|2.6|De knoppen moeten comfortabel, duidelijk en goed leesbaar zijn.|onderzoek|datum|---|
+|2.7|Het spel moet bruikbaar zijn met een rollator of steunmogelijkheid voor balans.|onderzoek|datum|---|
+|2.8|Kleuren moeten visuele onderscheiding vergemakkelijken.|onderzoek|datum|---|
+|2.9|De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.|onderzoek|datum|---|
+|2.10|Struikelgevaar moet vermeden worden.|onderzoek|datum|---|
+|2.11|Instelbaar geluidsniveau in het spel.|onderzoek|datum|---|
+|2.12|Diverse spelmogelijkheden aanbieden.|onderzoek|datum|---|
+|2.13|Anti-sliplaag voor extra stabiliteit tijdens het spelen.|onderzoek|datum|---|
+|2.14|Geschikt voor meerdere spelers.|onderzoek|datum|---|
+|2.15|Keuze uit verschillende instrumentgeluiden en melodieën.|onderzoek|datum|---|
+|2.16|Opvouwbaarheid voor eenvoudig opbergen en transport|onderzoek|datum|---|
+|**Development 1**|
+|3.1|De benaderingen van het spel moeten de gulden snede volgen.|onderzoek|datum|---|
+|3.2|et product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.|onderzoek|datum|---|
+|3.3|Belangrijke visuele informatie moet binnen het centrale gezichtsveld geplaatst zijn.|onderzoek|datum|---|
+|3.4|Balansverstoringen mogen geen obstakel vormen in het gebruiken van het product.|onderzoek|datum|---|
+|3.5|De oefenomgeving moet veilige en gecontroleerde omstandigheden bieden.|onderzoek|datum|---|
+|3.6|De oplossing moet zowel met twee voeten als met een voet speelbaar zijn.|onderzoek|datum|---|
+|3.7|Het spel moet een goede balans hebben tussen complexiteit en speelbaarheid.|onderzoek|datum|---|
+|3.8|De oplossing moet een kabelvrije oplossing bieden.|onderzoek|datum|---|
+|3.9|Muziek met tekst moet geïntegreerd zijn in de oplossing.|onderzoek|datum|---|
+|3.10|Bij langdurig gebruik mogen geen frustraties naar boven komen.|onderzoek|datum|---|
+|3.11|De oplossing moet bestaan uit losse elementen.|onderzoek|datum|---|
+|3.12|De elementen moeten variabel te positioneren zijn.|onderzoek|datum|---|
+|3.13|De oplossing moet bewegingsvrijheid garanderen.|onderzoek|datum|---|
+|3.14|De oplossing moet compatibel zijn met een steunoptie naar keus.|onderzoek|datum|---|
+|3.15|De gebruiker mag niet uitgebrand zijn na gebruik.|onderzoek|datum|---|
+|3.16|Het spel moet positieve feedback geven.|onderzoek|datum|---|
+|3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|onderzoek|datum|---|
+|3.18|De elementen mogen niet falen tijdens lange rustmomenten.|onderzoek|datum|---|
+|**Development 2**|
+|4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|onderzoek|datum|---|
+|4.2|Duur van muziek mag niet te lang.|onderzoek|datum|---|
+|4.3|Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar.|onderzoek|datum|---|
+|4.4|Meer variatie in muziek brengen.|onderzoek|datum|---|
+|4.5|Precisie van sensoren hoger.|onderzoek|datum|---|
+|4.6|Wifi modules vlotter werken met elkaar en de code.|onderzoek|datum|---|
+|4.7|Meer feedback bij fouten geven.|onderzoek|datum|---|
 
 ## Bronnen
 
