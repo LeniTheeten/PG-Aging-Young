@@ -491,14 +491,14 @@ De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse 
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
 |**Discovery**|
-|1.1|De oplossing moet muziek, beweging en coördinatie combineren.|---|---|---|
-|1.2|De activiteit moet bijdragen aan zowel fysieke als cognitieve stimulatie.|onderzoek|datum|<details><summary>OK</summary><br>uitleg</details>|
-|1.3|Muziek moet op een intuïtieve manier geïntegreerd worden.|onderzoek|datum|---|
-|1.4|De oplossing moet cognitief uitdagend genoeg zijn en niet te eenvoudig.|onderzoek|datum|---|
-|1.5|Het concept moet meerdere cognitieve functies tegelijk aanspreken (zoals geheugen en reactievermogen).|onderzoek|datum|---|
-|1.6|Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen zich er comfortabel bij voelen.|onderzoek|datum|---|
-|1.7|De oplossing moet eenvoudig en laagdrempelig zijn, zonder ingewikkelde instructies.|onderzoek|datum|---|
-|1.8|Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.|onderzoek|datum|---|
+|1.1|De oplossing moet muziek, beweging en coördinatie combineren.|Literatuurstudie|---|---|
+|1.2|De activiteit moet bijdragen aan zowel fysieke als cognitieve stimulatie.|Literatuurstudie|datum|<details><summary>OK</summary><br>uitleg</details>|
+|1.3|Muziek moet op een intuïtieve manier geïntegreerd worden.|Literatuurstudie|datum|---|
+|1.4|De oplossing moet cognitief uitdagend genoeg zijn en niet te eenvoudig.|Literatuurstudie|datum|---|
+|1.5|Het concept moet meerdere cognitieve functies tegelijk aanspreken (zoals geheugen en reactievermogen).|Literatuurstudie|datum|---|
+|1.6|Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen zich er comfortabel bij voelen.|Literatuurstudie|datum|---|
+|1.7|De oplossing moet eenvoudig en laagdrempelig zijn, zonder ingewikkelde instructies.|Interview|datum|---|
+|1.8|Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.|Interview|datum|---|
 |**Definition**|
 |2.1|Het spel moet intuïtief en eenvoudig te gebruiken zijn.|onderzoek|datum|---|
 |2.2|Het ontwerp moet neutraal en volwassen ogen.|onderzoek|datum|---|
