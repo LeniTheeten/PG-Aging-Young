@@ -502,22 +502,22 @@ De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse 
 |1.7|De oplossing moet eenvoudig en laagdrempelig zijn, zonder ingewikkelde instructies.|Interview|datum|---|
 |1.8|Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.|Interview|datum|---|
 |**Definition**|
-|2.1|Het spel moet intuïtief en eenvoudig te gebruiken zijn.|onderzoek|datum|---|
-|2.2|Het ontwerp moet neutraal en volwassen ogen.|onderzoek|datum|---|
-|2.3|Voldoende bewegingsvrijheid is essentieel.|onderzoek|datum|---|
-|2.4|Ouderen moeten zich ontspannen voelen zonder evaluatiedruk.|onderzoek|datum|---|
-|2.5|Het concept moet makkelijk in een woonomgeving passen zonder grote aanpassingen.|onderzoek|datum|---|
-|2.6|De knoppen moeten comfortabel, duidelijk en goed leesbaar zijn.|onderzoek|datum|---|
-|2.7|Het spel moet bruikbaar zijn met een rollator of steunmogelijkheid voor balans.|onderzoek|datum|---|
-|2.8|Kleuren moeten visuele onderscheiding vergemakkelijken.|onderzoek|datum|---|
-|2.9|De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.|onderzoek|datum|---|
-|2.10|Struikelgevaar moet vermeden worden.|onderzoek|datum|---|
-|2.11|Instelbaar geluidsniveau in het spel.|onderzoek|datum|---|
-|2.12|Diverse spelmogelijkheden aanbieden.|onderzoek|datum|---|
-|2.13|Anti-sliplaag voor extra stabiliteit tijdens het spelen.|onderzoek|datum|---|
-|2.14|Geschikt voor meerdere spelers.|onderzoek|datum|---|
-|2.15|Keuze uit verschillende instrumentgeluiden en melodieën.|onderzoek|datum|---|
-|2.16|Opvouwbaarheid voor eenvoudig opbergen en transport|onderzoek|datum|---|
+|2.1|Het spel moet intuïtief en eenvoudig te gebruiken zijn.|Wave 1|datum|---|
+|2.2|Het ontwerp moet neutraal en volwassen ogen.|Wave 1|datum|---|
+|2.3|Voldoende bewegingsvrijheid is essentieel.|Wave 1|datum|---|
+|2.4|Ouderen moeten zich ontspannen voelen zonder evaluatiedruk.|Wave 1 & 2|datum|---|
+|2.5|Het concept moet makkelijk in een woonomgeving passen zonder grote aanpassingen.|Wave 1|datum|---|
+|2.6|De knoppen moeten comfortabel, duidelijk en goed leesbaar zijn.|Wave 2|datum|---|
+|2.7|Het spel moet bruikbaar zijn met een rollator of steunmogelijkheid voor balans.|Wave 1|datum|---|
+|2.8|Kleuren moeten visuele onderscheiding vergemakkelijken.|Wave 2|datum|---|
+|2.9|De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.|Wave 2|datum|---|
+|2.10|Struikelgevaar moet vermeden worden.|Wave 2|datum|---|
+|2.11|Instelbaar geluidsniveau in het spel.|Benchmark|datum|---|
+|2.12|Diverse spelmogelijkheden aanbieden.|Benchmark|datum|---|
+|2.13|Anti-sliplaag voor extra stabiliteit tijdens het spelen.|Benchmark|datum|---|
+|2.14|Geschikt voor meerdere spelers.|Benchmark|datum|---|
+|2.15|Keuze uit verschillende instrumentgeluiden en melodieën.|Benchmark|datum|---|
+|2.16|Opvouwbaarheid voor eenvoudig opbergen en transport|Benchmark|datum|---|
 |**Development 1**|
 |3.1|De benaderingen van het spel moeten de gulden snede volgen.|onderzoek|datum|---|
 |3.2|et product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.|onderzoek|datum|---|
