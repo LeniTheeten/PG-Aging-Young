@@ -519,24 +519,24 @@ De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse 
 |2.15|Keuze uit verschillende instrumentgeluiden en melodieën.|Benchmark|datum|---|
 |2.16|Opvouwbaarheid voor eenvoudig opbergen en transport|Benchmark|datum|---|
 |**Development 1**|
-|3.1|De benaderingen van het spel moeten de gulden snede volgen.|onderzoek|datum|---|
-|3.2|et product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.|onderzoek|datum|---|
-|3.3|Belangrijke visuele informatie moet binnen het centrale gezichtsveld geplaatst zijn.|onderzoek|datum|---|
-|3.4|Balansverstoringen mogen geen obstakel vormen in het gebruiken van het product.|onderzoek|datum|---|
-|3.5|De oefenomgeving moet veilige en gecontroleerde omstandigheden bieden.|onderzoek|datum|---|
-|3.6|De oplossing moet zowel met twee voeten als met een voet speelbaar zijn.|onderzoek|datum|---|
-|3.7|Het spel moet een goede balans hebben tussen complexiteit en speelbaarheid.|onderzoek|datum|---|
-|3.8|De oplossing moet een kabelvrije oplossing bieden.|onderzoek|datum|---|
-|3.9|Muziek met tekst moet geïntegreerd zijn in de oplossing.|onderzoek|datum|---|
-|3.10|Bij langdurig gebruik mogen geen frustraties naar boven komen.|onderzoek|datum|---|
-|3.11|De oplossing moet bestaan uit losse elementen.|onderzoek|datum|---|
-|3.12|De elementen moeten variabel te positioneren zijn.|onderzoek|datum|---|
-|3.13|De oplossing moet bewegingsvrijheid garanderen.|onderzoek|datum|---|
-|3.14|De oplossing moet compatibel zijn met een steunoptie naar keus.|onderzoek|datum|---|
-|3.15|De gebruiker mag niet uitgebrand zijn na gebruik.|onderzoek|datum|---|
-|3.16|Het spel moet positieve feedback geven.|onderzoek|datum|---|
-|3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|onderzoek|datum|---|
-|3.18|De elementen mogen niet falen tijdens lange rustmomenten.|onderzoek|datum|---|
+|3.1|De benaderingen van het spel moeten de gulden snede volgen.|Literatuuronderzoek|datum|---|
+|3.2|et product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.|Literatuuronderzoek|datum|---|
+|3.3|Belangrijke visuele informatie moet binnen het centrale gezichtsveld geplaatst zijn.|Literatuuronderzoek|datum|---|
+|3.4|Balansverstoringen mogen geen obstakel vormen in het gebruiken van het product.|Literatuuronderzoek|datum|---|
+|3.5|De oefenomgeving moet veilige en gecontroleerde omstandigheden bieden.|Literatuuronderzoek|datum|---|
+|3.6|De oplossing moet zowel met twee voeten als met een voet speelbaar zijn.|Literatuuronderzoek|datum|---|
+|3.7|Het spel moet een goede balans hebben tussen complexiteit en speelbaarheid.|Bevraging|datum|---|
+|3.8|De oplossing moet een kabelvrije oplossing bieden.|Bevraging|datum|---|
+|3.9|Muziek met tekst moet geïntegreerd zijn in de oplossing.|Bevraging|datum|---|
+|3.10|Bij langdurig gebruik mogen geen frustraties naar boven komen.|Bevraging|datum|---|
+|3.11|De oplossing moet bestaan uit losse elementen.|Gebruikerstest|datum|---|
+|3.12|De elementen moeten variabel te positioneren zijn.|Gebruikerstest|datum|---|
+|3.13|De oplossing moet bewegingsvrijheid garanderen.|Gebruikerstest|datum|---|
+|3.14|De oplossing moet compatibel zijn met een steunoptie naar keus.|Gebruikerstest|datum|---|
+|3.15|De gebruiker mag niet uitgebrand zijn na gebruik.|Gebruikerstest|datum|---|
+|3.16|Het spel moet positieve feedback geven.|Gebruikerstest|datum|---|
+|3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|Gebruikerstest|datum|---|
+|3.18|De elementen mogen niet falen tijdens lange rustmomenten.|Gebruikerstest|datum|---|
 |**Development 2**|
 |4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|onderzoek|datum|---|
 |4.2|Duur van muziek mag niet te lang.|onderzoek|datum|---|
