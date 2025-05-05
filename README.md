@@ -538,13 +538,13 @@ De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse 
 |3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|Gebruikerstest|datum|---|
 |3.18|De elementen mogen niet falen tijdens lange rustmomenten.|Gebruikerstest|datum|---|
 |**Development 2**|
-|4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|onderzoek|datum|---|
-|4.2|Duur van muziek mag niet te lang.|onderzoek|datum|---|
-|4.3|Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar.|onderzoek|datum|---|
-|4.4|Meer variatie in muziek brengen.|onderzoek|datum|---|
-|4.5|Precisie van sensoren hoger.|onderzoek|datum|---|
-|4.6|Wifi modules vlotter werken met elkaar en de code.|onderzoek|datum|---|
-|4.7|Meer feedback bij fouten geven.|onderzoek|datum|---|
+|4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|Gebruikerstest|datum|---|
+|4.2|Duur van muziek mag niet te lang.|Gebruikerstest|datum|---|
+|4.3|Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar.|Gebruikerstest|datum|---|
+|4.4|Meer variatie in muziek brengen.|Gebruikerstest|datum|---|
+|4.5|Precisie van sensoren hoger.|Gebruikerstest|datum|---|
+|4.6|Wifi modules vlotter werken met elkaar en de code.|Gebruikerstest|datum|---|
+|4.7|Meer feedback bij fouten geven.|Gebruikerstest|datum|---|
 
 ## Bronnen
 
