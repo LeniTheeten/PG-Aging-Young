@@ -4,10 +4,18 @@ const int echoPin = 8;
 float duur;
 float afstand;
 
+int roodPin= 9;
+int groenPin = 11;
+int blauwPin = 10;
+
+
 void setup() {
   Serial.begin(9600);               // Start seriële communicatie
   pinMode(trigPin, OUTPUT);         // trigPin als output
   pinMode(echoPin, INPUT);          // echoPin als input
+  pinMode(roodPin,  OUTPUT);              
+  pinMode(groenPin, OUTPUT);
+  pinMode(blauwPin, OUTPUT);
 }
 
 void loop() {
@@ -17,7 +25,7 @@ void loop() {
 
   // Stuur een korte puls van 10 microseconden
   digitalWrite(trigPin, HIGH);
-  delay(1000);
+  delay(500);
   digitalWrite(trigPin, LOW);
 
   // Meet de duur van de puls op echoPin
@@ -31,4 +39,18 @@ void loop() {
   Serial.println(" cm");
 
   delay(100); // Korte pauze voor stabiliteit
+
+  if (afstand < 2.00) {
+    setColor(255, 0, 0); // Rood
+  } else {
+    setColor(0, 0, 0);   // Uit
+  }
+
+  delay(100);
+}
+
+void setColor(int redValue, int greenValue,  int blueValue) {
+  analogWrite(roodPin, redValue);
+  analogWrite(groenPin,  greenValue);
+  analogWrite(blauwPin, blueValue);
 }

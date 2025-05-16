@@ -4,15 +4,16 @@
 WiFiClient wifiClient;
 MqttClient mqttClient(wifiClient);
 
-const char* ssid = "A35 van Leni";
-const char* password = "HotspotLeni";
+const char* ssid = "Amber Hotspot";
+const char* password = "BarAm_7069";
 
 const char* mqtt_server = "mqtt.eclipseprojects.io";
 const int mqtt_port = 1883;
  
 
 // set topics to subscribe to
-// const String topic = "ActiveHarmony/+/+/+/+"; // zetlicht/ mac / kleurencode
+// const String topic = "ActiveHarmony/+/+/+/+"; 
+// zetlicht/ mac / kleurencode
 
 // declare variable to story the incoming MQTT payload
 String payload;
@@ -21,7 +22,7 @@ int roodPin= 9;
 int groenPin = 11;
 int blauwPin = 10;
 
-const int sensorPin = A0; 
+const int knopPin = 2; 
 
 String getMacAdress(){
   char macStr[18];
@@ -31,8 +32,6 @@ String getMacAdress(){
 
   //Serial.print("MAC Address: ");
   sprintf(macStr, "%02X:%02X:%02X:%02X:%02X:%02X" , mac[0],mac[1], mac[2], mac[3],mac[4], mac[5]);
-  //Serial.println(macStr);
-  //Serial.println();
   return String(macStr);
 }
 
@@ -84,9 +83,7 @@ void setup() {
   pinMode(roodPin,  OUTPUT);              
   pinMode(groenPin, OUTPUT);
   pinMode(blauwPin, OUTPUT);
-
-  // while (!Serial && millis() < 5000);
-
+  pinMode(knopPin, INPUT);
   // Verbinden met WiFi
   Serial.print("Verbinden met WiFi... ");
   if (WiFi.begin(ssid, password) != WL_CONNECTED) {
@@ -97,15 +94,6 @@ void setup() {
   Serial.print("IP-adres: ");
   Serial.println(WiFi.localIP());
 
-/*
-  byte mac[6];
-  WiFi.macAddress(mac);
-
-  Serial.print("MAC Address: ");
-  sprintf(macStr, "%02X:%02X:%02X:%02X:%02X:%02X" , mac[0],mac[1], mac[2], mac[3],mac[4], mac[5]);
-  Serial.println(macStr);
-  Serial.println();
-*/
   // Verbinden met MQTT-server
   Serial.print("Verbinden met MQTT-broker... ");
   if (!mqttClient.connect(mqtt_server, mqtt_port)) {
@@ -143,7 +131,6 @@ void zetlicht(String input){
     Serial.println(blauw);
 
   // Vergelijk MAC-adres met macStr
-  // if (mac == macStr) {
     setColor(rood.toInt(), groen.toInt(), blauw.toInt());
     delay(2000);
     Serial.println("kleurwaarde");
@@ -155,13 +142,23 @@ void zetlicht(String input){
 
 void loop() {  
 
-  int lichtwaarde = analogRead(A0);  // Lees de analoge waarde van de lichtsensor
+  int lichtwaarde = digitalRead(knopPin);  // Lees de analoge waarde van de lichtsensor
     Serial.print("Lichtwaarde: ");
     Serial.println(lichtwaarde);  // Toon de waarde in de seriële monitor
     delay(500);
+  
+  int waardeVoorMQQT;
+
+  if (lichtwaarde == HIGH) {
+    waardeVoorMQQT = 100;
+    Serial.println(waardeVoorMQQT);
+  } else {
+    waardeVoorMQQT = 1000;   // LED uit
+    Serial.println(waardeVoorMQQT);
+  }
 
   char lichtwaardeStr[10]; // Buffer voor de lichtwaarde als string
-  sprintf(lichtwaardeStr, "%d", lichtwaarde); // Zet int om naar string
+  sprintf(lichtwaardeStr, "%d", waardeVoorMQQT); // Zet int om naar string
 
   // Mac adresss als char*
   const char* macStr = getMacAdress().c_str();
@@ -178,7 +175,8 @@ void loop() {
   Serial.println("MQTT bericht verzonden!");
   Serial.println(topic);
 
-  delay(100);  // Wacht 5 seconden voordat een nieuw bericht wordt verzonden
-
-  mqttClient.poll();
+  unsigned long vorigeTijd = millis();
+  while (millis() - vorigeTijd < 500) {
+    mqttClient.poll();
+  }
 }
