@@ -1,6 +1,6 @@
 # Active Harmony
 
-*"Active Harmony" stimuleert op een toegankelijke en leuke manier de fysieke en cognitieve gezondheid van ouderen, door middel va, interactieve muziekspelletjes die inspelen op herkenning, nostalgie en beweging* 
+*"Active Harmony" stimuleert op een toegankelijke en leuke manier de fysieke en cognitieve gezondheid van ouderen, door middel van, interactieve muziekspelletjes die inspelen op herkenning, nostalgie en beweging* 
 
 *Aging Young: Barra Amber; Theeten Leni*
 
