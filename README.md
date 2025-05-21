@@ -68,9 +68,6 @@ Om kwalitatieve inzichten te verkrijgen, werden interviews([Interview_protocol](
 
 In de sprintdag begon de ideegeneratiefase waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de innovatrix (om de graad van innovatie te bepalen) en de lotus ( om de brainstormsessie te structureren).
 
-In de definition fase werd het belang van een Benchmarkstudie ([Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)) duidelijk, waardoor er een benchmarkonderzoek werd uitgevoerd. Dit hielp bestaande oplossingen te identificeren en het duidelijk maken van de sterktes en zwaktes van elk bestaand product. Om een onderbouwd en gebruiksgericht concept te bekomen werden de sterktes ervan gecombineerd.
-
-
 ### Resultaten
 
 Uit de resultaten van de verschillende onderzoeken werden design requirements opgesteld, deze vormen een basis voor het uiteindelijk concept.
