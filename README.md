@@ -1,6 +1,6 @@
 # Active Harmony
 
-*"Active Harmony" is ontworpen als een stimulerende spel voor 65-plusser een bron van beweging en mentale uitdaging en een interactieve activiteit waar lichaam en geest samenkomen voor welzijn en plezier.* 
+*"Active Harmony" is ontworpen als een stimulerend spel voor 65-plussers een bron van beweging en mentale uitdaging en een interactieve activiteit waar lichaam en geest samenkomen voor welzijn en plezier.* 
 
 *Aging Young: Barra Amber; Theeten Leni*
 
@@ -8,21 +8,21 @@
 
 ## Samenvatting
 
-In onze huidige samenleving groeit de aandacht voor zowel mentale fitheid en fysieke gezondheid. Onderzoek heeft aangetoond dat het combineren van cognitieve en fysieke uitdagingen een versterkend effect heeft. Een veelbelovende methode is de **_Ronnie Gardiner Methode (RGM)_**. Deze maakt gebruik van ritme en muziek om motoriek, spraak en cognitieve functies te verbeteren. Door meerdere hersengebieden tegelijkertijd te activeren wordt de gehele hersenconditie verbeterd. 
+In onze huidige samenleving groeit de aandacht voor zowel mentale fitheid als fysieke gezondheid. Onderzoek heeft aangetoond dat het combineren van cognitieve en fysieke uitdagingen een versterkend effect heeft. Een veelbelovende methode is de **_Ronnie Gardiner Methode (RGM)_**. Deze maakt gebruik van ritme en muziek om motoriek, spraak en cognitieve functies te verbeteren. Door meerdere hersengebieden tegelijkertijd te activeren wordt de gehele hersenconditie verbeterd. 
 
 Om dit concept te vernieuwen werd eerst deskresearch gedaan naar de RGM. Vervolgens om een eerste concept op te stellen werden interviews afgenomen. Daarna zijn meerdere user-tests uitgevoerd om te evalueren of het concept technisch haalbaar is om het product te gaan realiseren en te zien of het concept eenvoudig genoeg is voor de ouderen om het te begrijpen.
 
-Het uiteindelijke concept is een **_interactieve mat_** waarmee de mensen in beweging komen en tegelijkertijd genieten van een muziek naar keuze. Tijdens het gebruik wordt de mat op de grond gelegd en geeft deze aanwijzingen waar de gebruiker zijn of haar voet moet plaatsen. Hierdoor creëren de spelers zelf muziek. Aan het einde van het spel horen ze het volledige liedje, mits het correct is uitgevoerd. De werking zorgt voor het stimuleren van de **_fysieke beweging_** doordat ouderen zich over de mat moeten bewegen om de juiste knoppen te gaan gebruiken en **_cognitieve verrijking_** die ontstaat doordat de gebruikers tijdens het spel goed moeten nadenken. 
+Het uiteindelijke concept is een **_interactieve mat_** waarmee de mensen in beweging komen en tegelijkertijd genieten van een muziek naar keuze. Tijdens het gebruik wordt de mat op de grond gelegd en geeft deze aanwijzingen waar de gebruiker zijn of haar voet moet plaatsen. Hierdoor creëren de spelers zelf muziek. Aan het einde van het spel horen ze het volledige liedje, mits het correct is uitgevoerd. De werking zorgt voor het stimuleren van de **_fysieke beweging_** omdat ouderen zich over de mat moeten bewegen om de juiste knoppen te gaan gebruiken en **_cognitieve verrijking_** die ontstaat omdat de gebruikers tijdens het spel goed moeten nadenken. 
 
 ![image](https://github.com/user-attachments/assets/2778c2cb-1524-4dfe-b493-660d175b26a0)
 
 
 ## Introductie
 
-In kader van het vak Project Gebruiksgericht Ontwerp en toepassing van het vak Gebruiksgericht Ontwerp, is de keuze gegeven uit drie challenges, de gekozen challenge voor dit project is Healthy Aging. Startende vanuit een bestaand concept, de Ronnie Gardiner Methode (RGM), wordt er gevraagd een nieuw concept te ontwikkelen of de RGM in een nieuw jasje te steken. Samengevat is de Ronnie Gardiner Methode een methode om mensen met ziektes zoals parkisons, revalidatie na hersenbloeding, etc… opnieuw in beweging te brengen terwijl er ook cognitieve uitdaging is. Het is een vrolijke, gestructureerde, multi-sensorische
-oefenmethode voor de hersenen, waarbij ritme en muziek worden ingezet om motoriek, spraak en cognitie te stimuleren. Dit zorgt ervoor dat mensen opnieuw mentaal fit worden. Het kan zowel alleen als in groep worden uitgevoerd.
+In kader van het vak Project Gebruiksgericht Ontwerp en toepassing van het vak Gebruiksgericht Ontwerp, kregen we de keuze uit drie challenges, de gekozen challenge voor dit project is Healthy Aging. Startende vanuit een bestaand concept, de Ronnie Gardiner Methode (RGM), wordt er gevraagd een nieuw concept te ontwikkelen of de RGM in een nieuw jasje te steken. Samengevat is de Ronnie Gardiner Methode een methode om mensen met ziektes zoals parkisons, revalidatie na hersenbloeding, etc opnieuw in beweging te brengen terwijl er ook cognitieve uitdaging is. Het is een vrolijke, gestructureerde, multi-sensorische oefenmethode voor de hersenen, waarbij ritme en muziek worden ingezet om motoriek, spraak en cognitie te stimuleren. Dit zorgt ervoor dat mensen opnieuw mentaal fit worden. Het kan zowel alleen als in groep worden uitgevoerd.
 
-De grote uitdaging bij dit project is 65-plussers mentaal en fysiek moeten worden gezond gehouden. De smart product design zorgt dat de interactie tussen gebruiker en het product moeiteloos verloopt. Het uiteindelijke concept zal zowel digitale als fysieke componenten bevatten. De mentale fitheid van ouderen kan worden beïnvloed door het sociaal contact met anderen, dit kan een invloed hebben voor het ontwerpen voor een enkel individu of een concept voor in groep.
+De grote uitdaging bij dit project, is 65-plussers mentaal en fysiek gezond moeten worden gehouden. De smart product design zorgt dat de interactie tussen gebruiker en het product moeiteloos verloopt. Het uiteindelijke concept zal zowel digitale als fysieke componenten bevatten. De mentale fitheid van ouderen kan worden beïnvloed door het sociaal contact met anderen. Dit kan een invloed hebben bij het ontwerpen voor een enkel individu of een concept in groep.
+
 Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 -	Veiligheid: De bewegingen mogen de fysieke mogelijkheden van de deelnemers niet overstijgen.
 -	Gebruiksvriendelijkheid: De instructies moeten helder en eenvoudig geformuleerd zijn.
@@ -34,48 +34,48 @@ Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 
 ![image](https://github.com/user-attachments/assets/f6b9e9de-82e3-4a7d-8c11-6fd9f5cc42a5)
 
-Het gehele ontwerpproces van deze opdracht is vastgelegd met de double diamond methodologie. In de discovery fase wordt de vraag gesteld ‘Wat is het probleem?’.Om wat meer in de diepte te gaan over de RGM methode werd er een literatuurstudie uitgevoerd. Hierin werden zaken in verband met de RGM methode en cognitieve bevordering van het menselijk brein onderzocht. Uit de intevieuws met de gebruikers kwam er een duidelijk beeld van overeenkomsten waarop een persona en user model werdt gebaseerd. Doorheen de onderzoeken werdt een WWWWH-model opgesteld. In deze eerste fase werdt in een sprint dag aan een eerste ideegeneratie gedaan. 
+Het gehele ontwerpproces van deze opdracht is vastgelegd met de double diamond methodologie. In de discovery fase wordt de vraag gesteld: ‘Wat is het probleem?’. Om wat meer in de diepte te gaan over de RGM methode werd er een literatuurstudie uitgevoerd. Hierin werden zaken in verband met de RGM methode en cognitieve bevordering van het menselijk brein onderzocht. Uit de inteviews met de gebruikers kwam er een duidelijk beeld van overeenkomsten waarop een persona en user model werd gebaseerd. Doorheen de onderzoeken werdt een WWWWH-model opgesteld. In deze eerste fase werdt in een sprint dag aan een eerste ideegeneratie gedaan. 
 
-Het verder werken van de kern van het probleem werdt gedaan in de definition fase. In de defenition is de vraag “Wat is de oplossing?” essentieel.Eerste prototypes en concept sketches werden gemaakt om te pitchen aan klasgenoten. Ook vroegtijdig gebruikerstesten werden afgelegd om zo feedback te krijgen van het doelpubliek. De feedback van de gebruikers was essentieel om inzicht te krijgen in de noden die zullen worden aangepakt door toepassen van de RGM methode in een product. Uit elk onderzoek werden design requirements opgesteld die het finaal concept laten voldoen aan de noden van de gebruikers. 
+Het verder werken aan de kern van het probleem werd gedaan in de definition fase. In de definition is de vraag: “Wat is de oplossing?” essentieel. Eerste prototypes en concept sketches werden gemaakt om te pitchen aan klasgenoten. Ook vroegtijdig gebruikerstesten werden afgelegd om zo feedback te krijgen van het doelpubliek. De feedback van de gebruikers was essentieel om inzicht te krijgen in de noden die zullen worden aangepakt door het toepassen van de RGM methode in een product. Uit elk onderzoek werden design requirements opgesteld die het finaal concept laten voldoen aan de noden van de gebruikers. 
 
 ![image](https://github.com/user-attachments/assets/4e29b6cf-4c96-437e-8fac-ce9fd3a5186e)
 
 ## Discovery (N = 3)
 
-In de discovery wordt een duidelijke probleemstelling gedefinieerd. Er wordt onderzocht welke oplossingen er kunnen zijn voor de problemen of welke verbeteringen kunnen gedaan worden. Dit aan de hand van ideegeneratie, literatuuronderzoek en interviews wordt er een product gegenereerd voor gezonde ouderen die cognitief en motoriek stimuleert.
+In de discovery wordt een duidelijke probleemstelling gedefinieerd. Er wordt onderzocht welke oplossingen er kunnen zijn voor de problemen of welke verbeteringen kunnen gedaan worden. Dit aan de hand van ideegeneratie, literatuuronderzoek en interviews wordt er een product gegenereerd voor gezonde ouderen dat cognitief en motoriek stimuleert.
 
 ### Doestellingen
 
 De probleemstelling:
 
-Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plussers, vereist een aanpak die zowel cognitieve stimulatie als fysieke en mentale activiteit bevordert. Het is het ontwikkelen van een nieuw, digitaal en fysieke ondersteunde methode die zowel muzikale als actieve elementen combineert, en dit mogelijk voor een gezonde 65-plussers.
+Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plussers, vereist een aanpak die zowel cognitieve stimulatie als fysieke en mentale activiteit bevordert. Het is het ontwikkelen van een nieuw, digitaal en fysiek ondersteunde methode die zowel muzikale als actieve elementen combineert, en dit mogelijk voor een gezonde 65-plussers.
 
 ![Ideegeneratie](https://github.com/user-attachments/assets/e1c290d8-a3cf-495a-b57d-cf64afa9652f)
 
 ### Materiaal & methoden
 
-Om een gestructureerde en onderbouwde probleemstelling te formuleren, werd gebruik gemaakt van de Definition Template, waarmee een “How might we? “- vraag werd opgesteld. Voorafgaande hieraan werdt het WWWWH-model toegepast om de onderzoeksvraag te verfijnen.
+Om een gestructureerde en onderbouwde probleemstelling te formuleren, werd gebruik gemaakt van de Definition Template, waarmee een "How might we?" - vraag werd opgesteld. Voorafgaande hieraan werd het WWWWH-model toegepast om de onderzoeksvraag te verfijnen.
 
-Allereerst werd een literatuurstudie ([Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)) uitgevoerd aan de hand van een onderzoeksprotocol waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
+Allereerst een literatuurstudie ([Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)) aan de hand van een onderzoeksprotocol waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
 De centrale onderzoeksvragen waren:
 1. Hoe werkt de RGM-methode?
 2. Wat doet muziek met het menselijk brein en lichaam?
 3. Wat zijn cognitieve functies of vaardigheden?
 4. Hoe kan healthy aging worden bevorderd?
 
-Om kwalitatieve inzichten te verkrijgen, werden intervieuws([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen.Voorafgaande aan elk interview werd een [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun) ondertekend. Uit de inzichten van de intervieuws werd een persona en [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & [Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) opgesteld.
+Om kwalitatieve inzichten te verkrijgen, werden interviews([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen.Voorafgaande aan elk interview werd een [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun) ondertekend. Uit de inzichten van de intervieuws werd een persona en [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & [Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) opgesteld.
 
 
 In de sprintdag begon de ideegeneratiefase waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de innovatrix (om de graad van innovatie te bepalen) en de lotus ( om de brainstormsessie te structureren).
 
-In de definition fase werdt het belang van een Benchmarkstudie ([Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)) duidelijk, waardoor er een benchmarkonderzoek werdt uitgevoerd. Dit hielp bestaande oplossingen te identificeren en het duidelijk maken van de sterktes en zwaktes van elk bestaand product. Om een onderbouwd en gebruiksgericht concept te bekomen werden de sterktes ervan gecombineerd.
+In de definition fase werd het belang van een Benchmarkstudie ([Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Benchmarks_protocol.pdf?csf=1&web=1&e=Gly0SN)) duidelijk, waardoor er een benchmarkonderzoek werd uitgevoerd. Dit hielp bestaande oplossingen te identificeren en het duidelijk maken van de sterktes en zwaktes van elk bestaand product. Om een onderbouwd en gebruiksgericht concept te bekomen werden de sterktes ervan gecombineerd.
 
 
 ### Resultaten
 
 Uit de resultaten van de verschillende onderzoeken werden design requirements opgesteld, deze vormen een basis voor het uiteindelijk concept.
 
-In researchen van het literatuur onderzoekt blijkt dat een combinatie van muziek, beweging en kleur bijdraagt tot een fysieke en cognitieve stimulatie. Deze bevordert nieuwe verbindingen in de hersenen en helpt bij het behouden van het welzijn van de gebruikers. Daarbij heeft muziek een positief effect op emoties en motorische vaardigheden.
+Uit het literatuur onderzoek blijkt dat een combinatie van muziek, beweging en kleur bijdraagt tot een fysieke en cognitieve stimulatie. Deze bevordert nieuwe verbindingen in de hersenen en helpt bij het behouden van het welzijn van de gebruikers. Daarbij heeft muziek een positief effect op emoties en motorische vaardigheden.
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -90,17 +90,17 @@ Cognitieve functies zoals geheugen en aandacht zijn essentieel voor de 65+ers om
 > - D1.4 De oplossing moet cognitief uitdagend genoeg zijn en niet te eenvoudig.
 > - D1.5 Het concept moet meerdere cognitieve functies tegelijk aanspreken (zoals geheugen en reactievermogen).
 
-Stressmanagement, levenskwaliteit en sociale interactie beïnvloed het gezond ouder worden, sociaal contact / een sociaal component kan bijdragen aan betere hechtvastheid van de ouderen om het concept te gaan toepassen.
+Stressmanagement, levenskwaliteit en sociale interactie beïnvloeden  het gezond ouder worden, sociaal contact / een sociaal component kan bijdragen aan betere hechtvastheid van de ouderen om het concept te gaan toepassen.
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D1.6 Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen zich er comfortabel bij voelen.
+> - D1.6 Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen er zich comfortabel bij voelen.
 
 Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
 
 ![image](https://github.com/user-attachments/assets/2abd9b14-ba42-4f3c-8164-35650cb89cd3)
 
-Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voor een activiteit met muziek en beweging, maar in beperkte mate. De voorkeur gaat uit naar oefeningen die in de ochtend of voormiddag plaatsvinden omdat de namiddag een vaste routine heeft meestal. Voor onze doelgroep is een eenvoudige en duidelijke interface belangrijk door bijvoorbeeld zaken als gehoor- en zichtverlies. De populairste sociale en cognitieve spellen bij de ouderen zijn kaarten, Sudoku en Rummikub.
+Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voor een activiteit met muziek en beweging, maar in beperkte mate. De voorkeur gaat uit naar oefeningen die in de ochtend of voormiddag plaatsvinden omdat de namiddag meestal een vaste routine heeft. Voor onze doelgroep is een eenvoudige en duidelijke interface belangrijk door bijvoorbeeld zaken als gehoor- en zichtverlies. De populairste sociale en cognitieve spellen bij de ouderen zijn kaarten, Sudoku en Rummikub.
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -122,14 +122,14 @@ De eerste concepten uit de sprint day bevatten telkens een combinatie van bewegi
 
 ### Conclusies & implicaties
 
-De belangrijkste designbeslissingen uit de defenition fase, door de inzichten van de verschillende onderzoeken te combineren, zijn: 
+De belangrijkste designbeslissingen uit de definition fase, door de inzichten van de verschillende onderzoeken te combineren, zijn: 
 -	De toegankelijkheid voor ouderen boven de 65 jaar, zodanig dat het product geschikt en intuïtief is.
 -	Gezondheidsbevorderende elementen zoals muziek, beweging en sociale interactie die helpen bij de mentale gezondheid en hiermee de kern vormen van de oplossing.
--	De combnatie van muziek en beweging die op een interactieve manier cognitieve en fysieke stimulatie ondersteunt, verwerkt in een spelvorm.
+-	De combinatie van muziek en beweging die op een interactieve manier cognitieve en fysieke stimulatie ondersteunt, verwerkt in een spelvorm.
 -	Gebruiksvriendelijkheid: de doelgroep moet vlot en zonder veel uitleg met het product kunnen werken.
--	Visuele ondersteuning zoals kleuren figuren en vershillende symbolen. 
+-	Visuele ondersteuning zoals kleuren figuren en verschillende symbolen. 
 
-Het voorlopig concept is een interactieve mat met een projectie van een instrument of spel, dit concept combineert beweging met een visuele ervaring. Dit zal in de Defenition fase verder onderzocht worden door middel van tests.
+Het voorlopig concept is een interactieve mat met een projectie van een instrument of spel, dit concept combineert beweging met een visuele ervaring. Dit zal in de Definition fase verder onderzocht worden door middel van tests.
 
 
 
@@ -156,9 +156,9 @@ Het onderzoek werd in 2 waves uitgevoerd, hierbij werd gebruik gemaakt van een c
 - Kartonnen prototypes: simulaties van de mat met verschillende lay-outs
 - Digitale interfaces: een Figma template werd voorbereid op de laptop om te spelinteractie te simuleren.
 
-Deze verschillende prototypes werden ontwikkeld en getest om onbruikbaarheid en ontwerp inzicht te krijgen. De testen zelf vonden plaats op 8 december.
+Deze verschillende prototypes werden ontwikkeld en getest om bruikbaarheid en ontwerp inzichten te krijgen. De testen zelf vonden plaats op 8 december.
 
-De gebruikte materialen zijn opgedeeld in gebruik: 
+De toegepaste materialen zijn opgedeeld in gebruik: 
 -	Voor snelle aanpassing aan de matopstelling: plakband en karton
 -	Muzikale begeleiding en spelprojectie: laptopscherm met interne speaker
 -	Leesbaarheid testen: afgedrukte piano lay-outs
@@ -166,7 +166,7 @@ De gebruikte materialen zijn opgedeeld in gebruik:
 
 De testen volgden een methodische aanpak: Leni observeerde en noteerde de natuurlijke interactie met het product, terwijl Amber als testleider vragen stelde en inzichten verzamelde via het "think aloud protocol". Daarnaast werden, met toestemming, foto’s en video’s vastgelegd voor verdere analyse.
 
-Voor de **_eerste test_** werd een([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa))opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.. 
+Voor de **_eerste test_** werd een([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa))opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd door de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.. 
 
 De **_tweede test_** volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.
 
@@ -176,7 +176,7 @@ Er werd een **_benchmarking_** onderzoek uitgevoerd voor het concept. Hier werd 
 
 ### Resultaten
 
-In de gebruikerstesten zowel **_wave 1_** als **_wave 2_** werden op dezelfde dag afgelegd, onder begeleiding van Theeten Leni en Barra Amber. Alle deelnemers ondertekenden het **_informed consent_** met nog extra toestemming van een van de hoofdverplegers. De resultaten tonen herhaaldelijke inzichten en benadrukken zowel positieve aspecten als verbeterpunten van het concept.
+In de gebruikerstesten zowel **_wave 1_** als **_wave 2_** werden op dezelfde dag afgelegd, onder begeleiding van Theeten Leni en Barra Amber. Alle deelnemers ondertekenden het **_informed consent_** met nog extra toestemming van één van de hoofdverplegers. De resultaten tonen herhaaldelijke inzichten en benadrukken zowel positieve aspecten als verbeterpunten van het concept.
 
 | Onderzocht | Resultaat | Extra feedback |                  
 | --- | --- | --- |
@@ -224,7 +224,7 @@ Ook werden nog even de bestaande benchmarks (([rapport_benchmarks](https://ugent
 ### Conclusies & implicaties
 
 Uit de testen bleek dat het concept intuïtief te gebruiken was. Het concept zal verder worden ontwikkeld met verbeteringen in leesbaarheid, kleurgebruik en materiaalkeuze.
-Eerder werd uitgegaan van mobiele ouderen zonder hulpmiddelen, maar op basis van feedback is het concept uitgebreid naar gebruikers met rollators of wandelstokken. Dit leidde tot een pivot: de focus ligt nu op zelfstandig wonende, actieve ouderen.  Er worden obstakelvrij en knoppen gebruiksvriendelijk ontworpen, zodat ze zonder achterwaarts kijken bediend kunnen worden
+Eerder werd uitgegaan van mobiele ouderen zonder hulpmiddelen, maar op basis van feedback is het concept uitgebreid naar gebruikers met rollators of wandelstokken. Dit leidde tot een pivot: de focus ligt nu op zelfstandig wonende, actieve ouderen.  Er worden obstakelvrij en knoppen gebruiksvriendelijk ontworpen, zodat ze zonder achterwaarts kijken bediend kunnen worden.
 
 ## Development 1 (N = 4)
 
@@ -245,7 +245,7 @@ Er werd een **_literatuuronderzoek_** ([protocol](https://ugentbe-my.sharepoint.
 
 Er werd verder gewerkt aan de validatie van het concept en het verzamelen van meningen over alternatieve ideeën. Omdat eerdere validatie nog onvoldoende was, werd een **_bevraging_** opgesteld en via **_Google Forms_** verspreid onder de doelgroep. De enquête bestond uit meerkeuze- en open vragen om zowel kwantitatieve als kwalitatieve inzichten te verkrijgen. Daarnaast werden aanvullende aandachtspunten bevraagd voor het verdere ontwerpproces, met bijbehorend ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Ec1hUPYb7zRDoE2LG7lhJQwBG3r8PADqIow15AuP48VzOw?e=6swvXS)) en rapport.
 
-Om het ontwerpproces verder te zetten, werd gezocht naar **_antropometrische data_** ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERhBBPLdsilCtcZHyxPOscEBoxuF0XTou8eZ1hebcRLUUw?e=PYHdz9)), die later in het design verwerkt kan worden. Deze informatie werd verzameld via DINBelg en andere betrouwbare bronnen. Dit werd in een kleine analyse geplaats.
+Om het ontwerpproces verder te zetten, werd gezocht naar **_antropometrische data_** ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERhBBPLdsilCtcZHyxPOscEBoxuF0XTou8eZ1hebcRLUUw?e=PYHdz9)), die later in het design verwerkt kan worden. Deze informatie werd verzameld via DINBelg en andere betrouwbare bronnen. Dit werd in een kleine analyse geplaatst.
 
 Tot slot werden opnieuw **_gebruikerstesten_** ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EbBdN8cEEBZEnKubPO4GDcIB7URGulgF5_XDvzKcvhPH5g?e=SLeIz9)) uitgevoerd volgens een vooraf opgesteld protocol, met achteraf een rapport. De testen vonden thuis plaats, waarbij observaties, foto’s en video’s werden verzameld voor latere analyse. Het product werd opnieuw gevalideerd via verschillende testen:
 - Zowel losse als vaste matten werden getest.
@@ -275,29 +275,29 @@ Parallel aan het literatuuronderzoek werden gebruikers bevraagd ([rapport](https
 
 > [!IMPORTANT]
 > Design requirements:
-> - DR 3.7 Het spel moet een goede balans hebben tussen complexiteit en speelbaarheid
-> - DR3.8 De oplossing moet een kabelvrije oplossing bieden
-> - DR 3.9 Muziek met tekst moet geïntegreerd zijn in de oplossing
-> - DR 3.10 Bij langdurig gebruik mogen geen frustraties naar boven komen
+> - DR 3.7 Het spel moet een goede balans hebben tussen complexiteit en speelbaarheid.
+> - DR3.8 De oplossing moet een kabelvrije oplossing bieden.
+> - DR 3.9 Muziek met tekst moet geïntegreerd zijn in de oplossing.
+> - DR 3.10 Bij langdurig gebruik mogen geen frustraties naar boven komen.
 
 Op basis van deze inzichten werden gebruikerstesten uitgevoerd ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EY-EuLq6HiFLntbR0UOzbjcBp-6xQOo4F3TqE37nIXbfDA?e=mqJhR4)). Zoals in de bevraging werd bevestigd dat een vaste tegelopstelling minder praktisch was vanwege de beperkte bewegingsvrijheid. Tijdens het spelen grepen de gebruikers intuïtief naar een tafel of een lage stoelleuning als steunpunt, maar dit werd niet als noodzakelijk ervaren.
 
 ![image](https://github.com/user-attachments/assets/b0ddf925-ee63-4acb-842a-8df5783fc248)
 
-De twee varianten van een memory-spel toonden geen significant verschil in duur en mentale belasting. Wel werd duidelijk dat het spel niet langer dan 20-30 minuten mag duren, omdat fysieke belasting en frustraties toenemen bij herhaling. “Goh kvoel het toch wel al in me heupen en benen hoor!" Het onderscheiden van de huidige sequentie en dat van het vorig spel was voor de ouderen zeer moeilijk.
+De twee varianten van een memory-spel toonden geen significant verschil in duur en mentale belasting. Wel werd duidelijk dat het spel niet langer dan 20-30 minuten mag duren, omdat fysieke belasting en frustraties toenemen bij herhaling. “Goh kvoel het toch wel al in mijn heupen en benen hoor!" Het onderscheiden van de huidige sequentie en dat van het vorig spel was voor de ouderen zeer moeilijk.
 
 Intuïtief verplaatsten de ouderen zicht van tegel naar tegel, waarbij steeds maar één voet tegelijk op een tegel werd geplaatst.
 
 > [!IMPORTANT]
 > Design requirements:
-> - DR 3.11 De oplossing moet bestaan uit losse elementen
-> - DR 3.12 De elementen moeten variabel te positioneren zijn
-> - DR 3.13 De oplossing moet bewegingsvrijheid garanderen
-> - DR 3.14 De oplossing moet compatibel zijn met een steunoptie naar keus
-> - DR 3.15 De gebruiker mag niet uitgebrand zijn na gebruik
-> - DR 3.16 Het spel moet positieve feedback geven
-> - DR 3.17 De activiteit moet kunnen plaatsvinden met 1 voet aanraking
-> - DR 3.18 De elementen mogen niet falen tijdens lange rustmomenten
+> - DR 3.11 De oplossing moet bestaan uit losse elementen.
+> - DR 3.12 De elementen moeten variabel te positioneren zijn.
+> - DR 3.13 De oplossing moet bewegingsvrijheid garanderen.
+> - DR 3.14 De oplossing moet compatibel zijn met een steunoptie naar keus.
+> - DR 3.15 De gebruiker mag niet opgebrand zijn na gebruik.
+> - DR 3.16 Het spel moet positieve feedback geven.
+> - DR 3.17 De activiteit moet kunnen plaatsvinden met 1 voet aanraking.
+> - DR 3.18 De elementen mogen niet falen tijdens lange rustmomenten.
 
 ![image](https://github.com/user-attachments/assets/3e63eda0-835c-4cd2-87d7-688ed135826c)
 ![image](https://github.com/user-attachments/assets/a4216468-eb34-48dc-8bcf-e84dcc00a14f)
@@ -306,20 +306,20 @@ Intuïtief verplaatsten de ouderen zicht van tegel naar tegel, waarbij steeds ma
 
 Een modulaire en flexibele opstelling is belangrijk voor de gebruikers, waardoor er verder wordt gewerkt met losse, verplaatsbare elementen. Om struikelgevaar voor ouderen te minimaliseren, moeten de elementen draadloos met elkaar verbonden zijn.
 
-Visuele en auditieve ondersteuning zijn, zoals hiervoor aangehaald, een centraal aspect in het ontwerp. De visuele informatie mag geen beperking vormen voor ouderen bij wie het zicht en kleurenperceptie achteruitgaat. De auditieve ondersteuning door muziek moet met tekst worden aangeboden om een aangenamere gebruikerservaring te garanderen.
+Visuele en auditieve ondersteuning zijn, zoals hiervoor aangehaald, een centraal aspect in het ontwerp. De visuele informatie mag geen beperking vormen voor ouderen bij wie het zicht en de kleurenperceptie achteruitgaan. De auditieve ondersteuning door muziek moet met tekst worden aangeboden om een aangenamere gebruikerservaring te garanderen.
 
-Voor de 65-plussers die nog goed evenwicht hebben is een steunoppervlak niet nodig, terwijl dit bij de ouderen in het rusthuis wel noodzakelijk was. Omdat we in de vorige fase de pivot gemaakt hebben om de doelgroep te wijzigen, is de steun van een tafel of stoel aanwezig in de woning van de gebruiker voldoende ondersteuning. 
+Voor de 65-plussers die nog goed evenwicht hebben, is een steunoppervlak niet nodig, terwijl dit bij de ouderen in het rusthuis wel noodzakelijk was. Omdat we in de vorige fase de pivot gemaakt hebben om de doelgroep te wijzigen, is de steun van een tafel of stoel aanwezig in de woning van de gebruiker voldoende ondersteuning. 
 
-In een volgende fase zal verder gewerkt worden op de ideale spelduur en het garanderen van positieve feedback om de motivatie te behouden.
+In een volgende fase zal verder gewerkt worden aan de ideale spelduur en het garanderen van positieve feedback om de motivatie te behouden.
 
 ![Heroshot aparte tegels](https://github.com/user-attachments/assets/ed30ad2f-e1d1-4804-b508-08e306ae637e)
 
 ## Development 2 (N = 6)
 
 ### Doelstellingen
-Het doel van de 2e ontwikkelfase is een elektronica gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het protocol ([protocol development 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Protcol_Develop_2.docx?d=w7a63eda598a3493baf7f74cf83195043&csf=1&web=1&e=812wJg)), deze zijn:
+Het doel van de 2e ontwikkelfase is een elektronica-gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het protocol ([protocol development 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Protcol_Develop_2.docx?d=w7a63eda598a3493baf7f74cf83195043&csf=1&web=1&e=812wJg)), deze zijn:
 -	Gebruiksvriendelijkheid evalueren: nagaan of het spel duidelijk en eenvoudig te gebruiken is voor gezonde ouderen, zonder externe hulp na een eerste introductie.
--	Feedbacksystemen beoordelen: onderzoeken of de feedback die gebruikers krijgen tijdens het spel (zowel positief als bij fouten) voldoende en correct is. En nagaan welke vormen van feedback mogelijks ontbreken.
+-	Feedbacksystemen beoordelen: onderzoeken of de feedback die gebruikers krijgen tijdens het spel (zowel positief als bij fouten) voldoende en correct is. En nagaan welke vormen van feedback mogelijk ontbreken.
 -	Realistische gebruikerservaring vastleggen: begrijpen hoe het spel wordt gespeeld in een natuurlijke leefomgeving van de doelgroep over meerdere dagen.
 -	Emotionele reacties vastleggen zoals motivatiepieken en frustraties.
 -	Suggesties van verbeterpunten verzamelen 
@@ -329,32 +329,32 @@ Het doel van de 2e ontwikkelfase is een elektronica gestuurd prototype meegeven 
 
 ![image](https://github.com/user-attachments/assets/f4369090-456e-45a6-bd16-dbdbb7ee990e)
 
-Tijdens de testfase werd het fysiek prototype gebouwd uit 3D geprinte tegels met een plexiglas bovenlaag. De elektronica bestaat uit een Arduino Nano 33 IoT, een RGB LED,een lichtsensor, een breadboard, geleiders en voeding via een powerbank. De verschillende Arduino onderdelen zijn op de figuur hierboven te zien. De besturing van het spel is geprogrammeerd in python, waarbij de communicatie met de Arduino via een online MQTT-server verloopt. Enkel voor de initiële opstart van het spel is er het gebruik van de computer.
+Tijdens de testfase werd het fysieke prototype gebouwd uit 3D-geprinte tegels met een plexiglas bovenlaag. De elektronica bestaat uit een Arduino Nano 33 IoT, een RGB-LED,een lichtsensor, een breadboard, geleiders en voeding via een powerbank. De verschillende Arduino-onderdelen zijn op de figuur hierboven te zien. De besturing van het spel is geprogrammeerd in Python, waarbij de communicatie met de Arduino via een online MQTT-server verloopt. Enkel voor de initiële opstart van het spel is er het gebruik van de computer.
 
 ![image](https://github.com/user-attachments/assets/9a12d4f4-41b2-4156-9c77-fbcda14afe81)
 
-Vooraleer de gebruikers effectief met het spel aan de slag gingen is een blackboxmodel ontworpen als basis. Hierin is vastgelegd wat elk onderdeel van het spel moet doen. Dit beschrijft de input-outputrelaties voor elk interactie-element. Dit model vormde de basis voor de opbouw van zowel de software (python) en de hardware (arduino). 
+Vooraleer de gebruikers effectief met het spel aan de slag gingen, is een blackboxmodel ontworpen als basis. Hierin is vastgelegd wat elk onderdeel van het spel moet doen. Dit beschrijft de input-outputrelaties voor elk interactie-element. Dit model vormde de basis voor de opbouw van zowel de software (Python) als de hardware (Arduino). 
 
 ![image](https://github.com/user-attachments/assets/6533327a-e29d-446d-b217-02f187a46549)
 
-Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen in 1 groot bestand te plaatsen. Als laatste is er een optimalisatie in de python logica gebeurd voor een duidelijk overzicht te verkrijgen in de stappen. 
+Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen in 1 groot bestand te plaatsen. Als laatste is er een optimalisatie in de Python-logica gebeurd om een duidelijk overzicht te verkrijgen in de stappen. 
 
 ![image](https://github.com/user-attachments/assets/edbe5ea7-2764-4274-baec-e31820c7c796)
 
-Voorafgaande aan de gebruikerstesten, werd het spel virtueel uitgevoerd door simulaties. De arduino’s worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld),hierbij werden de denkpatronen van de ouderen na gebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd. Bij de map Data zijn de gebruikte code-bestanden terug te vinden.
+Voorafgaand aan de gebruikerstesten werd het spel virtueel uitgevoerd door simulaties. De Arduino’s worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld). Hierbij werden de denkpatronen van de ouderen nagebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd. Bij de map Data zijn de gebruikte codebestanden terug te vinden.
 
-Op basis van Nirals Eye werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5) van de gebruiker vastgelegd, met doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment die vaak op de radio wordt gespeeld associëren met ons spel. 
+Op basis van Nirals Eye werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5) van de gebruiker vastgelegd, met als doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment dat vaak op de radio wordt gespeeld associëren met ons spel. 
 
-Pas nadat het prototype voldoende stabiel en logisch opgebouwd was startten de gebruikerstesten met de ouderen. Hierbij werden zes, 65 plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025. 
-Bij de voorbereiding werd het informed consent ondertekent. 
-Dag 1 staat in teken van start en observatie. De gebruiker speelt het spel voor het eerst onder toezicht van de observator en testleider. Door het gebruik van Wizard of Oz-methode, wordt het spel manueel opgestart via Python, gelinkt aan de activering van de powerbank door de gebruiker.
+Pas nadat het prototype voldoende stabiel en logisch opgebouwd was, startten de gebruikerstesten met de ouderen. Hierbij werden zes, 65-plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025. 
+Bij de voorbereiding werd het informed consent ondertekend. 
+Dag 1 staat in het teken van start en observatie. De gebruiker speelt het spel voor het eerst onder toezicht van de observator en testleider. Door het gebruik van Wizard-of-Oz-methode, wordt het spel manueel opgestart via Python, gelinkt aan de activering van de powerbank door de gebruiker.
 Dag 2 bood de deelnemers de vrijheid om het spel zelfstandig te gebruiken in hun eigen omgeving.
-Dag 3 werd opnieuw begeleid door testleider en observator waarbij belangrijke veranderingen werden genoteerd. 
-Elke dag vulden de gebruikers een [logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6) in die verschillende aspecten van het spel bevragen. Op de laatste dag werd de System Usability Scale ook ingevuld ([SUS](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EeoH8CZmnLhMgiC3C3AzJtABEacxWBImbtrPJ_n8sL6-RQ?e=fLgI5q)).
+Dag 3 werd opnieuw begeleid door testleider en observator, waarbij belangrijke veranderingen werden genoteerd. 
+Elke dag vulden de gebruikers een [logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6) in dat verschillende aspecten van het spel bevragen. Op de laatste dag werd de System Usability Scale ook ingevuld ([SUS](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EeoH8CZmnLhMgiC3C3AzJtABEacxWBImbtrPJ_n8sL6-RQ?e=fLgI5q)).
 
 ![image](https://github.com/user-attachments/assets/07231d98-0818-4962-bcef-c458ec0b6bc6)
 
-Na afloop van de gebruikerstesten werd variety prototyping toegepast om het grootste probleem namelijk de lichtsensor te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD model ontworpen, waarbij rekening werd gehoudende met de [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ESMYJ2hMMlpNjmPszoZSaYsBGAYIlG5Dg3-M26ssu1h2lw?e=acZaUG). 
+Na afloop van de gebruikerstesten werd variety prototyping toegepast om het grootste probleem, namelijk de lichtsensor, te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD-model ontworpen, waarbij rekening werd gehouden met de [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ESMYJ2hMMlpNjmPszoZSaYsBGAYIlG5Dg3-M26ssu1h2lw?e=acZaUG). 
 De technische schakeling van elke oplossing is gedocumenteerd in het hardwareprotocol ([protocol hardware](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=heA9mc)).  
 
 ![image](https://github.com/user-attachments/assets/0588508f-c848-4d59-8326-61dee37b6268)
@@ -367,38 +367,38 @@ Voorafgaand aan de effectieve gebruikerstesten werd het product eerst intern get
 
 Uit deze tests kwamen de volgende aandachtspunten naar voren:
 - Het groene licht blijft nu langer branden tot de muziek start. Dit compenseert mogelijke verbindingsvertragingen en zorgt voor een duidelijker startsignaal voor de gebruiker.
-- Deze kleur geeft aan welke tegels actief zijn. Dit maakt het voor de ontwikkelaars direct zichtbaar of een tegel correct werkt, en geeft gebruikers feedback of dat de tegel aan ligt.
+- Deze kleur geeft aan welke tegels actief zijn. Dit maakt het voor de ontwikkelaars direct zichtbaar of een tegel correct werkt, en geeft gebruikers feedback of de tegel aan ligt.
 
 Deze aanpassingen werden doorgevoerd vóór de start van de gebruikerstesten, zodat de gebruikerservaring al wat bevorderd is.
 
 **_Gebruikerstesten_**
 
-De **_gebruikerstesten_** zijn opgedeeld in verschillende onderwerpen. Uit de **_logboeken_** kwamen de volgende informatie voor:
+De **_gebruikerstesten_** zijn opgedeeld in verschillende onderwerpen. Uit de **_logboeken_** kwam de volgende informatie naar boven:
 
-Het eerste onderwerp is hoe de gebruikers het vrij gebruik van het prototype ervaarden. Dus met andere worden hoe vaak ze het spel speelden. In de tabel hieronder is te zien per persoon hoeveel maal ze het spel speelden: eenmaal, tweemaal, drie of meer.
+Het eerste onderwerp is hoe de gebruikers het vrije gebruik van het prototype ervaarden. Dus met andere woorden hoe vaak ze het spel speelden. In de tabel hieronder is te zien per persoon hoeveel maal ze het spel speelden: eenmaal, tweemaal, drie of meer.
 
 ![image](https://github.com/user-attachments/assets/5e288b73-1024-40b2-9a42-2cd78ba6ce36)
 
-Hierbij is te zien dat ze bijna allemaal bij de laatste dag het spel driemaal speelden, er werd vastgesteld dat het kwam doordat ze het spel beter begrepen. Maar ook omdat ze het spel enthousiast meespeelden.
+Hierbij is te zien dat ze bijna allemaal bij de laatste dag het spel driemaal speelden. Er werd vastgesteld dat het kwam doordat ze het spel beter begrepen. Maar ook omdat ze het spel enthousiast meespeelden.
 
 Het tweede onderwerp was hun motivatie en spelmoment. Dit waren de ervaringen:
 - De ouderen waren zeer flexibel tijdens gebruik. Zeer gemotiveerd.
-- Bij fysieke ongemakken verlegden de gebruikers de tegels bv. naar de tafel.
-- Verder werd tijdens het spel als ze minder evenwicht hadden ook eens naar de tafel gegrepen voor steun.
-- Ook werd tijdens het spel tussen de twee gebruikers wat competitie ingestoken zodat ze nog enthousiaster werden.
-- Bij energieke moment legden ze zelfs de tegels wat verder.
+- Bij fysieke ongemakken verlegden de gebruikers de tegels, bv. naar de tafel.
+- Verder werd tijdens het spel, als ze minder evenwicht hadden, ook eens naar de tafel gegrepen voor steun.
+- Ook werd tijdens het spel tussen de twee gebruikers wat competitie ingestoken, zodat ze nog enthousiaster werden.
+- Bij energieke momenten legden ze zelfs de tegels wat verder.
 
 Hun motivatie tijdens het spelen was zeker positief en scoorde in het logboek een 3,9/5.
 
 Hardware en techniek was het derde onderwerp waarop gequoteerd werd. Hier was het meer in ons kamp dat er nog wat problemen waren zoals:
-- De Arduino IoT modules verbonden niet allemaal zo goed.
+- De Arduino IoT-modules verbinden niet allemaal zo goed.
 - Lichtje was niet goed gepositioneerd in de tegel.
 
 De gebruikers vermelden deze problemen:
 - De lichtsensor meet niet altijd wanneer ze met hun voet erop stonden.
 - Soms mag het muziekje wat korter zijn.
 
-Aan de hardware en techniek zijn er zeker nog wat aanpassingen en frustraties maar op gebruiksvriendelijkheid van het ontwerp werd wel goed gequoteerd.
+Aan de hardware en techniek zijn er zeker nog wat aanpassingen en frustraties, maar op gebruiksvriendelijkheid van het ontwerp werd wel goed gequoteerd.
 
 Vierde onderwerp ging over het begrip en zelfstandig gebruik. Deze bevindingen werden vastgesteld.
 - Het zelfstandig gebruik ging goed, op voorwaarde dat het spel voor spelen duidelijk stapsgewijs werd uitgelegd.
@@ -406,7 +406,7 @@ Vierde onderwerp ging over het begrip en zelfstandig gebruik. Deze bevindingen w
 - Ze ondervonden het spel als leuk, vrolijk makend en ontspannend.
 - Ze wilden het zelfs nog langer gebruiken.
 
-Daarnaast werden nog een paar openvragen gesteld, en kwamen volgende tips naar voor:
+Daarnaast werden nog een paar open vragen gesteld, en kwamen de volgende tips naar voren:
 - Opbouwend niveau: begin eenvoudig, voeg geleidelijk meer tegels toe
 - Grotere sensoren: minder precisie nodig bij het stappen
 - Meer variatie in muziek: per spel andere tracks
@@ -421,7 +421,7 @@ Daarnaast werden nog een paar openvragen gesteld, en kwamen volgende tips naar v
 
 ![image](https://github.com/user-attachments/assets/e6135d1a-a764-46cf-a59e-103adf669461)![image](https://github.com/user-attachments/assets/dbb4374a-b8c1-4e3c-a8dc-3e25cb75efdd)![image](https://github.com/user-attachments/assets/60f1a2c6-172d-41ad-ad9a-18925590981f)
 
-Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de mensen van het product vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
+Uit de **_System Usabilty Scale_**-vragen, werd een score opgesteld van wat de mensen van het product vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
 
 ([rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Eb14NZj02RpJueEuV5QmxaYB_O-dqX9yAyYtQIq0YhjybQ?e=pGeihz))
 
@@ -439,19 +439,19 @@ Uit de **_System Usabilty Scale_** vragen, werd een score opgesteld van wat de m
 > - DR 4.6 Wifi modules vlotter werken met elkaar en de code.
 > - DR 4.7 Meer feedback bij fouten geven.
 
-Verder werd er ook gekeken voor een ideale opstelling van de tegels, dit verder werkend op het **_antropometrie_** onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rond om de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
+Verder werd er ook gekeken naar een ideale opstelling van de tegels, dit verder werkend op het **_antropometrie_**-onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rondom de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers. Natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen, doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
 
 ![image](https://github.com/user-attachments/assets/a9b3d41b-d9b9-426b-aae0-d4b25127e534)
 
-Op het ontwerp en sensoren van onze tegels werd verder gezocht **_(Hardware choices)_**. De tegel werd veranderd naar een tegel die uit twee lagen bestaand, zodat de Arduino onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken dat er antislip op de tegel kan worden gevoegd. ([(hardware choices)](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=v9yM0U))
+Op het ontwerp en sensoren van onze tegels werd verder gezocht **_(Hardware choices)_**. De tegel werd veranderd naar een tegel die uit twee lagen bestaat, zodat de Arduino-onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken of er antislip op de tegel kan worden gevoegd. ([(hardware choices)](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=v9yM0U))
 
 ![image](https://github.com/user-attachments/assets/e229a57b-f824-4d6d-9b75-ee1dcd34ecab)  ![image](https://github.com/user-attachments/assets/4de3d5d8-d1b9-4c65-942f-2f5da5517111)
 
-Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hierbij het best past. Er wordt aan **_variety protyping_** gedaan van de doosjes en ze worden getest per sensor. 
+Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hierbij het best past. Er wordt aan **_variety prototyping_** gedaan van de doosjes en ze worden getest per sensor. 
 
 ![image](https://github.com/user-attachments/assets/127049a3-4028-447a-aa35-a99e63d9ce8b)  ![image](https://github.com/user-attachments/assets/7649a8b4-1147-4299-933a-0c73e417f793)  ![image](https://github.com/user-attachments/assets/0cb60aaf-bea3-4e63-9226-86a96aa5f2c2)  ![image](https://github.com/user-attachments/assets/a054be57-1d79-4b53-a9cd-3c9421d30361)
     
-Ze worden gequoteerd op verschillende criteria die met een score van 1 tot 5 wordt geëvalueerd. Als uiteindelijke ontwerp wordt gekozen voor (sensor) en (ontwerp), omdat … 
+Ze worden gequoteerd op verschillende criteria die met een score van 1 tot 5 worden geëvalueerd. Als uiteindelijke ontwerp wordt gekozen voor (sensor) en (ontwerp), omdat … 
 (foto's van keuze)
 
 ### Conclusies & implicaties
@@ -461,6 +461,8 @@ Uit de gebruikerstesten blijkt dat de gebruikers over het algemeen zeer positief
 Er is inmiddels wel een ideale opstelling voor het spel vastgesteld, die zowel de aanbevolen configuratie biedt als ruimte laat voor persoonlijke aanpassingen door de gebruikers.
 
 Ook is het ontwerp gekozen via testen en er is gekozen voor een dubbele laag in de tegels, die de Arduino-onderdelen beschermen tegen beschadiging. Daarnaast is er een antislip laag toegevoegd voor extra veiligheid tijdens gebruik. De gekozen sensor … en het gekozen ontwerp met … . Dit ontwerp is zorgvuldig getest en geoptimaliseerd, waarbij we nu alleen nog kleine aanpassingen moeten maken om de precisie en de algehele functionaliteit verder te verbeteren. 
+
+## Conclusie
 
 ## Bill of materials
 
