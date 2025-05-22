@@ -641,7 +641,7 @@ Tot slot werd gevraagd welk materiaal zij voor het product zouden kiezen, met de
 Als resultaat gaven de meeste deelnemers kunststof (PP en PE) en siliconen (anti-slip) aan.
 
 **Hardware choices:**
-Er werd verder gewerkt op het bestand(Rapport hardware choices) van Development 2, waarbij de implicaties en feedback van de gebruikers zijn verwerkt.
+Er werd verder gewerkt op het bestand([Rapport hardware choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EcFJ2etrMgpIlNFl2ftn_6ABFTwz4HOpnhO2gToy7cThMg?e=DPyLck)) van Development 2, waarbij de implicaties en feedback van de gebruikers zijn verwerkt.
 Dit zij de keuze:
 - Seeed studio model XIAO + aanvullend WiFi-module + LiPo batterij
 - LED-ring
