@@ -657,8 +657,11 @@ Voor de materialen en uitstraling werd ook een eigen moodboard opgesteld.
 > - D5.11 Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.
 
 Finaal product:
+Kleine opmerking: De cirkel in het midden van de tegel is voor anti-slip en zorgt voor het licht van de LED-ring.
 
-(Render inplaatsen)
+![Render 12](https://github.com/user-attachments/assets/36c67a11-fc30-49a6-9951-1bd9e709a83c)  ![Render 14](https://github.com/user-attachments/assets/0653c9d0-96c6-4cbf-8cdb-13884e4941e2)  ![Render 15](https://github.com/user-attachments/assets/7ac7fe59-5395-4bde-9980-9386c28f2606)
+
+![Render 7](https://github.com/user-attachments/assets/d0be6f84-418e-407b-a905-ccf244bc756c)  ![Render 4](https://github.com/user-attachments/assets/dbb8a9b2-916a-48c6-981d-fc91ab01cab0)  ![Render 17](https://github.com/user-attachments/assets/61870aa3-20b5-45dc-ba46-710964e2a3ed)
 
 ### Conclusies & implicaties
 
