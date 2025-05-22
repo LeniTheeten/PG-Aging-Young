@@ -8,7 +8,7 @@
 
 ## Samenvatting
 
-In een samenleving waar de vergrijzing alsmaar toeneemt, neemt ook het belang van gezond ouder worden toe. De nood groeit aan oplossingen die zowel fysieke als cognitieve functies stimuleren. Eén bewezen methode die dit combineert is de **Ronnie Gardiner Methode (RGM)**. Deze combineert muziek, ritme en beweging om verschillende hersengebieden tegelijk te activeren. Zo wordt op een speelse manier motoriek en cognitieve vaardigheden versterkt. 
+In een samenleving waar de vergrijzing alsmaar toeneemt, neemt ook het belang van gezond ouder worden toe. De nood groeit aan oplossingen die zowel fysieke als cognitieve functies stimuleren. Eén bewezen methode die dit combineert is de **Ronnie Gardiner Methode (RGM)** [^1]. Deze combineert muziek, ritme en beweging om verschillende hersengebieden tegelijk te activeren. Zo wordt op een speelse manier motoriek en cognitieve vaardigheden versterkt. 
 
 Ons finaal concept sluit aan bij deze principes. Het bestaat uit **modulaire, interactieve tegels** die gekoppeld zijn aan een controle-/oplaadstation. Gebruikers spelen een muziek gebaseerd geheugenspel waarbij licht- en audiofeedback hun begeleiden. De tegels tonen een sequentie, waarna de gebruiker die volgorde zo goed mogelijk nabeweegt op het ritme van de gekozen muziek. Elke tegel heeft een drukknop die correcte en foute input verwerkt en dit communiceert met de gebruiker, wat het leerproces versterkt.  
 
@@ -21,7 +21,7 @@ Dankzij het modulaire ontwerp kunnen de tegels ook voor andere spelvormen ingeze
 
 ## Introductie
 
-In kader van het vak **Project Gebruiksgericht Ontwerp** en toepassing van het vak Gebruiksgericht Ontwerp, werd er de keuze uit drie challenges gegeven, de gekozen challenge voor dit project is Healthy Aging. Startende vanuit een bestaand concept, de Ronnie Gardiner Methode (RGM), wordt er gevraagd een nieuw concept te ontwikkelen of de RGM in een nieuw jasje te steken. Samengevat is de Ronnie Gardiner Methode een methode om mensen met ziektes zoals parkisons, revalidatie na hersenbloeding, etc… opnieuw in beweging te brengen terwijl er ook cognitieve uitdaging is (RGM Nederland, z.d.) . Het is een vrolijke, gestructureerde, multi-sensorische oefenmethode voor de hersenen, waarbij ritme en muziek worden ingezet om motoriek, spraak en cognitie te stimuleren. Dit zorgt ervoor dat mensen opnieuw mentaal fit worden. Het kan zowel alleen als in groep worden uitgevoerd.
+In kader van het vak **Project Gebruiksgericht Ontwerp** en toepassing van het vak Gebruiksgericht Ontwerp, werd er de keuze uit drie challenges gegeven, de gekozen challenge voor dit project is Healthy Aging. Startende vanuit een bestaand concept, de Ronnie Gardiner Methode (RGM)[^1], wordt er gevraagd een nieuw concept te ontwikkelen of de RGM in een nieuw jasje te steken. Samengevat is de Ronnie Gardiner Methode een methode om mensen met ziektes zoals parkisons, revalidatie na hersenbloeding, etc… opnieuw in beweging te brengen terwijl er ook cognitieve uitdaging is (RGM Nederland, z.d.) . Het is een vrolijke, gestructureerde, multi-sensorische oefenmethode voor de hersenen, waarbij ritme en muziek worden ingezet om motoriek, spraak en cognitie te stimuleren. Dit zorgt ervoor dat mensen opnieuw mentaal fit worden. Het kan zowel alleen als in groep worden uitgevoerd.
 
 De grote uitdaging bij dit project is 65-plussers mentaal en fysiek bevorderd worden. De **smart product design** zorgt dat de interactie tussen gebruiker en het product moeiteloos verloopt. Het uiteindelijke concept zal zowel digitale als fysieke componenten bevatten. De mentale fitheid van ouderen kan worden beïnvloed door het actief zijn en het sociaal contact met anderen, dit kan een invloed hebben op het ontwerpen voor een enkel individu of een concept voor in groep.
   
@@ -31,7 +31,6 @@ Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 -	Intuïtief: De methodiek moet aansluiten bij muziekherkenning en natuurlijke bewegingen.
 -	Interactief: Het product moet deelnemers actief betrekken en hen stimuleren om te reageren op ritmische prikkels.
 
-https://www.rgm-nederland.nl/site/rgm
 
 ## Methodologie
 
@@ -838,7 +837,7 @@ De verschillende variaties werden bijgehouden in een [ontwerpdocument](https://u
 
 Literatuuronderzoek:
 
-RGM Nederland. (z.d.). RGM. RGM Nederland. [RGM](https://www.rgm-nederland.nl/site/rgm)
+[^1]: RGM Nederland. (z.d.). RGM. RGM Nederland. [RGM](https://www.rgm-nederland.nl/site/rgm)
 
 Brain Balance Instituut. (z.d.). Muziek met je hersenen. [Brain Balance Instituut](https://brainbalanceinstituut.com/muziek-met-je-hersenen/)
 
