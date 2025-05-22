@@ -65,7 +65,7 @@ De centrale onderzoeksvragen waren:
 3. Wat zijn cognitieve functies of vaardigheden?
 4. Hoe kan healthy aging worden bevorderd?
 
-Om kwalitatieve inzichten te verkrijgen, werden interviews([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen.Voorafgaande aan elk interview werd een [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun) ondertekend. Uit de inzichten van de intervieuws werd een persona en [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & [Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) opgesteld.
+Om kwalitatieve inzichten te verkrijgen, werden interviews([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen.Voorafgaande aan elk interview werd een [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun) ondertekend. Uit de inzichten van de intervieuws werd een persona en [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & Persona opgesteld.
 
 
 In de sprintdag begon de ideegeneratiefase waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de innovatrix (om de graad van innovatie te bepalen) en de lotus ( om de brainstormsessie te structureren).
@@ -171,7 +171,7 @@ De **_tweede test_** volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.
 
 ![image](https://github.com/user-attachments/assets/a58d7464-7b49-4c86-aaee-7615686d1629)  ![image](https://github.com/user-attachments/assets/213b946b-3a56-45d0-b929-2008bcab1ad3)
 
-Er werd een **_benchmarking_** onderzoek uitgevoerd voor het concept. Hier werd opnieuw ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)), rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
+Er werd een **_benchmarking_** onderzoek uitgevoerd voor het concept. Hier werd opnieuw protocol, rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
 
 ### Resultaten
 
@@ -206,7 +206,7 @@ Er werd een **_storyboard_** opgesteld om het concept verder te valideren bij de
 > - D2.9 De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.
 > - D2.10 Struikelgevaar moet vermeden worden.
 
-Ook werden nog even de bestaande benchmarks (([rapport_benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=5866hT))) bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
+Ook werden nog even de bestaande benchmarks ([rapport_benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=5866hT)) bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
 - Interactieve matten en digitale producten zoals de Nintendo Wii zijn vaak te intensief voor onze doelgroep.
 - Matten zijn kleurrijk, vierkant of rechthoekig, en aangepast aan kinderen, met variërend ontwerp voor instrument- of dansgebruik.
 - Ook deze design requirements kwamen naar voren:
@@ -442,7 +442,7 @@ Verder werd er ook gekeken naar een ideale opstelling van de tegels, dit verder 
 
 ![image](https://github.com/user-attachments/assets/a9b3d41b-d9b9-426b-aae0-d4b25127e534)
 
-Op het ontwerp en sensoren van onze tegels werd verder gezocht **_(Hardware choices)_**. De tegel werd veranderd naar een tegel die uit twee lagen bestaat, zodat de Arduino-onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken of er antislip op de tegel kan worden gevoegd. ([(hardware choices)](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=v9yM0U))
+Op het ontwerp en sensoren van onze tegels werd verder gezocht **_(Hardware choices)_**. De tegel werd veranderd naar een tegel die uit twee lagen bestaat, zodat de Arduino-onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken of er antislip op de tegel kan worden gevoegd. [(hardware choices)](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=v9yM0U)
 
 ![image](https://github.com/user-attachments/assets/e229a57b-f824-4d6d-9b75-ee1dcd34ecab)  ![image](https://github.com/user-attachments/assets/4de3d5d8-d1b9-4c65-942f-2f5da5517111)
 
