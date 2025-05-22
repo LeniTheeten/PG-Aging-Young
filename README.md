@@ -34,7 +34,8 @@ Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 
 ## Methodologie
 
-(FOTO METHODOLOGIE TEKENING)
+![Methodologie_double_diamond](https://github.com/user-attachments/assets/55b4af1c-f183-42d0-a7af-c83b90110e76)
+
 
 Het ontwerpproces werd gestructureerd aan de hand van het **Double Diamond-model**, met focus op gebruiksvriendelijkheid, veiligheid en effectiviteit voor ouderen. Elke fase werd onderbouwd met methoden en testen die bijdragen aan een gebruiksgericht en iteratief ontwerp, telkens werder **design requirements** bijgehouden.
 
@@ -656,7 +657,8 @@ Voor de materialen en uitstraling werd ook een eigen moodboard opgesteld.
 > - D5.10 Gebruik stevig kunststof (zoals PE of PP) voor behuizing. 
 > - D5.11 Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.
 
-Finaal product:
+**Finaal product:**
+
 Kleine opmerking: De cirkel in het midden van de tegel is voor anti-slip en zorgt voor het licht van de LED-ring.
 
 ![Render 12](https://github.com/user-attachments/assets/36c67a11-fc30-49a6-9951-1bd9e709a83c)  ![Render 14](https://github.com/user-attachments/assets/0653c9d0-96c6-4cbf-8cdb-13884e4941e2)  ![Render 15](https://github.com/user-attachments/assets/7ac7fe59-5395-4bde-9980-9386c28f2606)
