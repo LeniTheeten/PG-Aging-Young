@@ -115,7 +115,7 @@ Stressmanagement, levenskwaliteit en sociale interactie beïnvloeden  het gezond
 
 Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
 
-![Persona](https://github.com/user-attachments/assets/cbad4d7a-113c-45c2-b12e-84b6d19dc751)
+![image](https://github.com/user-attachments/assets/82c3253f-864e-4698-b1cd-7a97b408841f)
 
 Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voor een activiteit met muziek en beweging, maar in beperkte mate. De voorkeur gaat uit naar oefeningen die in de ochtend of voormiddag plaatsvinden omdat de namiddag meestal een vaste routine heeft. Voor onze doelgroep is een eenvoudige en duidelijke interface belangrijk door bijvoorbeeld zaken als gehoor- en zichtverlies. De populairste sociale en cognitieve spellen bij de ouderen zijn kaarten, Sudoku en Rummikub.
 
@@ -127,14 +127,14 @@ Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voo
 
 “Als ik het zou toepassen dan zou ik het toepassen in de ochtend juist na het ontbijt”
 
-![image](https://github.com/user-attachments/assets/88c4c258-0ef8-496f-a0fe-5860ab27f530)
+![Persona](https://github.com/user-attachments/assets/0b12ad66-294a-41f5-b96d-f17cc0fd9372)
 
 De eerste concepten uit de **sprint day** bevatten telkens een combinatie van beweging en muziek.
 
-![ideegeneratie_1](https://github.com/user-attachments/assets/530793b8-f9f0-4b29-9911-5ddb9bdcbeb2)
-![ideegeneratie_2](https://github.com/user-attachments/assets/06497c22-9405-43b3-9c5b-a164ada213ec)
-![ideegeneratie_3](https://github.com/user-attachments/assets/4339071b-95d2-438e-9b46-4331fa41639d)
-![ideegeneratie_4](https://github.com/user-attachments/assets/1b09792a-5b16-4bc0-b182-bd7496213d52)
+![ideegeneratie_1](https://github.com/user-attachments/assets/bcd6452d-1ec7-42ad-8f3c-e796582f2b67)
+![ideegeneratie_2](https://github.com/user-attachments/assets/51c4b74f-7706-4ccd-b594-a5da9ae984a5)
+![ideegeneratie_3](https://github.com/user-attachments/assets/dba88422-f73b-4699-989d-cb009f52dacf)
+![ideegeneratie_4](https://github.com/user-attachments/assets/bb662120-b509-4767-a96e-ac3ee69393bd)
 
 ### Conclusies & implicaties
 
