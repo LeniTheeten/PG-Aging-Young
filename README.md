@@ -8,11 +8,11 @@
 
 ## Samenvatting
 
-In een samenleving waar de vergrijzing alsmaar toeneemt, neemt ook het belang van gezond ouder worden toe. De nood groeit aan oplossingen die zowel fysieke als cognitieve functies stimuleren. Eén bewezen methode die dit combineert is de **_Ronnie Gardiner Methode (RGM)_**. Deze combineert muziek, ritme en beweging om verschillende hersengebieden tegelijk te activeren. Zo wordt op een speelse manier motoriek en cognitieve vaardigheden versterkt. 
+In een samenleving waar de vergrijzing alsmaar toeneemt, neemt ook het belang van gezond ouder worden toe. De nood groeit aan oplossingen die zowel fysieke als cognitieve functies stimuleren. Eén bewezen methode die dit combineert is de **Ronnie Gardiner Methode (RGM)**. Deze combineert muziek, ritme en beweging om verschillende hersengebieden tegelijk te activeren. Zo wordt op een speelse manier motoriek en cognitieve vaardigheden versterkt. 
 
-Ons finaal concept sluit aan bij deze principes. Het bestaat uit **_modulaire, interactieve tegels_** die gekoppeld zijn aan een controle-/oplaadstation. Gebruikers spelen een muziek gebaseerd geheugenspel waarbij licht- en audiofeedback hun begeleiden. De tegels tonen een sequentie, waarna de gebruiker die volgorde zo goed mogelijk nabeweegt op het ritme van de gekozen muziek. Elke tegel heeft een drukknop die correcte en foute input verwerkt en dit communiceert met de gebruiker, wat het leerproces versterkt.  
+Ons finaal concept sluit aan bij deze principes. Het bestaat uit **modulaire, interactieve tegels** die gekoppeld zijn aan een controle-/oplaadstation. Gebruikers spelen een muziek gebaseerd geheugenspel waarbij licht- en audiofeedback hun begeleiden. De tegels tonen een sequentie, waarna de gebruiker die volgorde zo goed mogelijk nabeweegt op het ritme van de gekozen muziek. Elke tegel heeft een drukknop die correcte en foute input verwerkt en dit communiceert met de gebruiker, wat het leerproces versterkt.  
 
-De positionering van de tegels kan aangepast worden aan de fysieke mogelijkheden van de gebruiker: op tafel, op de grond of in combinatie. Hierdoor is het spel zowel veilig als motiverend voor mensen met beperkte mobiliteit. Het **_spel draagt bij aan meer beweging en mentale uitdaging_** voor 65-plussers in hun eigen tempo en omgeving.  
+De positionering van de tegels kan aangepast worden aan de fysieke mogelijkheden van de gebruiker: op tafel, op de grond of in combinatie. Hierdoor is het spel zowel veilig als motiverend voor mensen met beperkte mobiliteit. Het **spel draagt bij aan meer beweging en mentale uitdaging** voor 65-plussers in hun eigen tempo en omgeving.  
 
 Dankzij het modulaire ontwerp kunnen de tegels ook voor andere spelvormen ingezet worden: met een aanpassing in de spelcode wordt het mogelijk om een volledig nieuw spel te activeren. Dit biedt gebruikers variatie en extra uitdaging.  
 
@@ -180,17 +180,17 @@ De toegepaste materialen zijn opgedeeld in gebruik:
 
 De testen volgden een methodische aanpak: Leni observeerde en noteerde de natuurlijke interactie met het product, terwijl Amber als testleider vragen stelde en inzichten verzamelde via het "think aloud protocol". Daarnaast werden, met toestemming, foto’s en video’s vastgelegd voor verdere analyse.
 
-Voor de **_eerste test_** werd een([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa))opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd door de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.. 
+Voor de **eerste test** werd een([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa))opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd door de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.. 
 
-De **_tweede test_** volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.
+De **tweede test** volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.
 
 ![image](https://github.com/user-attachments/assets/a58d7464-7b49-4c86-aaee-7615686d1629)  ![image](https://github.com/user-attachments/assets/213b946b-3a56-45d0-b929-2008bcab1ad3)
 
-Er werd een **_benchmarking_** onderzoek uitgevoerd voor het concept. Hier werd opnieuw protocol, rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
+Er werd een **benchmarking** onderzoek uitgevoerd voor het concept. Hier werd opnieuw protocol, rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
 
 ### Resultaten
 
-In de gebruikerstesten zowel **_wave 1_** als **_wave 2_** werden op dezelfde dag afgelegd, onder begeleiding van Theeten Leni en Barra Amber. Alle deelnemers ondertekenden het **_informed consent_** met nog extra toestemming van één van de hoofdverplegers. De resultaten tonen herhaaldelijke inzichten en benadrukken zowel positieve aspecten als verbeterpunten van het concept.
+In de gebruikerstesten zowel **wave 1** als **wave 2** werden op dezelfde dag afgelegd, onder begeleiding van Theeten Leni en Barra Amber. Alle deelnemers ondertekenden het **informed consent** met nog extra toestemming van één van de hoofdverplegers. De resultaten tonen herhaaldelijke inzichten en benadrukken zowel positieve aspecten als verbeterpunten van het concept.
 
 | Onderzocht | Resultaat | Extra feedback |                  
 | --- | --- | --- |
@@ -203,7 +203,7 @@ In de gebruikerstesten zowel **_wave 1_** als **_wave 2_** werden op dezelfde da
 
 ([wave1_resultaten](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERRFWS9-bCxKi_x_W7haszcBp11-S-wy_OMZbQtCtLh6Lg?e=spmyJ9)) & ([wave2_resultaten](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Edp2z4fMv7RIjM0WtIWSaRcBYyjB8X5Bx9Ilxk6zJUd_Wg?e=Rhwbat))
 
-Er werd een **_storyboard_** opgesteld om het concept verder te valideren bij de gebruikers. De gebruikers begrepen het storyboard goed, maar gaven direct aan dat ruimtegebrek een aandachtspunt is.
+Er werd een **storyboard** opgesteld om het concept verder te valideren bij de gebruikers. De gebruikers begrepen het storyboard goed, maar gaven direct aan dat ruimtegebrek een aandachtspunt is.
 ([storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK))
 
 ![image](https://github.com/user-attachments/assets/623310bf-0068-4456-aebd-882eaec7587f)
@@ -255,13 +255,13 @@ Belangrijke aandachtspunten in deze fase:
 
 ### Materiaal & methoden
 
-Er werd een **_literatuuronderzoek_** ([protocol](https://ugentbe-my.sharepoint.com/:f:/g/personal/amber_barra_ugent_be/EmlXFazKElZHl0-18dP_LOIBXBfoJwNxMWfIDaCutvVNQA?e=D1DHOj)) uitgevoerd naar waarom spelmatten vaak rechthoekig zijn en niet een andere vorm, zoals een cirkel. Daarnaast werd onderzocht of een projector geschikt is voor het spel, met specifieke aandacht voor de impact van op- en neerwaartse oogbewegingen en de antropometrie van het gezichtsveld.
+Er werd een **literatuuronderzoek** ([protocol](https://ugentbe-my.sharepoint.com/:f:/g/personal/amber_barra_ugent_be/EmlXFazKElZHl0-18dP_LOIBXBfoJwNxMWfIDaCutvVNQA?e=D1DHOj)) uitgevoerd naar waarom spelmatten vaak rechthoekig zijn en niet een andere vorm, zoals een cirkel. Daarnaast werd onderzocht of een projector geschikt is voor het spel, met specifieke aandacht voor de impact van op- en neerwaartse oogbewegingen en de antropometrie van het gezichtsveld.
 
-Er werd verder gewerkt aan de validatie van het concept en het verzamelen van meningen over alternatieve ideeën. Omdat eerdere validatie nog onvoldoende was, werd een **_bevraging_** opgesteld en via **_Google Forms_** verspreid onder de doelgroep. De enquête bestond uit meerkeuze- en open vragen om zowel kwantitatieve als kwalitatieve inzichten te verkrijgen. Daarnaast werden aanvullende aandachtspunten bevraagd voor het verdere ontwerpproces, met bijbehorend ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Ec1hUPYb7zRDoE2LG7lhJQwBG3r8PADqIow15AuP48VzOw?e=6swvXS)) en rapport.
+Er werd verder gewerkt aan de validatie van het concept en het verzamelen van meningen over alternatieve ideeën. Omdat eerdere validatie nog onvoldoende was, werd een **bevraging** opgesteld en via **Google Forms** verspreid onder de doelgroep. De enquête bestond uit meerkeuze- en open vragen om zowel kwantitatieve als kwalitatieve inzichten te verkrijgen. Daarnaast werden aanvullende aandachtspunten bevraagd voor het verdere ontwerpproces, met bijbehorend ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Ec1hUPYb7zRDoE2LG7lhJQwBG3r8PADqIow15AuP48VzOw?e=6swvXS)) en rapport.
 
-Om het ontwerpproces verder te zetten, werd gezocht naar **_antropometrische data_** ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERhBBPLdsilCtcZHyxPOscEBoxuF0XTou8eZ1hebcRLUUw?e=PYHdz9)), die later in het design verwerkt kan worden. Deze informatie werd verzameld via DINBelg en andere betrouwbare bronnen. Dit werd in een kleine analyse geplaatst.
+Om het ontwerpproces verder te zetten, werd gezocht naar **antropometrische data** ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERhBBPLdsilCtcZHyxPOscEBoxuF0XTou8eZ1hebcRLUUw?e=PYHdz9)), die later in het design verwerkt kan worden. Deze informatie werd verzameld via DINBelg en andere betrouwbare bronnen. Dit werd in een kleine analyse geplaatst.
 
-Tot slot werden opnieuw **_gebruikerstesten_** ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EbBdN8cEEBZEnKubPO4GDcIB7URGulgF5_XDvzKcvhPH5g?e=SLeIz9)) uitgevoerd volgens een vooraf opgesteld protocol, met achteraf een rapport. De testen vonden thuis plaats, waarbij observaties, foto’s en video’s werden verzameld voor latere analyse. Het product werd opnieuw gevalideerd via verschillende testen:
+Tot slot werden opnieuw **gebruikerstesten** ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EbBdN8cEEBZEnKubPO4GDcIB7URGulgF5_XDvzKcvhPH5g?e=SLeIz9)) uitgevoerd volgens een vooraf opgesteld protocol, met achteraf een rapport. De testen vonden thuis plaats, waarbij observaties, foto’s en video’s werden verzameld voor latere analyse. Het product werd opnieuw gevalideerd via verschillende testen:
 - Zowel losse als vaste matten werden getest.
 - Twee spelletjes werden uitgeprobeerd.
 - Er werd onderzocht hoe de doelgroep hun evenwicht bewaart en welke ondersteuning zij het meest geschikt vinden.
@@ -376,9 +376,9 @@ De technische schakeling van elke oplossing is gedocumenteerd in het hardwarepro
 
 
 ### Resultaten
-**_Eigengebruikers testen_**
+**Eigengebruiker test**
 
-Voorafgaand aan de effectieve gebruikerstesten werd het product eerst intern getest, zowel fysiek als cognitief. Deze interne testronde **_(user testing without users)_** had als doel om eventuele functionele of gebruiksproblemen vroegtijdig op te sporen en te verhelpen.
+Voorafgaand aan de effectieve gebruikerstesten werd het product eerst intern getest, zowel fysiek als cognitief. Deze interne testronde **(user testing without users)** had als doel om eventuele functionele of gebruiksproblemen vroegtijdig op te sporen en te verhelpen.
 
 Uit deze tests kwamen de volgende aandachtspunten naar voren:
 - Het groene licht blijft nu langer branden tot de muziek start. Dit compenseert mogelijke verbindingsvertragingen en zorgt voor een duidelijker startsignaal voor de gebruiker.
@@ -386,9 +386,9 @@ Uit deze tests kwamen de volgende aandachtspunten naar voren:
 
 Deze aanpassingen werden doorgevoerd vóór de start van de gebruikerstesten, zodat de gebruikerservaring al wat bevorderd is.
 
-**_Gebruikerstesten_**
+**Gebruikerstesten**
 
-De **_gebruikerstesten_** zijn opgedeeld in verschillende onderwerpen. Uit de **_logboeken_** kwam de volgende informatie naar boven:
+De **gebruikerstesten** zijn opgedeeld in verschillende onderwerpen. Uit de **logboeken** kwam de volgende informatie naar boven:
 
 Het eerste onderwerp is hoe de gebruikers het vrije gebruik van het prototype ervaarden. Dus met andere woorden hoe vaak ze het spel speelden. In de tabel hieronder is te zien per persoon hoeveel maal ze het spel speelden: eenmaal, tweemaal, drie of meer.
 
@@ -436,7 +436,7 @@ Daarnaast werden nog een paar open vragen gesteld, en kwamen de volgende tips na
 
 ![image](https://github.com/user-attachments/assets/e6135d1a-a764-46cf-a59e-103adf669461)![image](https://github.com/user-attachments/assets/dbb4374a-b8c1-4e3c-a8dc-3e25cb75efdd)![image](https://github.com/user-attachments/assets/60f1a2c6-172d-41ad-ad9a-18925590981f)
 
-Uit de **_System Usabilty Scale_**-vragen, werd een score opgesteld van wat de mensen van het product vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
+Uit de **System Usabilty Scale**-vragen, werd een score opgesteld van wat de mensen van het product vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
 
 ([rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Eb14NZj02RpJueEuV5QmxaYB_O-dqX9yAyYtQIq0YhjybQ?e=pGeihz))
 
@@ -454,15 +454,15 @@ Uit de **_System Usabilty Scale_**-vragen, werd een score opgesteld van wat de m
 > - DR 4.6 Wifi modules vlotter werken met elkaar en de code.
 > - DR 4.7 Meer feedback bij fouten geven.
 
-Verder werd er ook gekeken naar een ideale opstelling van de tegels, dit verder werkend op het **_antropometrie_**-onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rondom de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers. Natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen, doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
+Verder werd er ook gekeken naar een ideale opstelling van de tegels, dit verder werkend op het **antropometrie**-onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rondom de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers. Natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen, doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
 
 ![image](https://github.com/user-attachments/assets/a9b3d41b-d9b9-426b-aae0-d4b25127e534)
 
-Op het ontwerp en sensoren van onze tegels werd verder gezocht **_(Hardware choices)_**. De tegel werd veranderd naar een tegel die uit twee lagen bestaat, zodat de Arduino-onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken of er antislip op de tegel kan worden gevoegd. [(hardware choices)](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=v9yM0U)
+Op het ontwerp en sensoren van onze tegels werd verder gezocht **(Hardware choices)**. De tegel werd veranderd naar een tegel die uit twee lagen bestaat, zodat de Arduino-onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken of er antislip op de tegel kan worden gevoegd. [(hardware choices)](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=v9yM0U)
 
 ![image](https://github.com/user-attachments/assets/e229a57b-f824-4d6d-9b75-ee1dcd34ecab)  ![image](https://github.com/user-attachments/assets/4de3d5d8-d1b9-4c65-942f-2f5da5517111)
 
-Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hierbij het best past. Er wordt aan **_variety prototyping_** gedaan van de doosjes en ze worden getest per sensor. 
+Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hierbij het best past. Er wordt aan **variety prototyping** gedaan van de doosjes en ze worden getest per sensor. 
 
 ![image](https://github.com/user-attachments/assets/127049a3-4028-447a-aa35-a99e63d9ce8b)  ![image](https://github.com/user-attachments/assets/7649a8b4-1147-4299-933a-0c73e417f793)  ![image](https://github.com/user-attachments/assets/0cb60aaf-bea3-4e63-9226-86a96aa5f2c2)  ![image](https://github.com/user-attachments/assets/a054be57-1d79-4b53-a9cd-3c9421d30361)
     
@@ -493,9 +493,9 @@ Voor deze testen trokken we met het verbeterde prototype naar 4 gezonde 65-pluss
 
 Allereerst een verkennende hardwaretest. Gebruikers gaven in de vorige test aan dat de lichtsensor niet optimaal functioneerde; daarom kregen ze dit keer verschillende tegelprototypes met elk een andere knop. We vroegen hen om hun favoriete knop te kiezen; de beoordeling gebeurde door een voorkeursranking.  
 
-Vervolgens schakelden we over naar het station. De gebruikers kregen een reeks schetsen te zien van mogelijke ontwerpen. Per ontwerp kregen ze de tijd om hardop te zeggen wat ze zagen (**_Think-aloud-protocol_**). Hierop volgden gerichte vragen over de functies van elk element. De test werd afgerond met een korte bespreking van materiaalkeuzes op basis van het moodboard en inspiratiebeelden.  
+Vervolgens schakelden we over naar het station. De gebruikers kregen een reeks schetsen te zien van mogelijke ontwerpen. Per ontwerp kregen ze de tijd om hardop te zeggen wat ze zagen (**Think-aloud-protocol**). Hierop volgden gerichte vragen over de functies van elk element. De test werd afgerond met een korte bespreking van materiaalkeuzes op basis van het moodboard en inspiratiebeelden.  
 
-Tot slot lieten we de gebruikers het volledige spel spelen met hun gekozen knop. Tijdens het spel vroegen we, ter evaluatie van het finale product, om luidop te benoemen wat ze zagen en dachten. De algemene tevredenheid van Active Harmony werd gemeten met behulp van **_Self-Assessment Mannequins_**, waarbij ouderen het mannetje kozen dat het best hun gevoel weerspiegelde. 
+Tot slot lieten we de gebruikers het volledige spel spelen met hun gekozen knop. Tijdens het spel vroegen we, ter evaluatie van het finale product, om luidop te benoemen wat ze zagen en dachten. De algemene tevredenheid van Active Harmony werd gemeten met behulp van **Self-Assessment Mannequins**, waarbij ouderen het mannetje kozen dat het best hun gevoel weerspiegelde. 
 
 
 ### Resultaten
@@ -755,6 +755,82 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 
 
 ## Technische uitwerking
+
+**Bill of Materials:**
+
+Definition:
+- Papier
+- Karton
+- Yoga ballon materiaal
+- Zachte vulling
+
+Develop 1:
+- Karton
+
+Develop 2:
+- 3D-print PLA
+- Plexiglas
+- 4x Arduino Nano IoT
+- 4x RGB LED
+- 4x lichtsensor
+- Elektronische geleiders
+- 4x powerbank
+
+Develop 3:
+- Hout
+- Lijm
+- Plexiglas + verf
+- 1x Lichtsensor
+- 1x Capacitief touch
+- 1x Afstandssensor
+- 4x Arduino Nano IoT
+- 4x RGB LED
+- 4x Drukknop
+- Elektronische geleiders
+- 4x powerbank
+
+**Final Bill of Materials:**
+
+| Materiaal | Aantal | Kostprijs |
+|---|---|---|
+|Seeed studio model Xiao - nRf52840| 4 | €18 |
+|ESP8266| 4 | €3,25 |
+|LiPo batterij| 4 | €12 |
+|LED-ring| 4 | €6,7 |
+|Capacitive touch| 4 | €2,35 |
+|Elektronische geleiders|---|---|
+|PP|---| €10 |
+|Silicone|---| €10 |
+|TOTAAL|---| €189,2 |
+
+**Code:**
+
+Alle code is terug te vinden in de map **code**, die verder is onderverdeeld in twee submappen: één voor **Python-code** en één voor **Arduino-code**. In deze mappen zijn verschillende codes te vinden zoals de volledige besturing, maar ook de codes van bijvoorbeeld de afzonderlijke sensoren uit development 3. 
+
+Map: [Arduino-code](./Data/Arduino)
+Map: [Python-code](./Data/Python)
+
+In het vak Opkomende Technologieën werd het project ook ontwikkeld. Deze ontwikkelingen werden ook bij gehouden in een andere github, hierin is ook extra uitleg van de code te vinden:
+
+[Opkomende Technologieën]( https://github.com/LeniTheeten/sync-code-Active-Harmony?tab=readme-ov-file)
+
+![image](https://github.com/user-attachments/assets/33f509cb-704d-478c-ad5c-620f86bcca3f)
+
+![image](https://github.com/user-attachments/assets/5802c026-ffc3-44b5-94f0-57b880c8702d)
+
+![image](https://github.com/user-attachments/assets/14cc4e73-bd59-46e9-a763-3e3331d4ea39)
+
+**Build instructions:**
+
+Dit is der schakeling van de laatste development.
+
+![image](https://github.com/user-attachments/assets/48e144ef-3304-4ea6-9b53-5bb84d56edff)
+
+De tegels werden opgebouwd uit hout en lijm. De basis en schuine zijden werden gelasercut en vervolgens tegen elkaar gelijmd om een helling te vormen. Binnenin werden houten pootjes geplaatst, net iets lager dan de drukknop, zodat het plexiglas bij het indrukken hierop steunde en de elektronische componenten beschermd bleven. Voor het bovenvlak werd gelasercut plexiglas uit een eerder prototype hergebruikt.
+
+![image](https://github.com/user-attachments/assets/a48dccd7-95de-40ca-b344-1b75d828770f)  ![image](https://github.com/user-attachments/assets/f2849c10-5167-49e4-bf21-1b800a2aee5e)   ![image](https://github.com/user-attachments/assets/1e1f14fa-c031-47d2-a433-1e30b495ef13)
+
+De verschillende variaties werden bijgehouden in een [ontwerpdocument](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EXrY1de04I1BsoMVRV-_7_cBATncOythYGbqQexk1Xapyg?e=UeQlNT).
 
 ## Bronnen
 
