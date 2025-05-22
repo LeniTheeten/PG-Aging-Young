@@ -764,6 +764,48 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 
 ## Kritische reflectie
 
+**SEM 1:**
+
+Tijdens de eerste testfases werd achteraf vastgesteld dat de focus vooral lag op de vorm en opstelling van de mat en minder op de evaluatie of onze oplossing daadwerkelijk de beste aanpak was. Desondanks leverden deze tests waardevolle inzichten op. Zo gaven zowel de verpleegkundige als enkele bewoners van het rusthuis aan dat de mat bruikbaar moet zijn voor mensen die gebruik maken van een rollator of wandelstok. Daarnaast bleek uit de tests dat het product intuïtief genoeg was, zo kon het zonder uitgebreide uitleg direct gebruikt worden.
+
+De user tests vonden plaats in een rusthuis, wat achteraf niet de ideale omgeving bleek voor het testen met fysiek actieve ouderen. Daarom zullen de gebruikerstesten in semester 2 worden uitgevoerd met een groep ouderen die zelfstandigwonen en nog veel contact hebben met anderen. Dit zal een realistischer beeld vormen voor de doelgroep die het product zal kopen. 
+
+De oorspronkelijke eis: “De mat moet bruikbaar zijn met handen en voeten” is uitgebreid, zodanig deze ook geschikt is voor rechtstaand gebruik, zowel met als zonder rollator of wandelstok.
+
+**SEM 2:**
+
+Het ontwerp van Active Harmony evolueerde sterk doorheen het proces. In het begin lag de focus vooral op de vorm en opstelling van de mat, minder op de effectiviteit van het concept zelf. Een belangrijke wending in het proces was de pivot van een spelmat naar modulaire tegels, die meer flexibiliteit en veiligheid boden. Dankzij gebruikerstesten werd duidelijk dat lage tegels met antislip het struikelgevaar verlagen en beter aansluiten bij de behoeften van ouderen, zeker bij gebruik met rollator of wandelstok.
+
+Toch is het ontwerp nog niet finaal. Er is nood aan extra materiaalonderzoek met het oog op duurzaamheid, betaalbaarheid en esthetiek. Ook componentkeuzes moeten nog geoptimaliseerd worden, want sommige sensoren bleken te traag of onbetrouwbaar. Er wordt aanbevolen om het spel actiever en uitdagender te maken door moeilijkheidsgraden in te bouwen. Een sterk punt is de modulariteit van het spel.
+
+De methodologie van dit project was gebaseerd op het Double Diamond-model, al verliep het proces niet strikt lineair. Regelmatige reflectie en bijsturing maakten integraal deel uit van het traject. Vooral na de pitch in januari werd duidelijk dat sommige inzichten uit wave 1 en 2 ontoereikend waren. Dit leidde tot nieuwe bevragingen en methodologische aanpassingen om tot betere inzichten te komen.
+
+Tijdens het project werden verschillende onderzoeksmethodes ingezet, zoals Think-Aloud, de Experience Sampling Method (ESM), de System Usability Scale (SUS) en Self-Assessment Mannequins. De ESM-methode bleek in de praktijk minder effectief, doordat deelnemers nog te veel begeleiding nodig hadden. Pas nadat de usability op punt stond, konden metingen van de user experience (UX) écht waardevolle resultaten opleveren.
+
+In het begin waren testen nog vrij ongestructureerd, maar naarmate het proces vorderde, werd de testaanpak sterker. Verschillende technieken en data werden gecombineerd: observatie, logboeken, gebruikersscores, en gestructureerde bevragingen.
+
+Een belangrijk leermoment was dat niet alles wat gebruikers zeggen letterlijk te interpreteren is — het combineren van wat ze doen en zeggen bleek cruciaal. De Wizard-of-Oz-techniek werd toegepast om de gebruikerservaring zo natuurlijk mogelijk te laten verlopen, ook al was het systeem nog niet volledig autonoom.
+
+In de beginfase was er beperkte variatie in prototypes door een late start. De eerste versies waren stevig, maar niet op juiste maat. Latere tegels volgden wel correcte antropometrie.
+
+De tegelhoogte ging van 5 cm naar 2 cm, wat gebruikers stabieler vonden. Capacitieve touch kwam als beste sensor naar voren door gebruiksgemak en snelle respons. Tegels kregen dubbele lagen en anti-slip voor veiligheid en bescherming van elektronica.
+
+Hardwarekeuzes en het opbergstation werden aangepast op basis van gebruikerstests, met aandacht voor gebruiksgemak, vormgeving en materiaalvoorkeur.
+
+Hoewel het concept goed ontvangen werd, zijn er nog aandachtspunten voor verder onderzoek:
+- Volledige validatie van laatste prototype: Vooral op vlak van technische betrouwbaarheid en user experience.
+- Materiaalkeuze en duurzaamheid: PE en PP zijn voorkeursmaterialen, maar moeten nog getoetst worden op milieu-impact.
+- Spelvariatie en moeilijkheidsgraad: Hoe behoud je motivatie op lange termijn? Hoe kunnen er extra spelletjes worden geïmplementeerd
+- Autonomie: Verder onderzoek op: Hoe kan het product volledig zelfstandig gebruikt worden?
+- Sociale dynamiek: Hoe stimuleer je competitie of samenwerking tussen gebruikers?
+
+**ALGEMEEN:**
+
+Active Harmony is gegroeid van een spelmat-concept naar een doordacht systeem van interactieve muziektegels. Het combineert fysieke en cognitieve stimulatie met plezier, in een gebruiksvriendelijk en modulair ontwerp. Verdere iteratie en technische verfijning zullen zorgen dat het concept klaar is voor een realistische implementatie.
+
+In dit vak leerden we hoe we een project methodisch kunnen opbouwen met behulp van verschillende modellen en technieken die we zelf mochten toepassen. We werden uitgedaagd om tot het einde kritisch na te denken over ontwerpkeuzes, gebruik en onderbouwing. Een belangrijk leermoment was het leren analyseren van gebruikersgedrag en -behoeften, wat ons hielp om gerichter en gebruiksgericht te ontwerpen.
+
+De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse planning en taakverdeling. Wel werd duidelijk dat het huidige systeem, waarbij documenten en verslagen verspreid zijn over verschillende computers, zorgt voor een chaotisch overzicht. 
 
 ## Technische uitwerking
 
