@@ -110,7 +110,7 @@ Stressmanagement, levenskwaliteit en sociale interactie beïnvloeden  het gezond
 > Design Requirements:
 > - D1.6 Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen er zich comfortabel bij voelen.
 
-Het **[WWWWH-model]**(https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
+Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
 
 ![image](https://github.com/user-attachments/assets/2abd9b14-ba42-4f3c-8164-35650cb89cd3)
 
