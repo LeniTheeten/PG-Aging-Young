@@ -8,11 +8,13 @@
 
 ## Samenvatting
 
-In onze huidige samenleving groeit de aandacht voor zowel mentale fitheid als fysieke gezondheid. Onderzoek heeft aangetoond dat het combineren van cognitieve en fysieke uitdagingen een versterkend effect heeft. Een veelbelovende methode is de **_Ronnie Gardiner Methode (RGM)_**. Deze maakt gebruik van ritme en muziek om motoriek, spraak en cognitieve functies te verbeteren. Door meerdere hersengebieden tegelijkertijd te activeren wordt de gehele hersenconditie verbeterd. 
+In een samenleving waar de vergrijzing alsmaar toeneemt, neemt ook het belang van gezond ouder worden toe. De nood groeit aan oplossingen die zowel fysieke als cognitieve functies stimuleren. Eén bewezen methode die dit combineert is de **_Ronnie Gardiner Methode (RGM)_**. Deze combineert muziek, ritme en beweging om verschillende hersengebieden tegelijk te activeren. Zo wordt op een speelse manier motoriek en cognitieve vaardigheden versterkt. 
 
-Om dit concept te vernieuwen werd eerst deskresearch gedaan naar de RGM. Vervolgens om een eerste concept op te stellen werden interviews afgenomen. Daarna zijn meerdere user-tests uitgevoerd om te evalueren of het concept technisch haalbaar is om het product te gaan realiseren en te zien of het concept eenvoudig genoeg is voor de ouderen om het te begrijpen.
+Ons finaal concept sluit aan bij deze principes. Het bestaat uit **_modulaire, interactieve tegels_** die gekoppeld zijn aan een controle-/oplaadstation. Gebruikers spelen een muziek gebaseerd geheugenspel waarbij licht- en audiofeedback hun begeleiden. De tegels tonen een sequentie, waarna de gebruiker die volgorde zo goed mogelijk nabeweegt op het ritme van de gekozen muziek. Elke tegel heeft een drukknop die correcte en foute input verwerkt en dit communiceert met de gebruiker, wat het leerproces versterkt.  
 
-Het uiteindelijke concept is een **_interactieve mat_** waarmee de mensen in beweging komen en tegelijkertijd genieten van een muziek naar keuze. Tijdens het gebruik wordt de mat op de grond gelegd en geeft deze aanwijzingen waar de gebruiker zijn of haar voet moet plaatsen. Hierdoor creëren de spelers zelf muziek. Aan het einde van het spel horen ze het volledige liedje, mits het correct is uitgevoerd. De werking zorgt voor het stimuleren van de **_fysieke beweging_** omdat ouderen zich over de mat moeten bewegen om de juiste knoppen te gaan gebruiken en **_cognitieve verrijking_** die ontstaat omdat de gebruikers tijdens het spel goed moeten nadenken. 
+De positionering van de tegels kan aangepast worden aan de fysieke mogelijkheden van de gebruiker: op tafel, op de grond of in combinatie. Hierdoor is het spel zowel veilig als motiverend voor mensen met beperkte mobiliteit. Het **_spel draagt bij aan meer beweging en mentale uitdaging_** voor 65-plussers in hun eigen tempo en omgeving.  
+
+Dankzij het modulaire ontwerp kunnen de tegels ook voor andere spelvormen ingezet worden: met een aanpassing in de spelcode wordt het mogelijk om een volledig nieuw spel te activeren. Dit biedt gebruikers variatie en extra uitdaging.  
 
 ![image](https://github.com/user-attachments/assets/2778c2cb-1524-4dfe-b493-660d175b26a0)
 
