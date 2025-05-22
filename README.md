@@ -838,6 +838,8 @@ De verschillende variaties werden bijgehouden in een [ontwerpdocument](https://u
 
 Literatuuronderzoek:
 
+[^1]: Katatikarn, J. (15/02/2024). What is Color Symbolism? The Meaning of Color. [08/02/2025, https://academyofanimatedart.com/color-symbolism/].
+
 [^1]: RGM Nederland. (n.d.). RGM. RGM Nederland. [https://www.rgm-nederland.nl/site/rgm]
 [^2]: Brain Balance Instituut. (n.d.). Muziek met je hersenen. [Brain Balance Instituut. https://brainbalanceinstituut.com/muziek-met-je-hersenen/]
 [^3]: KU Leuven. (n.d.). Een bijsluiter voor de festivalzomer: Wat doet muziek met ons lijf en brein. KU Leuven. [https://stories.kuleuven.be/nl/verhalen/een-bijsluiter-voor-de-festivalzomer-wat-doet-muziek-met-ons-lijf-en-brein]
