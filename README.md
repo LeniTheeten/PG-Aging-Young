@@ -49,9 +49,9 @@ In deze fase stond de vraag centraal: Wat is de juiste oplossing? Door middel va
 **Develop – Ontwikkeling en Iteratie:**
 
 De ontwikkelfase verliep in drie stappen:
-- **Eerste ontwikkelfase:** Er werd dieper ingegaan op het spelprincipe. Via een **gebruikersbevraging** en **literatuuronderzoek** werd het gebruik van een spelmat onderzocht en nog opzoek gegaan naar validatie van vorige fase. Op basis van **antropometrische data** werd de fysieke vorm afgestemd. Een **gebruikerstest (N=4)** volgde.
-- **Tweede ontwikkelfase:** Hier lag de focus op usability en de eerste functionele implementatie. Er vond een versnelling plaats in het realiseren van het spel aan de hand van elektronica. De gedragsprincipes van **Nir Eyal’s Hook-model** (triggers, actie, beloning, investering) werden toegepast. De **testaanpak (N=6)** bestond uit de **Experience Sampling Method** (ESM), aanvullend met logboek tijdens de testdagen en de **System Usability Scale** (SUS) na testdagen. Er werd al ruw gekeken naar de hardware keuzes.
-- **Derde ontwikkelfase:** Verfijning van **hardware keuzes**, afstemming op gebruiksscenario’s en extra **validatie (N=4)** op vlak van usability en user experience, de methode van de **Self-Assessment Mannequins** werd toegepast. Inclusief onderzoek op het gehele product, opbergstation en materialen.
+- Eerste ontwikkelfase: Er werd dieper ingegaan op het spelprincipe. Via een **gebruikersbevraging** en **literatuuronderzoek** werd het gebruik van een spelmat onderzocht en nog opzoek gegaan naar validatie van vorige fase. Op basis van **antropometrische data** werd de fysieke vorm afgestemd. Een gebruikerstest (N=4) volgde.
+- Tweede ontwikkelfase: Hier lag de focus op usability en de eerste functionele implementatie. Er vond een versnelling plaats in het realiseren van het spel aan de hand van elektronica. De gedragsprincipes van **Nir Eyal’s Hook-model** (triggers, actie, beloning, investering) werden toegepast. De testaanpak (N=6) bestond uit de **Experience Sampling Method** (ESM), aanvullend met logboek tijdens de testdagen en de **System Usability Scale** (SUS) na testdagen. Er werd al ruw gekeken naar de hardware keuzes.
+- Derde ontwikkelfase: Verfijning van **hardware keuzes**, afstemming op gebruiksscenario’s en extra validatie (N=4) op vlak van usability en user experience, de methode van de **Self-Assessment Mannequins** werd toegepast. Inclusief onderzoek op het gehele product, opbergstation en materialen.
 
 **Deliver – Oplevering:**
 
@@ -72,25 +72,24 @@ Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plus
 
 ### Materiaal & methoden
 
-Om een gestructureerde en onderbouwde probleemstelling te formuleren, werd gebruik gemaakt van de Definition Template, waarmee een "How might we?" - vraag werd opgesteld. Voorafgaande hieraan werd het WWWWH-model toegepast om de onderzoeksvraag te verfijnen.
+Om een gestructureerde en onderbouwde probleemstelling te formuleren, werd gebruik gemaakt van de Definition Template, waarmee een "How might we?" - vraag werd opgesteld. Voorafgaande hieraan werd het **WWWWH-model** toegepast om de onderzoeksvraag te verfijnen.
 
-Allereerst een literatuurstudie ([Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)) aan de hand van een onderzoeksprotocol waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
+Allereerst een **literatuurstudie** ([Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)) aan de hand van een onderzoeksprotocol waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
 De centrale onderzoeksvragen waren:
 1. Hoe werkt de RGM-methode?
 2. Wat doet muziek met het menselijk brein en lichaam?
 3. Wat zijn cognitieve functies of vaardigheden?
 4. Hoe kan healthy aging worden bevorderd?
 
-Om kwalitatieve inzichten te verkrijgen, werden interviews([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen.Voorafgaande aan elk interview werd een [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun) ondertekend. Uit de inzichten van de intervieuws werd een persona en [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) & Persona opgesteld.
+Om kwalitatieve inzichten te verkrijgen, werden **interviews**([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen. Voorafgaande aan elk interview werd een [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun) ondertekend. Uit de inzichten van de intervieuws werd een **user model** en [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) **persona** opgesteld.
 
-
-In de sprintdag begon de ideegeneratiefase waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de innovatrix (om de graad van innovatie te bepalen) en de lotus ( om de brainstormsessie te structureren).
+In de sprintdag begon de **ideegeneratiefase** waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de **innovatrix** (om de graad van innovatie te bepalen) en de **lotusbloem** ( om de brainstormsessie te structureren).
 
 ### Resultaten
 
 Uit de resultaten van de verschillende onderzoeken werden design requirements opgesteld, deze vormen een basis voor het uiteindelijk concept.
 
-Uit het literatuur onderzoek blijkt dat een combinatie van muziek, beweging en kleur bijdraagt tot een fysieke en cognitieve stimulatie. Deze bevordert nieuwe verbindingen in de hersenen en helpt bij het behouden van het welzijn van de gebruikers. Daarbij heeft muziek een positief effect op emoties en motorische vaardigheden.
+Uit het **literatuuronderzoek** blijkt dat een combinatie van muziek, beweging en kleur bijdraagt tot een fysieke en cognitieve stimulatie. Deze bevordert nieuwe verbindingen in de hersenen en helpt bij het behouden van het welzijn van de gebruikers. Daarbij heeft muziek een positief effect op emoties en motorische vaardigheden.
 
 > [!IMPORTANT]
 > Design Requirements:
@@ -111,7 +110,7 @@ Stressmanagement, levenskwaliteit en sociale interactie beïnvloeden  het gezond
 > Design Requirements:
 > - D1.6 Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen er zich comfortabel bij voelen.
 
-Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
+Het **[WWWWH-model]**(https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
 
 ![image](https://github.com/user-attachments/assets/2abd9b14-ba42-4f3c-8164-35650cb89cd3)
 
@@ -127,8 +126,7 @@ Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voo
 
 ![image](https://github.com/user-attachments/assets/88c4c258-0ef8-496f-a0fe-5860ab27f530)
 
-
-De eerste concepten uit de sprint day bevatten telkens een combinatie van beweging en muziek.
+De eerste concepten uit de **sprint day** bevatten telkens een combinatie van beweging en muziek.
 
 ![ideegeneratie_1](https://github.com/user-attachments/assets/530793b8-f9f0-4b29-9911-5ddb9bdcbeb2)
 ![ideegeneratie_2](https://github.com/user-attachments/assets/06497c22-9405-43b3-9c5b-a164ada213ec)
@@ -166,7 +164,7 @@ Beide tests werden uitgevoerd in het rusthuis in Alveringem, met ouderen die men
 
 ### Materiaal & methoden
 
-Het onderzoek werd in 2 waves uitgevoerd, hierbij werd gebruik gemaakt van een combinatie van:
+Het onderzoek werd in **2 waves** uitgevoerd, hierbij werd gebruik gemaakt van een combinatie van:
 - Sensorial boards: verschillende texturen, materialen en drukgevoelige knoppen
 - Kartonnen prototypes: simulaties van de mat met verschillende lay-outs
 - Digitale interfaces: een Figma template werd voorbereid op de laptop om te spelinteractie te simuleren.
@@ -526,6 +524,11 @@ Dit zijn nog enkele aanvullende bevindingen die de gebruikers hebben gedeeld:
 
 Hieruit is gekozen voor de capacitieve touch, omdat gebruikers aangeven dat het prettiger is om zonder fysieke druk een knop te bedienen, en deze sensor bovendien snel reageert.
 
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.1 Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.
+> - D5.2 Zorg voor directe visuele feedback via LED bij interactie.
+
 **Product validatie:**
 
 Er werd een lagere tegel (2 cm) gemaakt om gebruikers de streefhoogte te laten voelen. Deze hoogte verkleint het struikelgevaar en is voorzien van anti-slip voor extra veiligheid. De hogere tegels (5 cm) worden gebruikt tijdens het spel en zijn aangepast aan de grootte van de drukknop.
@@ -556,6 +559,10 @@ De mensen waren nog steeds enthousiast, dit was te merken aan de uitspraken:
 
 _“Ik vind het echt een geestig spel.”_
 _“Het spelen ging zeer vlot, als er geen verbindingsproblemen waren.”_
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.3 Ontwerp lage, stabiele tegels met antisliponderzijde voor veiligheid.
 
 Op vlak van **usability** werden de criteria: efficiënt in gebruik, effectief in gebruik, veilig in gebruik, nut, gemakkelijk te leren en onthouden beoordeeld door de mensen. Ze gaven hierbij een score op 10. Dit waren de resultaten:
 
@@ -594,6 +601,12 @@ Ook werd gevraagd voor de **Self-Assessment Mannequins** aan te duiden, zodat er
 
 De scores zijn overwegend positief; deelnemers zijn vrolijk en positief tijdens het spel. Omdat er nog ‘achter de schermen’ besturing is, zijn spelers nog niet volledig zelfstandig. Het spel wordt als matig actief ervaren. Om dit te verbeteren, kunnen we het uitdagender maken met verschillende niveaus, zoals snellere tempo’s of meer tegels.
 
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.4 Voorzie meerdere moeilijkheidsgraden en speelmodes voor verschillende niveaus.
+> - D5.5 Implementeer speelmoment-tracking en scores voor motivatie en sociale interactie.
+> - D5.6 Bied keuzeopties voor muziekselectie aan de gebruiker. 
+
 **Opbergings station:**
 
 Er werden vijf variaties van het station gemaakt (zie foto’s). De deelnemers beoordeelden elke tekening en gaven aan welke ze het duidelijkst vonden en welke ze prefereren. Het laatste ontwerp was favoriet vanwege het moderne, duidelijke uiterlijk en paste het beste in een leefruimte.
@@ -614,6 +627,12 @@ _“Zegt veel zonder uitleg nodig te hebben.”_
 
 ![image](https://github.com/user-attachments/assets/ef519b48-4b5a-4c24-8160-74588b59d1b7)  ![image](https://github.com/user-attachments/assets/7ad980fa-d21b-4682-b69d-d104481c4d42)
 
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.7 Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.
+> - D5.8 Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.
+> - D5.9 Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.
+
 **Materialen:**
 
 Tot slot werd gevraagd welk materiaal zij voor het product zouden kiezen, met de vraag: _“Als je één materiaal uit je huis mocht kiezen, welke zou dat zijn?”_
@@ -631,27 +650,20 @@ Voor de materialen en uitstraling werd ook een eigen moodboard opgesteld.
 
 ![image](https://github.com/user-attachments/assets/2eea5c32-ea32-49c7-970c-b65edcae4deb)
 
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.10 Gebruik stevig kunststof (zoals PE of PP) voor behuizing. 
+> - D5.11 Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.
+
 Finaal product:
 
 (Render inplaatsen)
 
 ### Conclusies & implicaties
 
-De gebruikerstest bevestigt dat het concept geschikt is. Drukknoppen en capacitieve touchsensoren worden het meest gewaardeerd, terwijl licht- en afstandsensoren minder betrouwbaar zijn. Lage tegels zorgen voor meer stabiliteit en veiligheid. Het spel wordt leuk gevonden, maar mist soms uitdaging en motivatie. (Dit zullen we oplossen door meer spelvarianten voor afwisseling en moeilijkheidsniveaus).  
-
-> [!IMPORTANT]
-> Design Requirements:
-> - D5.1 Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.
-> - D5.2 Zorg voor directe visuele feedback via LED bij interactie.
-> - D5.3 Ontwerp lage, stabiele tegels met antisliponderzijde voor veiligheid.
+De gebruikerstest bevestigt dat het concept geschikt is. Drukknoppen en capacitieve touchsensoren worden het meest gewaardeerd, terwijl licht- en afstandsensoren minder betrouwbaar zijn. Lage tegels zorgen voor meer stabiliteit en veiligheid. Het spel wordt leuk gevonden, maar mist soms uitdaging en motivatie. (Dit zullen we oplossen door meer spelvarianten voor afwisseling en moeilijkheidsniveaus). 
 
 Gebruikers waarderen het zelf kunnen kiezen van hun liedjes en zien meerwaarde in moeilijkheidsniveaus en speelmomenttracking.  
-
-> [!IMPORTANT]
-> Design Requirements:
-> - D5.4 Voorzie meerdere moeilijkheidsgraden en speelmodes voor verschillende niveaus.
-> - D5.5 Implementeer speelmoment-tracking en scores voor motivatie en sociale interactie.
-> - D5.6 Bied keuzeopties voor muziekselectie aan de gebruiker. 
 
 ![image](https://github.com/user-attachments/assets/9185949a-3ed7-4501-b03f-82f6d6d70961)
 
@@ -659,18 +671,8 @@ Voor het station is de ontwerptekening de favoriet vanwege het compacte en duide
 
 ![image](https://github.com/user-attachments/assets/6362fd76-cda0-4185-973e-8810b8b750f0)
 
-> [!IMPORTANT]
-> Design Requirements:
-> - D5.7 Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.
-> - D5.8 Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.
-> - D5.9 Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.
-
 Kunststof in combinatie met rubberachtige materialen wordt door gebruikers als het beste materiaal voor het oplaadstation beschouwd, vanwege de esthetische uitstraling en de functionele grip. 
 
-> [!IMPORTANT]
-> Design Requirements:
-> - D5.10 Gebruik stevig kunststof (zoals PE of PP) voor behuizing. 
-> - D5.11 Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.
 
 ## Conclusie
 
