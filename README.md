@@ -876,7 +876,7 @@ In het vak Opkomende Technologieën werd het project ook ontwikkeld. Deze ontwik
 
 **Build instructions:**
 
-Dit is der schakeling van de laatste development.
+Schakeling van de laatste development.
 
 ![image](https://github.com/user-attachments/assets/48e144ef-3304-4ea6-9b53-5bb84d56edff)
 
