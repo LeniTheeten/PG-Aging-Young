@@ -838,25 +838,16 @@ De verschillende variaties werden bijgehouden in een [ontwerpdocument](https://u
 
 Literatuuronderzoek:
 
-https://www.rgm-nederland.nl/site/rgm
-
-https://brainbalanceinstituut.com/muziek-met-je-hersenen/
-
-https://stories.kuleuven.be/nl/verhalen/een-bijsluiter-voor-de-festivalzomer-wat-doet-muziek-met-ons-lijf-en-brein
-
-https://www.uzgent.be/patient/zoek-een-arts-of-dienst/neurologie/aandoeningen-en-behandelingen/geheugenproblemen/wat-zijn-cognitieve-stoornissen#:~:text=Cognitieve%20functies%20of%20vaardigheden%20zijn,worden%2C%20gaan%20ze%20langzaam%20achteruit
-
-https://www.dementie.be/meander/dementie/wat-is-dementie/#:~:text=De%20symptomen%20die%20op%20cognitief,perceptueel-motorisch%20en%20sociale%20cognitie
-
-https://snellezen.com/brein-trainen/
-
-https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability
-
-https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging
-
-https://gray.be/news/whitepapergray2023/GRAY_Whitepaper_Gezond-Verouderen_reduced.pdf
-
-https://www.asr.nl/vitaliteit/gezond-ouder-worden
+[^1]: RGM Nederland. (n.d.). RGM. RGM Nederland. [https://www.rgm-nederland.nl/site/rgm]
+[^2]: Brain Balance Instituut. (n.d.). Muziek met je hersenen. [Brain Balance Instituut. https://brainbalanceinstituut.com/muziek-met-je-hersenen/]
+[^3]: KU Leuven. (n.d.). Een bijsluiter voor de festivalzomer: Wat doet muziek met ons lijf en brein. KU Leuven. [https://stories.kuleuven.be/nl/verhalen/een-bijsluiter-voor-de-festivalzomer-wat-doet-muziek-met-ons-lijf-en-brein]
+[^4]: UZ Gent. (n.d.). Wat zijn cognitieve stoornissen?. UZ Gent. [https://www.uzgent.be/patient/zoek-een-arts-of-dienst/neurologie/aandoeningen-en-behandelingen/geheugenproblemen/wat-zijn-cognitieve-stoornissen]
+[^5]: Dementie.be. (n.d.). Wat is dementie?. Dementie.be. [https://www.dementie.be/meander/dementie/wat-is-dementie/]
+[^6]: Snellezen.com. (n.d.). Brein trainen. Snellezen.com. [https://snellezen.com/brein-trainen/]
+[^7]: World Health Organization. (n.d.). Healthy ageing and functional ability. World Health Organization. [https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability]
+[^8]: National Institute on Aging. (n.d.). What do we know about healthy aging?. National Institute on Aging. [https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging]
+[^9]: GRAY. (2023). GRAY Whitepaper Gezond Verouderen. GRAY.[https://gray.be/news/whitepapergray2023/GRAY_Whitepaper_Gezond-Verouderen_reduced.pdf]
+[^10]: ASR. (n.d.). Gezond ouder worden. ASR. [https://www.asr.nl/vitaliteit/gezond-ouder-worden]
 
 Benchmarks:
 
