@@ -6,6 +6,8 @@
 
 23-05-2025
 
+![Logo_Active_Harmony](https://github.com/user-attachments/assets/3881f1c6-f046-43c0-9cb8-148713e07b99)
+
 ## Samenvatting
 
 In een samenleving waar de vergrijzing alsmaar toeneemt, neemt ook het belang van gezond ouder worden toe. De nood groeit aan oplossingen die zowel fysieke als cognitieve functies stimuleren. Eén bewezen methode die dit combineert is de **Ronnie Gardiner Methode (RGM)** [^1]. Deze combineert muziek, ritme en beweging om verschillende hersengebieden tegelijk te activeren. Zo wordt op een speelse manier motoriek en cognitieve vaardigheden versterkt. 
@@ -113,8 +115,7 @@ Stressmanagement, levenskwaliteit en sociale interactie beïnvloeden  het gezond
 
 Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
 
-![image](https://github.com/user-attachments/assets/74d82b0b-2706-43c6-b7eb-1178571da7bf)
-
+![Persona](https://github.com/user-attachments/assets/cbad4d7a-113c-45c2-b12e-84b6d19dc751)
 
 Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voor een activiteit met muziek en beweging, maar in beperkte mate. De voorkeur gaat uit naar oefeningen die in de ochtend of voormiddag plaatsvinden omdat de namiddag meestal een vaste routine heeft. Voor onze doelgroep is een eenvoudige en duidelijke interface belangrijk door bijvoorbeeld zaken als gehoor- en zichtverlies. De populairste sociale en cognitieve spellen bij de ouderen zijn kaarten, Sudoku en Rummikub.
 
