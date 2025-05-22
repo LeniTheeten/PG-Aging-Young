@@ -686,14 +686,14 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
 |**Discover**|
-|1.1|De oplossing moet muziek, beweging en coördinatie combineren.|Literatuurstudie|17/10/2024|---|
-|1.2|De activiteit moet bijdragen aan zowel fysieke als cognitieve stimulatie.|Literatuurstudie|17/10/2024|<details><summary>OK</summary><br>uitleg</details>|
-|1.3|Muziek moet op een intuïtieve manier geïntegreerd worden.|Literatuurstudie|17/10/2024|---|
-|1.4|De oplossing moet cognitief uitdagend genoeg zijn en niet te eenvoudig.|Literatuurstudie|17/10/2024|---|
-|1.5|Het concept moet meerdere cognitieve functies tegelijk aanspreken (zoals geheugen en reactievermogen).|Literatuurstudie|17/10/2024|---|
-|1.6|Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen zich er comfortabel bij voelen.|Literatuurstudie|17/10/2024|---|
-|1.7|De oplossing moet eenvoudig en laagdrempelig zijn, zonder ingewikkelde instructies.|Interview|26/10/2024|---|
-|1.8|Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.|Interview|26/10/2024|---|
+|1.1|De oplossing moet muziek, beweging en coördinatie combineren.|Literatuurstudie|17/10/2024|<details><summary>OK</summary><br>Het spel wordt gespeeld op het ritme van de muziek waarbij gebruikers zich fysiek verplaatsen naar de juiste tegel, wat coördinatie vereist.</details>|
+|1.2|De activiteit moet bijdragen aan zowel fysieke als cognitieve stimulatie.|Literatuurstudie|17/10/2024|<details><summary>OK</summary><br>Gebruikers bewegen naar de tegels en worden cognitief geprikkeld via een geheugenspel waarbij ze een volgorde moeten onthouden. </details>|
+|1.3|Muziek moet op een intuïtieve manier geïntegreerd worden.|Literatuurstudie|17/10/2024|<details><summary>OK</summary><br>Gebruikers bewegen naar de tegels en worden cognitief geprikkeld via een geheugenspel waarbij ze een volgorde moeten onthouden.</details>|
+|1.4|De oplossing moet cognitief uitdagend genoeg zijn en niet te eenvoudig.|Literatuurstudie|17/10/2024|<details><summary>OK</summary><br>De moeilijkheid stijgt door tegels meerdere keren te laten oplichten, wat meer concentratie en geheugen vereist dan eenmalige oplichtmomenten (bevestigd door gebruikerstesten) </details>|
+|1.5|Het concept moet meerdere cognitieve functies tegelijk aanspreken (zoals geheugen en reactievermogen).|Literatuurstudie|17/10/2024|<details><summary>OK</summary><br>Gebruikers moeten de juiste volgorde onthouden en snel reageren, aders wordt de muziek stiller.</details>|
+|1.6|Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen zich er comfortabel bij voelen.|Literatuurstudie|17/10/2024|<details><summary>OK</summary><br>De modulaire tegels kunnen geplaatst worden op tafel of op de grond, afgestemd op fysieke mogelijkheden van de gebruiker.</details>|
+|1.7|De oplossing moet eenvoudig en laagdrempelig zijn, zonder ingewikkelde instructies.|Interview|26/10/2024|<details><summary>OK</summary><br>Het spelprincipe is vergelijkbaar met "Simon zegt", waarbij hebriukers een (visuele) volgorde onthouden en naspelen</details>|
+|1.8|Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.|Interview|26/10/2024|<details><summary>OK</summary><br>Het oplaadstation heeft grote knoppen die visueel duidelijk zijn en de tegels geven over het volledige oppervlak licht. Overal op het oppervlak kan de tegel worden geactiveerd.</details>|
 |**Definition**|
 |2.1|Het spel moet intuïtief en eenvoudig te gebruiken zijn.|Wave 1|08/12/2024|---|
 |2.2|Het ontwerp moet neutraal en volwassen ogen.|Wave 1|08/12/2024|---|
