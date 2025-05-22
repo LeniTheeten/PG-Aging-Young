@@ -990,25 +990,17 @@ Develop 2:
 
 ## Bronnen
  [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10]
-[^1]: RGM Nederland. (z.d.). RGM. RGM Nederland. [RGM](https://www.rgm-nederland.nl/site/rgm)
 
-Brain Balance Instituut. (z.d.). Muziek met je hersenen. [Brain Balance Instituut](https://brainbalanceinstituut.com/muziek-met-je-hersenen/)
-
-KU Leuven. (z.d.). Een bijsluiter voor de festivalzomer: Wat doet muziek met ons lijf en brein. [KU-Leuven storie](https://stories.kuleuven.be/nl/verhalen/een-bijsluiter-voor-de-festivalzomer-wat-doet-muziek-met-ons-lijf-en-brein)
-
-UZ Gent. (z.d.). Wat zijn cognitieve stoornissen? [UZGent](https://www.uzgent.be/patient/zoek-een-arts-of-dienst/neurologie/aandoeningen-en-behandelingen/geheugenproblemen/wat-zijn-cognitieve-stoornissen)
-
-Dementie.be. (z.d.). Wat is dementie? https://www.dementie.be/meander/dementie/wat-is-dementie/
-
-Snellezen.com. (z.d.). Brein trainen. https://snellezen.com/brein-trainen/
-
-World Health Organization. (z.d.). Healthy ageing and functional ability. https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability
-
-National Institute on Aging. (z.d.). What do we know about healthy aging? https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging
-
-GRAY. (2023). GRAY Whitepaper Gezond Verouderen. https://gray.be/news/whitepapergray2023/GRAY_Whitepaper_Gezond-Verouderen_reduced.pdf
-
-ASR. (z.d.). Gezond ouder worden. https://www.asr.nl/vitaliteit/gezond-ouder-worden
+[^1]: RGM Nederland. (z.d.). RGM. RGM Nederland. [https://www.rgm-nederland.nl/site/rgm]
+[^2]: Brain Balance Instituut. (z.d.). Muziek met je hersenen.[https://brainbalanceinstituut.com/muziek-met-je-hersenen/]
+[^3]: KU Leuven. (z.d.). Een bijsluiter voor de festivalzomer: Wat doet muziek met ons lijf en brein. [https://stories.kuleuven.be/nl/verhalen/een-bijsluiter-voor-de-festivalzomer-wat-doet-muziek-met-ons-lijf-en-brein]
+[^4]: UZ Gent. (z.d.). Wat zijn cognitieve stoornissen? [https://www.uzgent.be/patient/zoek-een-arts-of-dienst/neurologie/aandoeningen-en-behandelingen/geheugenproblemen/wat-zijn-cognitieve-stoornissen]
+[^5]: Dementie.be. (z.d.). Wat is dementie? [https://www.dementie.be/meander/dementie/wat-is-dementie/]
+[^6]:Snellezen.com. (z.d.). Brein trainen. [https://snellezen.com/brein-trainen/]
+[^7]:World Health Organization. (z.d.). Healthy ageing and functional ability. [https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability]
+[^8]:National Institute on Aging. (z.d.). What do we know about healthy aging? [https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging]
+[^9]:GRAY. (2023). GRAY Whitepaper Gezond Verouderen. [https://gray.be/news/whitepapergray2023/GRAY_Whitepaper_Gezond-Verouderen_reduced.pdf]
+[^10]:ASR. (z.d.). Gezond ouder worden. [https://www.asr.nl/vitaliteit/gezond-ouder-worden]
 
 Benchmarks:
 
