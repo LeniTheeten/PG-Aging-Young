@@ -31,6 +31,7 @@ Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 -	Intuïtief: De methodiek moet aansluiten bij muziekherkenning en natuurlijke bewegingen.
 -	Interactief: Het product moet deelnemers actief betrekken en hen stimuleren om te reageren op ritmische prikkels.
 
+https://www.rgm-nederland.nl/site/rgm
 
 ## Methodologie
 
