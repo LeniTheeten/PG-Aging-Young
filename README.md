@@ -987,3 +987,102 @@ Develop 2:
 - [rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Eb14NZj02RpJueEuV5QmxaYB_O-dqX9yAyYtQIq0YhjybQ?e=pGeihz)
 - [resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5)
 - [Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP)
+
+## Bronnen
+ [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10]
+[^1]: RGM Nederland. (z.d.). RGM. RGM Nederland. [RGM](https://www.rgm-nederland.nl/site/rgm)
+
+Brain Balance Instituut. (z.d.). Muziek met je hersenen. [Brain Balance Instituut](https://brainbalanceinstituut.com/muziek-met-je-hersenen/)
+
+KU Leuven. (z.d.). Een bijsluiter voor de festivalzomer: Wat doet muziek met ons lijf en brein. [KU-Leuven storie](https://stories.kuleuven.be/nl/verhalen/een-bijsluiter-voor-de-festivalzomer-wat-doet-muziek-met-ons-lijf-en-brein)
+
+UZ Gent. (z.d.). Wat zijn cognitieve stoornissen? [UZGent](https://www.uzgent.be/patient/zoek-een-arts-of-dienst/neurologie/aandoeningen-en-behandelingen/geheugenproblemen/wat-zijn-cognitieve-stoornissen)
+
+Dementie.be. (z.d.). Wat is dementie? https://www.dementie.be/meander/dementie/wat-is-dementie/
+
+Snellezen.com. (z.d.). Brein trainen. https://snellezen.com/brein-trainen/
+
+World Health Organization. (z.d.). Healthy ageing and functional ability. https://www.who.int/news-room/questions-and-answers/item/healthy-ageing-and-functional-ability
+
+National Institute on Aging. (z.d.). What do we know about healthy aging? https://www.nia.nih.gov/health/healthy-aging/what-do-we-know-about-healthy-aging
+
+GRAY. (2023). GRAY Whitepaper Gezond Verouderen. https://gray.be/news/whitepapergray2023/GRAY_Whitepaper_Gezond-Verouderen_reduced.pdf
+
+ASR. (z.d.). Gezond ouder worden. https://www.asr.nl/vitaliteit/gezond-ouder-worden
+
+Benchmarks:
+
+Lobyoh Baby Muziek Mat Piano Mat met 8 Muziekinstrumenten, Keyboard Kids Dance Mat, Speelgoed Cadeau voor Peuters Jongens Meisjes : Amazon.nl: Speelgoed & spellen
+
+IKEA Video Game Interactive Floor Projector - YouTube
+
+Woezel & Pip interactieve speelmat - met licht & geluid - 90 x 70 cm : Amazon.nl: Speelgoed & spellen
+
+https://www.toychamp.be/producten/n-gear-xxl-piano-dansmat/01665352
+
+https://www.ultragadgets.be/contents/nl/p954_Dansmat-dancing-challenge.html
+
+https://www.gameroomguys.com/Step-Revolution-StepMania-Dedicated-Deluxe-DX-Dance-Machine-Arcade-Game
+
+https://www.google.com/search?q=piano+tiles+review&sca_esv=86a7437669578f61&rlz=1C1CHBF_nlBE1097BE1097&biw=1536&bih=695&ei=gDw-Z6fYIuSKkdUPp4u36Qc&oq=piano+tales+revi&gs_lp=Egxnd3Mtd2l6LXNlcnAiEHBpYW5vIHRhbGVzIHJldmkqAggAMgYQABgWGB4yBhAAGBYYHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIyhlQoANY7AtwAXgBkAEAmAFroAHnA6oBAzMuMrgBAcgBAPgBAZgCBqAC9QPCAgoQABiwAxjWBBhHwgIOEAAYsAMY5AIY1gTYAQHCAhYQLhiABBiwAxhDGNQCGMgDGIoF2AEBwgILEAAYgAQYkQIYigXCAgoQLhiABBhDGIoFwgIHEAAYgAQYCsICCxAuGIAEGJECGIoFwgIHEC4YgAQYCsICBxAAGIAEGA3CAggQABgWGAoYHpgDAIgGAZAGDboGBggBEAEYCZIHAzQuMqAH2ik&sclient=gws-wiz-serp
+
+https://www.backmarket.nl/nl-nl/p/nintendo-wii-systeem-wii-bord/9d8040aa-3cc5-4d84-8a3f-dac513264d55?shopping=gmc&utm_source=google&utm_medium=cpc&utm_campaign=NL_SA_SHOP_G_GEN_Others_RSC&gclid=CjwKCAiArva5BhBiEiwA-oTnXUw-_dqqsk02b8WohJGSN9YO0GqGHCVMKVNTKQQgLMHXcBX3j_GdhhoCsBIQAvD_BwE&gad_source=1&l=12
+
+https://www.wijksnieuws.nl/sport/overig/700226/wijk-balans-spel-voor-ouderen-voor-het-verbeteren-van-spierkrac
+
+https://www.cool2bfit.nl/uploadfiles/1612346431--FILE--31012021_bewegend-ganzenbord.pdf
+
+https://www.cool2bfit.nl/kinderen/leuke-beweegspelletjes-voor-thuis/
+
+https://toystar.nl/products/dancemax-maak-van-je-woonkamer-een-dansvloer-interactieve-dansmat?variant=49868734267733&country=NL&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&tw_source=google&tw_adid=&tw_campaign=21683111445&gad_source=1&gclid=Cj0KCQiAgJa6BhCOARIsAMiL7V-sGMmw2BQP5Hcn7PpLG4-WHp1zPDEmUk4HF4r_m5p2u5sHYlV1JoMaAucDEALw_wcB
+
+https://oxinome.com/products/quick-push-bubble-game
+
+https://www.dignis.nl/ehealth/tovertafel/
+
+
+Zoekopdracht: “studies on repeated actions based on pleasentness of task”:
+
+https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.977687/full
+
+https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-021-00301-5
+
+https://link.springer.com/article/10.1007/s00221-017-5112-3
+
+https://www.sciencedirect.com/science/article/pii/S0191886999000914
+
+Antropometrische data:
+
+https://www.dinbelg.be/ouderentotaal.htm
+
+https://www.wandeltraining.nl/stappenteller.htm#:~:text=De%20gemiddelde%20staplengte%20voor%20een,pas%20bestaat%20uit%20twee%20stappen.
+
+https://www.tweevoeter.nl/wandeluitrusting/stappentellers/  
+
+file:///C:/Users/amber/Downloads/gedliczka-et-al-2008-defining-space-models-of-arm-reach-envelopes-for-static-forced-postures.pdf 
+
+Literatuurstudie develop 1:
+
+https://books.google.be/books?hl=en&lr=&id=JXIEz2XYnp8C&oi=fnd&pg=PA5&dq=reason+use+of+rectangulars+in+design&ots=XzE8U4mxch&sig=X_9M9Ad-3yesLW02JOVluluWITA&redir_esc=y#v=onepage&q=reason%20use%20of%20rectangulars%20in%20design&f=false 
+
+https://www.sciencedirect.com/science/article/pii/S0169814199000268 
+
+https://www.sciencedirect.com/science/article/abs/pii/S0161642087333093 
+
+https://karger.com/ger/article/51/2/94/146756/Influence-of-Elderly-Executive-Cognitive-Function 
+
+https://link.springer.com/article/10.1023/A:1026206927686 
+
+https://iovs.arvojournals.org/article.aspx?articleid=2183403 
+
+https://utppublishing.com/doi/abs/10.3138/ptc.41.5.240 
+
+https://journals.sagepub.com/doi/abs/10.1177/0269215506070144 
+
+https://www.tandfonline.com/doi/abs/10.1080/00140130110038044 
+
+https://www.emerald.com/insight/content/doi/10.1108/ria-09-2022-0227/full/html 
+
+Develop 2:
+(https://www.usersense.be/kennisbank/usability-metrics/system-usability-scale-sus)
+
