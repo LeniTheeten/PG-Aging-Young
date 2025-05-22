@@ -342,11 +342,11 @@ Het doel van de 2e ontwikkelfase is een elektronica-gestuurd prototype meegeven 
 
 ![image](https://github.com/user-attachments/assets/f4369090-456e-45a6-bd16-dbdbb7ee990e)
 
-Tijdens de testfase werd het fysieke prototype gebouwd uit 3D-geprinte tegels met een plexiglas bovenlaag. De elektronica bestaat uit een Arduino Nano 33 IoT, een RGB-LED,een lichtsensor, een breadboard, geleiders en voeding via een powerbank. De verschillende Arduino-onderdelen zijn op de figuur hierboven te zien. De besturing van het spel is geprogrammeerd in Python, waarbij de communicatie met de Arduino via een online MQTT-server verloopt. Enkel voor de initiële opstart van het spel is er het gebruik van de computer.
+Tijdens de testfase werd het fysieke prototype gebouwd uit 3D-geprinte tegels met een plexiglas bovenlaag. De **elektronica** bestaat uit een Arduino Nano 33 IoT, een RGB-LED,een lichtsensor, een breadboard, geleiders en voeding via een powerbank. De verschillende Arduino-onderdelen zijn op de figuur hierboven te zien. De besturing van het spel is geprogrammeerd in Python, waarbij de communicatie met de Arduino via een online MQTT-server verloopt. Enkel voor de initiële opstart van het spel is er het gebruik van de computer.
 
 ![image](https://github.com/user-attachments/assets/9a12d4f4-41b2-4156-9c77-fbcda14afe81)
 
-Vooraleer de gebruikers effectief met het spel aan de slag gingen, is een blackboxmodel ontworpen als basis. Hierin is vastgelegd wat elk onderdeel van het spel moet doen. Dit beschrijft de input-outputrelaties voor elk interactie-element. Dit model vormde de basis voor de opbouw van zowel de software (Python) als de hardware (Arduino). 
+Vooraleer de gebruikers effectief met het spel aan de slag gingen, is een **blackboxmodel** ontworpen als basis. Hierin is vastgelegd wat elk onderdeel van het spel moet doen. Dit beschrijft de input-outputrelaties voor elk interactie-element. Dit model vormde de basis voor de opbouw van zowel de software (Python) als de hardware (Arduino). 
 
 ![image](https://github.com/user-attachments/assets/6533327a-e29d-446d-b217-02f187a46549)
 
@@ -354,12 +354,13 @@ Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen i
 
 ![image](https://github.com/user-attachments/assets/edbe5ea7-2764-4274-baec-e31820c7c796)
 
-Voorafgaand aan de gebruikerstesten werd het spel virtueel uitgevoerd door simulaties. De Arduino’s worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld). Hierbij werden de denkpatronen van de ouderen nagebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd. Bij de map Data zijn de gebruikte codebestanden terug te vinden.
+Voorafgaand aan de **gebruikerstesten** werd het spel virtueel uitgevoerd door simulaties. De Arduino’s worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld). Hierbij werden de denkpatronen van de ouderen nagebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd. Bij de map Data zijn de gebruikte codebestanden terug te vinden.
 
-Op basis van Nirals Eye werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5) van de gebruiker vastgelegd, met als doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment dat vaak op de radio wordt gespeeld associëren met ons spel. 
+Op basis van *Nirals Eye* werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5) van de gebruiker vastgelegd, met als doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment dat vaak op de radio wordt gespeeld associëren met ons spel. 
 
-Pas nadat het prototype voldoende stabiel en logisch opgebouwd was, startten de gebruikerstesten met de ouderen. Hierbij werden zes, 65-plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025. 
-Bij de voorbereiding werd het informed consent ondertekend. 
+Pas nadat het prototype voldoende stabiel en logisch opgebouwd was, startten de gebruikerstesten met de ouderen. Hierbij werden zes, 65-plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025.
+
+Bij de voorbereiding werd het **informed consent** ondertekend. 
 Dag 1 staat in het teken van start en observatie. De gebruiker speelt het spel voor het eerst onder toezicht van de observator en testleider. Door het gebruik van Wizard-of-Oz-methode, wordt het spel manueel opgestart via Python, gelinkt aan de activering van de powerbank door de gebruiker.
 Dag 2 bood de deelnemers de vrijheid om het spel zelfstandig te gebruiken in hun eigen omgeving.
 Dag 3 werd opnieuw begeleid door testleider en observator, waarbij belangrijke veranderingen werden genoteerd. 
@@ -367,7 +368,7 @@ Elke dag vulden de gebruikers een [logboek](https://ugentbe-my.sharepoint.com/:w
 
 ![image](https://github.com/user-attachments/assets/07231d98-0818-4962-bcef-c458ec0b6bc6)
 
-Na afloop van de gebruikerstesten werd variety prototyping toegepast om het grootste probleem, namelijk de lichtsensor, te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD-model ontworpen, waarbij rekening werd gehouden met de [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ESMYJ2hMMlpNjmPszoZSaYsBGAYIlG5Dg3-M26ssu1h2lw?e=acZaUG). 
+Na afloop van de gebruikerstesten werd **variety prototyping** toegepast om het grootste probleem, namelijk de lichtsensor, te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD-model ontworpen, waarbij rekening werd gehouden met de [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ESMYJ2hMMlpNjmPszoZSaYsBGAYIlG5Dg3-M26ssu1h2lw?e=acZaUG). 
 De technische schakeling van elke oplossing is gedocumenteerd in het hardwareprotocol ([protocol hardware](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=heA9mc)).  
 
 ![image](https://github.com/user-attachments/assets/0588508f-c848-4d59-8326-61dee37b6268)
@@ -464,8 +465,7 @@ Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hie
 
 ![image](https://github.com/user-attachments/assets/127049a3-4028-447a-aa35-a99e63d9ce8b)  ![image](https://github.com/user-attachments/assets/7649a8b4-1147-4299-933a-0c73e417f793)  ![image](https://github.com/user-attachments/assets/0cb60aaf-bea3-4e63-9226-86a96aa5f2c2)  ![image](https://github.com/user-attachments/assets/a054be57-1d79-4b53-a9cd-3c9421d30361)
     
-Ze worden gequoteerd op verschillende criteria die met een score van 1 tot 5 worden geëvalueerd. Als uiteindelijke ontwerp wordt gekozen voor (sensor) en (ontwerp), omdat … 
-(foto's van keuze)
+Ze worden gequoteerd op verschillende criteria die met een score van 1 tot 5 wordt geëvalueerd. Als uiteindelijke ontwerp word gekozen voor de capacitief touch. Deze hardware choices worden bij de gebruikers nog eens getest.
 
 ### Conclusies & implicaties
 
@@ -473,7 +473,7 @@ Uit de gebruikerstesten blijkt dat de gebruikers over het algemeen zeer positief
 
 Er is inmiddels wel een ideale opstelling voor het spel vastgesteld, die zowel de aanbevolen configuratie biedt als ruimte laat voor persoonlijke aanpassingen door de gebruikers.
 
-Ook is het ontwerp gekozen via testen en er is gekozen voor een dubbele laag in de tegels, die de Arduino-onderdelen beschermen tegen beschadiging. Daarnaast is er een antislip laag toegevoegd voor extra veiligheid tijdens gebruik. De gekozen sensor … en het gekozen ontwerp met … . Dit ontwerp is zorgvuldig getest en geoptimaliseerd, waarbij we nu alleen nog kleine aanpassingen moeten maken om de precisie en de algehele functionaliteit verder te verbeteren. 
+Ook is het ontwerp gekozen via testen en er is gekozen voor een dubbele laag in de tegels, die de Arduino-onderdelen beschermen tegen beschadiging. Daarnaast is er een antislip laag toegevoegd voor extra veiligheid tijdens gebruik. De gekozen sensor capacitief touch . Dit ontwerp is zorgvuldig getest en geoptimaliseerd, waarbij we nu alleen nog kleine aanpassingen moeten maken om de precisie en de algehele functionaliteit verder te verbeteren. 
 
 ## Development 3 (N = 4)
 
@@ -684,7 +684,7 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 
 |Nummer|Criteria|Bron|Datum|Toestand|
 |---|---|---|---|---|
-|**Discovery**|
+|**Discover**|
 |1.1|De oplossing moet muziek, beweging en coördinatie combineren.|Literatuurstudie|17/10/2024|---|
 |1.2|De activiteit moet bijdragen aan zowel fysieke als cognitieve stimulatie.|Literatuurstudie|17/10/2024|<details><summary>OK</summary><br>uitleg</details>|
 |1.3|Muziek moet op een intuïtieve manier geïntegreerd worden.|Literatuurstudie|17/10/2024|---|
@@ -710,7 +710,7 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |2.14|Geschikt voor meerdere spelers.|Benchmark|21/11/2024|---|
 |2.15|Keuze uit verschillende instrumentgeluiden en melodieën.|Benchmark|21/11/2024|---|
 |2.16|Opvouwbaarheid voor eenvoudig opbergen en transport|Benchmark|21/11/2024|---|
-|**Development 1**|
+|**Develop 1**|
 |3.1|De benaderingen van het spel moeten de gulden snede volgen.|Literatuuronderzoek|05/03/2025|---|
 |3.2|et product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.|Literatuuronderzoek|05/03/2025|---|
 |3.3|Belangrijke visuele informatie moet binnen het centrale gezichtsveld geplaatst zijn.|Literatuuronderzoek|05/03/2025|---|
@@ -729,7 +729,7 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |3.16|Het spel moet positieve feedback geven.|Gebruikerstest|09/03/2025|---|
 |3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|Gebruikerstest|09/03/2025|---|
 |3.18|De elementen mogen niet falen tijdens lange rustmomenten.|Gebruikerstest|09/03/2025|---|
-|**Development 2**|
+|**Developm 2**|
 |4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|Gebruikerstest|25/04/2025|---|
 |4.2|Duur van muziek mag niet te lang.|Gebruikerstest|25/04/2025|---|
 |4.3|Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar.|Gebruikerstest|25/04/2025|---|
@@ -737,14 +737,23 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |4.5|Precisie van sensoren hoger.|Gebruikerstest|25/04/2025|---|
 |4.6|Wifi modules vlotter werken met elkaar en de code.|Gebruikerstest|25/04/2025|---|
 |4.7|Meer feedback bij fouten geven.|Gebruikerstest|25/04/2025|---|
-
-## Bill of materials
-
-
+|**Develop 3**|
+|5.1|Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.|Gebruikerstest/Hardware choices|15/05/2025|---|
+|5.2|Zorg voor directe visuele feedback via LED bij interactie.|Gebruikerstest|15/05/2025|---|
+|5.3|Ontwerp lage, stabiele tegels met antisliponderzijde voor veiligheid.|Gebruikerstest|15/05/2025|---|
+|5.4|Voorzie meerdere moeilijkheidsgraden en speelmodes voor verschillende niveaus.|Gebruikerstest|15/05/2025|---|
+|5.5|Implementeer speelmoment-tracking en scores voor motivatie en sociale interactie.|Gebruikerstest|15/05/2025|---|
+|5.6|Bied keuzeopties voor muziekselectie aan de gebruiker.|Gebruikerstest|15/05/2025|---|
+|5.7|Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.|Gebruikerstest|15/05/2025|---|
+|5.8|Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.|Gebruikerstest|15/05/2025|---|
+|5.9| Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.|Gebruikerstest|15/05/2025|---|
+|5.10| Gebruik stevig kunststof (zoals PE of PP) voor behuizing. |Gebruikerstest/Hardware choices|15/05/2025|---|
+|5.10| Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.|Gebruikerstest/Hardware choices|15/05/2025|---|
 
 ## Kritische reflectie
 
 
+## Technische uitwerking
 
 ## Bronnen
 
@@ -843,6 +852,8 @@ https://www.tandfonline.com/doi/abs/10.1080/00140130110038044
 
 https://www.emerald.com/insight/content/doi/10.1108/ria-09-2022-0227/full/html 
 
+Develop 2:
+(https://www.usersense.be/kennisbank/usability-metrics/system-usability-scale-sus)
 
 
 ## Bijlagen
