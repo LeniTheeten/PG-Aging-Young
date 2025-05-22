@@ -809,6 +809,7 @@ Develop 3:
 Alle code is terug te vinden in de map **code**, die verder is onderverdeeld in twee submappen: één voor **Python-code** en één voor **Arduino-code**. In deze mappen zijn verschillende codes te vinden zoals de volledige besturing, maar ook de codes van bijvoorbeeld de afzonderlijke sensoren uit development 3. 
 
 Map: [Arduino-code](./Data/Arduino)
+
 Map: [Python-code](./Data/Python)
 
 In het vak Opkomende Technologieën werd het project ook ontwikkeld. Deze ontwikkelingen werden ook bij gehouden in een andere github, hierin is ook extra uitleg van de code te vinden:
