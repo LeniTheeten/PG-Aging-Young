@@ -164,7 +164,7 @@ Beide tests werden uitgevoerd in het rusthuis in Alveringem, met ouderen die men
 
 ### Materiaal & methoden
 
-Het onderzoek werd in **2 waves** uitgevoerd, hierbij werd gebruik gemaakt van een combinatie van:
+Het onderzoek werd in twee waves uitgevoerd, hierbij werd gebruik gemaakt van een combinatie van:
 - Sensorial boards: verschillende texturen, materialen en drukgevoelige knoppen
 - Kartonnen prototypes: simulaties van de mat met verschillende lay-outs
 - Digitale interfaces: een Figma template werd voorbereid op de laptop om te spelinteractie te simuleren.
