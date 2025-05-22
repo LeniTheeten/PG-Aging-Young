@@ -461,6 +461,28 @@ Er is inmiddels wel een ideale opstelling voor het spel vastgesteld, die zowel d
 
 Ook is het ontwerp gekozen via testen en er is gekozen voor een dubbele laag in de tegels, die de Arduino-onderdelen beschermen tegen beschadiging. Daarnaast is er een antislip laag toegevoegd voor extra veiligheid tijdens gebruik. De gekozen sensor … en het gekozen ontwerp met … . Dit ontwerp is zorgvuldig getest en geoptimaliseerd, waarbij we nu alleen nog kleine aanpassingen moeten maken om de precisie en de algehele functionaliteit verder te verbeteren. 
 
+## Development 3 (N = 4)
+
+### Doelstellingen
+
+### Materiaal & methoden
+
+Voor deze testen trokken we met het verbeterde prototype naar 4 gezonde 65-plussers in hun eigen woonomgeving. Zodanig in een vertrouwde context, de interactie met het product wordt geobserveerd. De testronde focust op 3 elementen: de optimale sensor voor de tegels, visuele en functionele beoordeling van het controle- en opbergstation en een eindvalidatie van het spel in zijn geheel. 
+
+Allereerst een verkennende hardwaretest. Gebruikers gaven in de vorige test aan dat de lichtsensor niet optimaal functioneerde; daarom kregen ze dit keer verschillende tegelprototypes met elk een andere knop. We vroegen hen om hun favoriete knop te kiezen; de beoordeling gebeurde door een voorkeursranking.  
+
+Vervolgens schakelden we over naar het station. De gebruikers kregen een reeks schetsen te zien van mogelijke ontwerpen. Per ontwerp kregen ze de tijd om hardop te zeggen wat ze zagen (**_Think-aloud-protocol_**). Hierop volgden gerichte vragen over de functies van elk element. De test werd afgerond met een korte bespreking van materiaalkeuzes op basis van het moodboard en inspiratiebeelden.  
+
+Tot slot lieten we de gebruikers het volledige spel spelen met hun gekozen knop. Tijdens het spel vroegen we, ter evaluatie van het finale product, om luidop te benoemen wat ze zagen en dachten. De algemene tevredenheid van Active Harmony werd gemeten met behulp van **_Self-Assessment Mannequins_**, waarbij ouderen het mannetje kozen dat het best hun gevoel weerspiegelde. 
+
+Alle observaties, scores en opmerkingen werden vastgelegd in het rapport ([rapport development 3](https://ugentbe-my.sharepoint.com/:w:/r/personal/amber_barra_ugent_be/Documents/SEM%204/Project%20Gebruiksgericht%20Ontwerp/Development%203%20-%20Rapport.docx?d=w897a453e12244f3387e9acf8304f88ad&csf=1&web=1&e=zsPiDr)).
+
+
+### Resultaten
+
+### Conclusies & implicaties
+
+
 ## Conclusie
 
 ## Bill of materials
