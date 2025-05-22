@@ -465,6 +465,13 @@ Ook is het ontwerp gekozen via testen en er is gekozen voor een dubbele laag in 
 
 ### Doelstellingen
 
+In de laatste testfase ligt de nadruk op gebruiksvriendelijkheid, validatie en de algemene gebruikerservaring. Daarnaast wordt ook aandacht besteed aan de hardware en de keuze van materialen. Het product moet op een aangename en praktische manier bij de gebruiker terechtkomen, via een opbergstation waarin zowel de tegels opgeborgen worden als de bediening van het spel plaatsvindt.
+
+- Op basis van gebruikerstesten en technische evaluatie de meest geschikte sensor bepalen die zowel gebruiksvriendelijk als betrouwbaar is voor ouderen.
+- Het spel te verbeteren op basis van gebruikerstesten en observaties, met aandacht voor gebruiksgemak, veiligheid, spelplezier en gebruikerservaring. De aanpassingen zijn gericht op het optimaliseren van de interactie met het spel, het verhogen van de betrokkenheid en het verbeteren van de bruikbaarheid voor ouderen.
+- Een compact en gebruiksvriendelijk opbergstation ontwerpen voor muziektegels, waarin ook de spelbediening geïntegreerd is.
+- Achterhalen welk materiaal het meest geschikt is voor het opbergstation en de tegels, rekening houdend met gebruiksvriendelijkheid, herkenning en comfort.
+
 ### Materiaal & methoden
 
 Voor deze testen trokken we met het verbeterde prototype naar 4 gezonde 65-plussers in hun eigen woonomgeving. Zodanig in een vertrouwde context, de interactie met het product wordt geobserveerd. De testronde focust op 3 elementen: de optimale sensor voor de tegels, visuele en functionele beoordeling van het controle- en opbergstation en een eindvalidatie van het spel in zijn geheel. 
@@ -479,6 +486,140 @@ Alle observaties, scores en opmerkingen werden vastgelegd in het rapport ([rappo
 
 
 ### Resultaten
+
+In de gebruikerstesten werden verschillende onderdelen getest en gerapporteerd (rapport), dit waren de resultaten per onderwerp:
+
+**Sensoren:**
+
+De **geteste sensoren** zijn; afstand, capacitief touch, licht en drukknop. Hierbij werden aparte Arduino programma’s geschreven. Telkens wanneer de sensor verandering detecteerde bij de tegel ging een rood lichtje branden. 
+
+![image](https://github.com/user-attachments/assets/223e0e6c-33fb-4c09-b76b-5427bc56b9c1)  ![image](https://github.com/user-attachments/assets/914459ac-6f1b-43ce-bcf7-05eb93085803)  ![image](https://github.com/user-attachments/assets/2977726e-f69a-42b7-b743-3d19602f45b1)  ![image](https://github.com/user-attachments/assets/eb72bc1f-846a-4371-84df-aad78f2728a2)
+
+Dit werd getest bij gebruikers, die de sensoren van goed naar slecht hebben geëvalueerd. Hieronder volgt de score per sensor.
+
+|Criteria|Score|
+|---|---|
+|Afstandssensor|5|
+|Capacitief touch|10|
+|Lichtsensor|11|
+|Drukknop|14|
+
+Dit zijn nog enkele aanvullende bevindingen die de gebruikers hebben gedeeld:
+- Drukknop: snelste reactie, duidelijke LED, fysieke druk vereist, beste score.
+- Capacitieve touch: snelle reactie, geen druk nodig, LED minder zichtbaar, extra LED aanbevolen.
+- Lichtsensor: betere plaatsing, maar trager dan drukknop en touch.
+- Afstandssensor: traagste en minst betrouwbaar
+
+Hieruit is gekozen voor de capacitieve touch, omdat gebruikers aangeven dat het prettiger is om zonder fysieke druk een knop te bedienen, en deze sensor bovendien snel reageert.
+
+**Product validatie:**
+
+Er werd een lagere tegel (2 cm) gemaakt om gebruikers de streefhoogte te laten voelen. Deze hoogte verkleint het struikelgevaar en is voorzien van anti-slip voor extra veiligheid. De hogere tegels (5 cm) worden gebruikt tijdens het spel en zijn aangepast aan de grootte van de drukknop.
+
+![image](https://github.com/user-attachments/assets/3c8c70ed-a005-4479-b6ff-04d4bff997d0) ![image](https://github.com/user-attachments/assets/b11c5bc4-cd02-45db-bdb8-5d62928ccdba)
+
+De meeste mensen gaven ons ook deze bevestiging dat ze het prettiger vonden en minder probleem meevoelen voor hun evenwicht.
+
+_“De hoogte voelt goed, waardoor ik niet veel moeite hoef te doen om mijn evenwicht te bewaren.”_
+
+Daarna speelden ze het spel met de hoge tegels, die nu met drukknoppen werken. Er werden kleine knopjes gemaakt die hun laten merken dat ze het spel zelf besturen, dit was echter nog niet het geval de besturing gebeurd achter de schermen **(Wizard of Oz)**.
+
+![image](https://github.com/user-attachments/assets/e59985e7-7dca-4894-925d-9fae862f2113)
+
+Tijdens het spelen:
+- Wifi-modules gingen af en toe offline, hoewel het spel meerdere keren goed functioneerde.
+- LED’s waren nog onvoldoende zichtbaar; dit wordt aangepakt (zie Hardware Choices).
+- Mogelijkheid om muziek te kiezen werd positief ontvangen.
+- Bij uitblijvende feedback drukten deelnemers harder op de tegels.
+- Doorlopende muziek maakte duidelijk dat men moest wachten tot het vorige lichtje uit was — dit werd na enkele keren begrepen.
+- Bij fouten werd voorgesteld het rode licht korter te laten knipperen.
+- Deelnemers zochten onbewust steun met hun handen; dit werd mogelijk gemaakt door de omgeving.
+- Er ontstond opnieuw een gevoel van competitie tussen de grootouders, wat de spelervaring verhoogde.
+
+![image](https://github.com/user-attachments/assets/f5dba8c6-7fd1-4551-bd88-b5906b3a1dde)  ![image](https://github.com/user-attachments/assets/4f0bfde2-a98e-49f8-9b90-fc6cf8944c9f)  ![image](https://github.com/user-attachments/assets/3c0cea7d-62ea-4dc3-a34e-57766af32e27)
+
+De mensen waren nog steeds enthousiast, dit was te merken aan de uitspraken:
+
+_“Ik vind het echt een geestig spel.”_
+_“Het spelen ging zeer vlot, als er geen verbindingsproblemen waren.”_
+
+Op vlak van **usability** werden de criteria: efficiënt in gebruik, effectief in gebruik, veilig in gebruik, nut, gemakkelijk te leren en onthouden beoordeeld door de mensen. Ze gaven hierbij een score op 10. Dit waren de resultaten:
+
+|Criteria|Persoon 1|Persoon 2|Persoon 3|Persoon 4|
+|---|---|---|---|---|
+|Efficiënt in gebruik| 7 | 8 | 5 | 6 |
+|Effectief in gebruik| 9 | 8 | 7 | 8 |
+|Veilig in gebruik| 8 | 10 | 8 | 9 |
+|Nuttig| 8 | 9 | 8 | 7 |
+|Gemakkelijk te leren| 8 | 9 | 8 | 7 |
+|Gemakkelijk te onthouden hoe te gebruiken| 9 | 9 | 7 | 7|
+|TOTAAL| 49 | 53 | 43 | 44 |
+
+De lagere score op ‘efficiëntie in gebruik’ komt vermoedelijk door verbindingsproblemen met de Arduino’s. Voor verbetering wordt in de volgende fase meer aandacht besteed aan de ontwikkeling van de tegels en het opbergstation, met inbreng van gebruikersfeedback. Op andere criteria scoort het spel goed, vooral veiligheid werd positief beoordeeld.
+
+**User experience** werd ondervraagd op criteria en geobserveerd tijdens spelen. 
+
+De deelnemers waren voor, tijdens en na het spel erg enthousiast. Ze volgden het spel aandachtig, gingen onderling in interactie en probeerden elkaar speels te storen. Ze herinnerden zich het spel goed, hielpen elkaar en vonden het leuk als het lukte. Dit zijn een paar van hun uitspraken:
+
+_“Ik vind het goed, zo heb ik wat extra beweging.”_
+_“Ja, ’t is gelukt!”_
+_“’k zou wel nog eens willen spelen.”_
+
+![image](https://github.com/user-attachments/assets/09fe364c-286e-4419-9146-4836cb3bcf3b)
+
+Door de ondervraagde criteria is ook duidelijk dat; ‘leuk’, ‘aangenaam’ en ‘amuserend’ zeer goed score. Voor ‘belonen’, ‘motiveren’ en ‘nuttig’ zijn er nog verbeterpunten. Het spel kan actiever worden gemaakt om het fysieke en cognitieve effect te versterken. Toepassing in een kinesistenpraktijk en het stimuleren van uitdaging tussen spelers kunnen het nut en de motivatie verhogen.
+
+Ook werd gevraagd voor de **Self-Assessment Mannequins** aan te duiden, zodat er een beter beeld kan geschets worden van hun gevoel.
+
+|Criteria|Persoon 1|Persoon 2|Persoon 3|Persoon 4|
+|Verdrietig ---------------- Vrolijk| 5 | 5 | 4 | 4 |
+|Rustig -------------------- Actief| 4 | 3 | 1 | 3|
+|Afhankelijk ---- Onafhankelijk| 3 | 5 | 3 | 3 |
+
+![image](https://github.com/user-attachments/assets/56b51f8c-93a9-430a-9575-9ed3009f658e)  ![image](https://github.com/user-attachments/assets/8fea6910-f38c-44d1-a0ae-e5dc8e6fcc16)  ![image](https://github.com/user-attachments/assets/ba5d260d-7c96-4752-95de-ba507d4909a6)  ![image](https://github.com/user-attachments/assets/678adc61-37d4-46a9-acf4-1663f6e7d855)
+
+De scores zijn overwegend positief; deelnemers zijn vrolijk en positief tijdens het spel. Omdat er nog ‘achter de schermen’ besturing is, zijn spelers nog niet volledig zelfstandig. Het spel wordt als matig actief ervaren. Om dit te verbeteren, kunnen we het uitdagender maken met verschillende niveaus, zoals snellere tempo’s of meer tegels.
+
+**Opbergings station:**
+
+Er werden vijf variaties van het station gemaakt (zie foto’s). De deelnemers beoordeelden elke tekening en gaven aan welke ze het duidelijkst vonden en welke ze prefereren. Het laatste ontwerp was favoriet vanwege het moderne, duidelijke uiterlijk en paste het beste in een leefruimte.
+
+![image](https://github.com/user-attachments/assets/ae58021c-5e1d-4b75-9659-9eebf8f7a489)
+
+![image](https://github.com/user-attachments/assets/0776bac0-065b-481a-bf05-5de0736d9e36)
+
+![image](https://github.com/user-attachments/assets/d0dc51e8-3862-4185-bdb9-3ba6f0825ee5)
+
+![image](https://github.com/user-attachments/assets/f542aa97-ff98-49ac-952d-dd497cf0967d)
+
+![image](https://github.com/user-attachments/assets/2e2d4043-a938-451a-9faa-cdefcc4d9e85)
+
+Van dit ontwerp werd nog eens drie variaties gemaakt voor hun mening te weten wat ze het best vonden. Maar ze gaven aan dat ze de vorige nog steeds de duidelijkste vonden.
+
+_“Zegt veel zonder uitleg nodig te hebben.”_
+
+![image](https://github.com/user-attachments/assets/ef519b48-4b5a-4c24-8160-74588b59d1b7)  ![image](https://github.com/user-attachments/assets/7ad980fa-d21b-4682-b69d-d104481c4d42)
+
+**Materialen:**
+
+Tot slot werd gevraagd welk materiaal zij voor het product zouden kiezen, met de vraag: _“Als je één materiaal uit je huis mocht kiezen, welke zou dat zijn?”_
+Als resultaat gaven de meeste deelnemers kunststof (PP en PE) en siliconen (anti-slip) aan.
+
+**Hardware choices:**
+Er werd verder gewerkt op het bestand(Rapport hardware choices) van Development 2, waarbij de implicaties en feedback van de gebruikers zijn verwerkt.
+Dit zij de keuze:
+- Seeed studio model XIAO + aanvullend WiFi-module + LiPo batterij
+- LED-ring
+- Capacitief touch
+- Materiaal PP + silicon
+
+Voor de materialen en uitstraling werd ook een eigen moodboard opgesteld.
+
+![image](https://github.com/user-attachments/assets/2eea5c32-ea32-49c7-970c-b65edcae4deb)
+
+Finaal product:
+
+(Render inplaatsen)
 
 ### Conclusies & implicaties
 
@@ -522,34 +663,6 @@ Kunststof in combinatie met rubberachtige materialen wordt door gebruikers als h
 Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richtlijnen voor verdere ontwikkeling. Snelle en duidelijke feedback is essentieel. Het spel heeft potentie als leuk en gebruiksvriendelijk middel, maar moet technisch (arduino wifi-module) stabieler zijn. Het opbergstation werd compact, veilig en modern gevonden met prettige materiaallook. Deze inzichten vergroten de kans op een succesvolle verkoop en een langdurig gebruik. 
 
  Er is een beknopt businessmodel ([businessmodel Active Harmony](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/Businessmodel%20Active%20Harmony.docx?d=wf58087a61302436184ae68dcdf049b7b&csf=1&web=1&e=putJGU)) opgesteld met ideeën over de verkoopstrategie en de betrokken stakeholders bij de productie ... 
-
-
-## Bill of materials
-
-Voor de bill of materials kan deze opgesplitst worden in 2 zaken: de hardware vereisten en de interacties van de interactieve mat.
-
-Als hardware vereisten is een standaard compacte projector die makkelijk aansluitbaar is op de computer of laptop noodzakelijk. Deze computer draait de benodigde software voor het spel en de inputsignalen van de mat verwerkt. 
-
-De interactieve mat bevat componenten zoals druksensoren, drukknoppenmateriaal, waterdichte stof en stevig materiaal, dit zijn de belangrijkste.  De druksensoren worden geïntegreerd in de mat om input van de gebruikers te detecteren bij aanraking. Het materiaal van de drukknoppen wordt een zacht, flexibel medium dat comfortabel is om op te drukken, zowel met handen, voeten als eventuele hulpmiddelen zoals wandelstok of rollator. De stop die voor het omhulsel gebruikt wordt moet waterdicht en duurzaam zijn, zodat deze bestand is tegen morsen, vuil en vocht. Dit zal de interne elektronica beschermen tegen beschadiging. Ook moet de mat volledig uit stevige materialen bestaan die bestand is tegen het volledig gewicht van de gebruiker, inclusief eventuele belasting door hulpmiddelen zoals rollators.
-
-## Kritische reflectie
-
-Tijdens de eerste testfases werd acheraf vastgesteld dat de focus vooral lag op de vorm en opstelling van de mat en minder op de evaluatie of onze oplossing daadwerkelijk de beste aanpak was. Desondanks leverden deze tests waardevolle inzichten op. Zo gaven zowel de verpleegkundige als enkele bewoners van het rusthuis aan dat de mat bruikbaar moet zijn voor mensen die gebruik maken van een rollator of wandelstok. Daarnaast bleek uit de tests dat het product intuïtief genoeg was, zo kon het zonder uitgebreide uitleg direct gebruikt worden.
-
-De user tests vonden plaats in een rusthuis, wat achteraf niet de ideale omgeving bleek voor het testen met fysiek actieve ouderen. Daarom zullen de gebruikerstesten in semester 2 worden uitgevoerd met een groep ouderen die zelfstandig wonen en nog veel contact hebben met anderen. Dit zal een realistischer beeld vormen voor de doelgroep die het product zal kopen. 
-
-De oorspronkelijke eis: “De mat moet bruikbaar zijn met handen en voeten” is uitgebreid, zodanig deze ook geschikt is voor rechtstaand gebruik, zowel met als zonder rollator of wandelstok.
-
-De zaken die op de planning staan voor volgend semester zijn de volgende: 
--	De intergratie van de interactieve mat met een beeldscherm
--	Interactieve tests bij elke ontwikkelingsfase om feedback te verzamelen en verbeteringen door te voeren
--	Het uitwerken van technisch deel spelprojectie
--	Vastelggen van materialen voor het prototype via een touch-and-feel board
--	Afmetingen van het product afstellen op gestandaardiseerde maten.
-
-Er zullen volgend semester ook 2 belangrijke aandachtspunten zijn. De lichtsterkte van de spelprojectie zal in de ontwikkelfase grondig moeten worden getest met gebruikers die een beter of slechter zicht hebben. Dit omdat ouderen vaak een verminderd gezichtsvermogen ervaren, waardoor een goed zichtbare projectie cruciaal is voor gebruikte van het product. Daarnaast wordt overwogen om gebruik te maken van geluidssignalen als feedbackmechanisme. Hierbij zal getest worden of dit ondersteunend werkt of juist een storende ervaring. Naast het zicht gaat ook het gehoor van onze doelgroep achteruit naarmate de tijd. Het geluid van de muziek en eventuele audiocomponenten moeten duidelijk en goed verstaanbaar zijn. Extra aandacht gaat daarbij uit naar dialectverschillen, aangezien veel van de participanten West-Vlaams spreken. 
-
-De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse planning en taakverdeling. Wel werd duidelijk dat het huidige systeem, waarbij documenten en verslagen verspreid zijn over verschillende computers, zorgt voor een chaotisch overzicht. Dit vraagt voor een meer gestructureerde aanpak in semester 2. 
 
 ## Design requirements
 
@@ -608,6 +721,14 @@ De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse 
 |4.5|Precisie van sensoren hoger.|Gebruikerstest|25/04/2025|---|
 |4.6|Wifi modules vlotter werken met elkaar en de code.|Gebruikerstest|25/04/2025|---|
 |4.7|Meer feedback bij fouten geven.|Gebruikerstest|25/04/2025|---|
+
+## Bill of materials
+
+
+
+## Kritische reflectie
+
+
 
 ## Bronnen
 
