@@ -561,6 +561,7 @@ Tijdens het spelen:
 De mensen waren nog steeds enthousiast, dit was te merken aan de uitspraken:
 
 _“Ik vind het echt een geestig spel.”_
+
 _“Het spelen ging zeer vlot, als er geen verbindingsproblemen waren.”_
 
 > [!IMPORTANT]
@@ -586,7 +587,9 @@ De lagere score op ‘efficiëntie in gebruik’ komt vermoedelijk door verbindi
 De deelnemers waren voor, tijdens en na het spel erg enthousiast. Ze volgden het spel aandachtig, gingen onderling in interactie en probeerden elkaar speels te storen. Ze herinnerden zich het spel goed, hielpen elkaar en vonden het leuk als het lukte. Dit zijn een paar van hun uitspraken:
 
 _“Ik vind het goed, zo heb ik wat extra beweging.”_
+
 _“Ja, ’t is gelukt!”_
+
 _“’k zou wel nog eens willen spelen.”_
 
 ![image](https://github.com/user-attachments/assets/09fe364c-286e-4419-9146-4836cb3bcf3b)
@@ -596,6 +599,7 @@ Door de ondervraagde criteria is ook duidelijk dat; ‘leuk’, ‘aangenaam’ 
 Ook werd gevraagd voor de **Self-Assessment Mannequins** aan te duiden, zodat er een beter beeld kan geschets worden van hun gevoel.
 
 |Criteria|Persoon 1|Persoon 2|Persoon 3|Persoon 4|
+|---|---|---|---|---|
 |Verdrietig ---------------- Vrolijk| 5 | 5 | 4 | 4 |
 |Rustig -------------------- Actief| 4 | 3 | 1 | 3|
 |Afhankelijk ---- Onafhankelijk| 3 | 5 | 3 | 3 |
@@ -643,6 +647,7 @@ Als resultaat gaven de meeste deelnemers kunststof (PP en PE) en siliconen (anti
 
 **Hardware choices:**
 Er werd verder gewerkt op de [Hardware choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EcFJ2etrMgpIlNFl2ftn_6ABFTwz4HOpnhO2gToy7cThMg?e=DPyLck) van Development 2, waarbij de implicaties en feedback van de gebruikers zijn verwerkt.
+
 Dit zij de keuze:
 - Seeed studio model XIAO + aanvullend WiFi-module + LiPo batterij
 - LED-ring
@@ -778,9 +783,9 @@ Develop 2:
 - Plexiglas
 - 4x Arduino Nano IoT
 - 4x RGB LED
-- 4x lichtsensor
+- 4x Lichtsensor
 - Elektronische geleiders
-- 4x powerbank
+- 4x Powerbank
 
 Develop 3:
 - Hout
@@ -793,7 +798,7 @@ Develop 3:
 - 4x RGB LED
 - 4x Drukknop
 - Elektronische geleiders
-- 4x powerbank
+- 4x Powerbank
 
 **Final Bill of Materials:**
 
