@@ -695,22 +695,22 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |1.7|De oplossing moet eenvoudig en laagdrempelig zijn, zonder ingewikkelde instructies.|Interview|26/10/2024|<details><summary>OK</summary><br>Het spelprincipe is vergelijkbaar met "Simon zegt", waarbij hebriukers een (visuele) volgorde onthouden en naspelen</details>|
 |1.8|Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.|Interview|26/10/2024|<details><summary>OK</summary><br>Het oplaadstation heeft grote knoppen die visueel duidelijk zijn en de tegels geven over het volledige oppervlak licht. Overal op het oppervlak kan de tegel worden geactiveerd.</details>|
 |**Definition**|
-|2.1|Het spel moet intuïtief en eenvoudig te gebruiken zijn.|Wave 1|08/12/2024|---|
-|2.2|Het ontwerp moet neutraal en volwassen ogen.|Wave 1|08/12/2024|---|
-|2.3|Voldoende bewegingsvrijheid is essentieel.|Wave 1|08/12/2024|---|
-|2.4|Ouderen moeten zich ontspannen voelen zonder evaluatiedruk.|Wave 1 & 2|08/12/2024|---|
-|2.5|Het concept moet makkelijk in een woonomgeving passen zonder grote aanpassingen.|Wave 1|08/12/2024|---|
-|2.6|De knoppen moeten comfortabel, duidelijk en goed leesbaar zijn.|Wave 2|08/12/2024|---|
-|2.7|Het spel moet bruikbaar zijn met een rollator of steunmogelijkheid voor balans.|Wave 1|08/12/2024|---|
-|2.8|Kleuren moeten visuele onderscheiding vergemakkelijken.|Wave 2|08/12/2024|---|
-|2.9|De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.|Wave 2|08/12/2024|---|
-|2.10|Struikelgevaar moet vermeden worden.|Wave 2|08/12/2024|---|
-|2.11|Instelbaar geluidsniveau in het spel.|Benchmark|21/11/2024|---|
-|2.12|Diverse spelmogelijkheden aanbieden.|Benchmark|21/11/2024|---|
-|2.13|Anti-sliplaag voor extra stabiliteit tijdens het spelen.|Benchmark|21/11/2024|---|
-|2.14|Geschikt voor meerdere spelers.|Benchmark|21/11/2024|---|
-|2.15|Keuze uit verschillende instrumentgeluiden en melodieën.|Benchmark|21/11/2024|---|
-|2.16|Opvouwbaarheid voor eenvoudig opbergen en transport|Benchmark|21/11/2024|---|
+|2.1|Het spel moet intuïtief en eenvoudig te gebruiken zijn.|Wave 1|08/12/2024|<details><summary>OK</summary><br>Tijdens het testen speelden gebruikers het spel zelfstandig zonder uitleg, wat vlot verliep.</details>|
+|2.2|Het ontwerp moet neutraal en volwassen ogen.|Wave 1|08/12/2024|<details><summary>OK</summary><br>Kleurgebruik en materiaalkeuze werden afgetemd op wat ouderen esthetisch vinden passen in hun woonomgeving.</details>|
+|2.3|Voldoende bewegingsvrijheid is essentieel.|Wave 1|08/12/2024|<details><summary>OK</summary><br>Gebruikers konden de tegels vrij positioneren volgens hu beschikare ruimte en mobiliteit.</details>|
+|2.4|Ouderen moeten zich ontspannen voelen zonder evaluatiedruk.|Wave 1 & 2|08/12/2024|<details><summary>OK</summary><br>Er is geen scoreweergave in het spel, vergelijken gebeurt vrijwillig en op papier indien gewenst.</details>|
+|2.5|Het concept moet makkelijk in een woonomgeving passen zonder grote aanpassingen.|Wave 1|08/12/2024|<details><summary>OK</summary><br>De tegels zijn flexibel plaatsbaar en kunnen rondom een tafel worden gelegd.</details>|
+|2.6|De knoppen moeten comfortabel, duidelijk en goed leesbaar zijn.|Wave 2|08/12/2024|<details><summary>OK</summary><br>De knoppen zijn groot en geven directe feedback bij correcte of foute input.</details>|
+|2.7|Het spel moet bruikbaar zijn met een rollator of steunmogelijkheid voor balans.|Wave 1|08/12/2024|<details><summary>OK</summary><br>De tegels zijn los plaatsbaar; voor rollatorgebruik wordt het spel bij een tafel of stoel aangeraden voor beter zicht en ondersteuning.</details>|
+|2.8|Kleuren moeten visuele onderscheiding vergemakkelijken.|Wave 2|08/12/2024|<details><summary>OK</summary><br>Er is duidelijke lichtfeedback per functie en verschillende kleuren voor verschillende signalen.</details>|
+|2.9|De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.|Wave 2|08/12/2024|<details><summary>OK</summary><br>De knoppen reageren al op een lichte vingerdruk, wat minimale fysieke inspanning vraagt.</details>|
+|2.10|Struikelgevaar moet vermeden worden.|Wave 2|08/12/2024|<details><summary>OK</summary><br>De tegels zijn laag, afgerond en voorzien van een kleine helling om struikelen te voorkomen.</details>|
+|2.11|Instelbaar geluidsniveau in het spel.|Benchmark|21/11/2024|<details><summary>OK</summary><br>Het volume is aanpasbaar via een draaiknop op het oplaadstation.</details>|
+|2.12|Diverse spelmogelijkheden aanbieden.|Benchmark|21/11/2024|<details><summary>Aan het verwerken</summary><br>Het businessmodel voorziet uitbreidbare spelopties, werd niet toegepast wegens tijdsgebrek.</details>|
+|2.13|Anti-sliplaag voor extra stabiliteit tijdens het spelen.|Benchmark|21/11/2024|<details><summary>OK</summary><br>De onderzijde van de tegels is voorzien van een rubberlaag voor grip en stabiliteit.</details>|
+|2.14|Geschikt voor meerdere spelers.|Benchmark|21/11/2024|<details><summary>OK</summary><br>Spelers kunnen samen spelen, elkaar ondersteunen of hun resultaten onderling vergelijken.</details>|
+|2.15|Keuze uit verschillende instrumentgeluiden en melodieën.|Benchmark|21/11/2024|<details><summary>OK</summary><br>Gebruikers kunnen liedjes selecteren op het oplaadstation, nieuwe melidieën kunnen worden toegevoegd via USB.</details>|
+|2.16|Opvouwbaarheid voor eenvoudig opbergen en transport|Benchmark|21/11/2024|<details><summary>OK</summary><br>Alle tegels passen samen in een compact oplaadstation.</details>|
 |**Develop 1**|
 |3.1|De benaderingen van het spel moeten de gulden snede volgen.|Literatuuronderzoek|05/03/2025|---|
 |3.2|et product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.|Literatuuronderzoek|05/03/2025|---|
