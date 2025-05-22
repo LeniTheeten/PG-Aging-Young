@@ -896,7 +896,7 @@ Develop 2:
 - [Self-assesment_mannequins]
 
 ## Bronnen
- [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20]
+ [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
 
 [^1]: RGM Nederland. (z.d.). RGM. RGM Nederland. [https://www.rgm-nederland.nl/site/rgm]
 [^2]: Brain Balance Instituut. (z.d.). Muziek met je hersenen.[https://brainbalanceinstituut.com/muziek-met-je-hersenen/]
@@ -918,42 +918,20 @@ Develop 2:
 [^18]: Backmarket.nl. (z.d.). Nintendo Wii Systeem + Wii Bord. [https://www.backmarket.nl/nl-nl/p/nintendo-wii-systeem-wii-bord/9d8040aa-3cc5-4d84-8a3f-dac513264d55]
 [^19]: Wijksnieuws.nl. (2023). Wijk Balans Spel voor ouderen voor het verbeteren van spierkracht. [https://www.wijksnieuws.nl/sport/overig/700226/wijk-balans-spel-voor-ouderen-voor-het-verbeteren-van-spierkrac]
 [^20]: Cool2BFit. (2021). Bewegend ganzenbord – PDF. [https://www.cool2bfit.nl/uploadfiles/1612346431--FILE--31012021_bewegend-ganzenbord.pdf]
+[^21]: Cool2BFit. (z.d.). Leuke beweegspelletjes voor thuis. [https://www.cool2bfit.nl/kinderen/leuke-beweegspelletjes-voor-thuis]
+[^22]: ToyStar. (z.d.). DanceMax – Maak van je woonkamer een dansvloer | Interactieve dansmat. [https://toystar.nl/products/dancemax-maak-van-je-woonkamer-een-dansvloer-interactieve-dansmat]
+[^23]: Oxinome. (z.d.). Quick Push Bubble Game. [https://oxinome.com/products/quick-push-bubble-game]
+[^24]: Dignis. (z.d.). Tovertafel – eHealth bij dementie. [https://www.dignis.nl/ehealth/tovertafel]
+[^25]: Hird, E., & Zivony, A. (2022). Task-unrelated thoughts during unpleasant tasks are associated with a desire to disengage. Frontiers in Psychology, 13, 977687. [https://www.frontiersin.org/articles/10.3389/fpsyg.2022.977687/full]
+[^26]: Watson, P., Pearson, D., Wiers, R. W., & de Wit, S. (2021). Habitual control of goal-directed behavior in the absence of awareness. Cognitive Research: Principles and Implications, 6(1), 21. [https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-021-00301-5]
+[^27]: Gergelyfi, M., Jacob, B., Olivier, E., & Zénon, A. (2017). Dissociation between mental fatigue and motivational state during prolonged mental effort. Experimental Brain Research, 235(12), 3805–3814. [https://link.springer.com/article/10.1007/s00221-017-5112-3]
+[^28]: Jackson, S. A., & Marsh, H. W. (1999). Development and validation of a scale to measure optimal experience: The Flow State Scale. Personality and Individual Differences, 27(4), 717–733. 
+[https://www.sciencedirect.com/science/article/pii/S0191886999000914]
+[^29]: Dinbelg. (z.d.). Ouderenzorg overzicht – Dinbelg.be. 
+[https://www.dinbelg.be/ouderentotaal.htm]
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-https://www.cool2bfit.nl/kinderen/leuke-beweegspelletjes-voor-thuis/
-
-https://toystar.nl/products/dancemax-maak-van-je-woonkamer-een-dansvloer-interactieve-dansmat?variant=49868734267733&country=NL&currency=EUR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&tw_source=google&tw_adid=&tw_campaign=21683111445&gad_source=1&gclid=Cj0KCQiAgJa6BhCOARIsAMiL7V-sGMmw2BQP5Hcn7PpLG4-WHp1zPDEmUk4HF4r_m5p2u5sHYlV1JoMaAucDEALw_wcB
-
-https://oxinome.com/products/quick-push-bubble-game
-
-https://www.dignis.nl/ehealth/tovertafel/
-
-
-Zoekopdracht: “studies on repeated actions based on pleasentness of task”:
-
-https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.977687/full
-
-https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-021-00301-5
-
-https://link.springer.com/article/10.1007/s00221-017-5112-3
-
-https://www.sciencedirect.com/science/article/pii/S0191886999000914
-
-Antropometrische data:
-
-https://www.dinbelg.be/ouderentotaal.htm
 
 https://www.wandeltraining.nl/stappenteller.htm#:~:text=De%20gemiddelde%20staplengte%20voor%20een,pas%20bestaat%20uit%20twee%20stappen.
 
