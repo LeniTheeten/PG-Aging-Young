@@ -799,10 +799,10 @@ Develop 3:
 |LiPo batterij| 4 | €12 |
 |LED-ring| 4 | €6,7 |
 |Capacitive touch| 4 | €2,35 |
-|Elektronische geleiders|---|---|
-|PP|---| €10 |
-|Silicone|---| €10 |
-|TOTAAL|---| €189,2 |
+|Elektronische geleiders|   |   |
+|PP|   | €10 |
+|Silicone|  | €10 |
+|TOTAAL| 23 | €189,2 |
 
 **Code:**
 
