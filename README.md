@@ -519,6 +519,11 @@ Kunststof in combinatie met rubberachtige materialen wordt door gebruikers als h
 
 ## Conclusie
 
+Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richtlijnen voor verdere ontwikkeling. Snelle en duidelijke feedback is essentieel. Het spel heeft potentie als leuk en gebruiksvriendelijk middel, maar moet technisch (arduino wifi-module) stabieler zijn. Het opbergstation werd compact, veilig en modern gevonden met prettige materiaallook. Deze inzichten vergroten de kans op een succesvolle verkoop en een langdurig gebruik. 
+
+ Er is een beknopt businessmodel ([businessmodel Active Harmony](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/Businessmodel%20Active%20Harmony.docx?d=wf58087a61302436184ae68dcdf049b7b&csf=1&web=1&e=putJGU)) opgesteld met ideeën over de verkoopstrategie en de betrokken stakeholders bij de productie ... 
+
+
 ## Bill of materials
 
 Voor de bill of materials kan deze opgesplitst worden in 2 zaken: de hardware vereisten en de interacties van de interactieve mat.
