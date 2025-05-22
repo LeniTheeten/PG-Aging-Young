@@ -16,8 +16,8 @@ De positionering van de tegels kan aangepast worden aan de fysieke mogelijkheden
 
 Dankzij het modulaire ontwerp kunnen de tegels ook voor andere spelvormen ingezet worden: met een aanpassing in de spelcode wordt het mogelijk om een volledig nieuw spel te activeren. Dit biedt gebruikers variatie en extra uitdaging.  
 
-![image](https://github.com/user-attachments/assets/2778c2cb-1524-4dfe-b493-660d175b26a0)
-(RENDERS PLAATSEN)
+![Render 4](https://github.com/user-attachments/assets/e618eb48-1cc1-46d0-898f-c17ac8091266)
+
 
 ## Introductie
 
