@@ -112,7 +112,8 @@ Stressmanagement, levenskwaliteit en sociale interactie beïnvloeden  het gezond
 
 Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
 
-![image](https://github.com/user-attachments/assets/2abd9b14-ba42-4f3c-8164-35650cb89cd3)
+![image](https://github.com/user-attachments/assets/74d82b0b-2706-43c6-b7eb-1178571da7bf)
+
 
 Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voor een activiteit met muziek en beweging, maar in beperkte mate. De voorkeur gaat uit naar oefeningen die in de ochtend of voormiddag plaatsvinden omdat de namiddag meestal een vaste routine heeft. Voor onze doelgroep is een eenvoudige en duidelijke interface belangrijk door bijvoorbeeld zaken als gehoor- en zichtverlies. De populairste sociale en cognitieve spellen bij de ouderen zijn kaarten, Sudoku en Rummikub.
 
