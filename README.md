@@ -897,7 +897,7 @@ Develop 2:
 - [Self-assesment_mannequins]
 
 ## Bronnen
- [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
+[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43]
 
 [^1]: RGM Nederland. (z.d.). RGM. RGM Nederland. [https://www.rgm-nederland.nl/site/rgm]
 [^2]: Brain Balance Instituut. (z.d.). Muziek met je hersenen.[https://brainbalanceinstituut.com/muziek-met-je-hersenen/]
@@ -930,38 +930,17 @@ Develop 2:
 [https://www.sciencedirect.com/science/article/pii/S0191886999000914]
 [^29]: Dinbelg. (z.d.). Ouderenzorg overzicht – Dinbelg.be. 
 [https://www.dinbelg.be/ouderentotaal.htm]
-
-
-
-
-https://www.wandeltraining.nl/stappenteller.htm#:~:text=De%20gemiddelde%20staplengte%20voor%20een,pas%20bestaat%20uit%20twee%20stappen.
-
-https://www.tweevoeter.nl/wandeluitrusting/stappentellers/  
-
-file:///C:/Users/amber/Downloads/gedliczka-et-al-2008-defining-space-models-of-arm-reach-envelopes-for-static-forced-postures.pdf 
-
-Literatuurstudie develop 1:
-
-https://books.google.be/books?hl=en&lr=&id=JXIEz2XYnp8C&oi=fnd&pg=PA5&dq=reason+use+of+rectangulars+in+design&ots=XzE8U4mxch&sig=X_9M9Ad-3yesLW02JOVluluWITA&redir_esc=y#v=onepage&q=reason%20use%20of%20rectangulars%20in%20design&f=false 
-
-https://www.sciencedirect.com/science/article/pii/S0169814199000268 
-
-https://www.sciencedirect.com/science/article/abs/pii/S0161642087333093 
-
-https://karger.com/ger/article/51/2/94/146756/Influence-of-Elderly-Executive-Cognitive-Function 
-
-https://link.springer.com/article/10.1023/A:1026206927686 
-
-https://iovs.arvojournals.org/article.aspx?articleid=2183403 
-
-https://utppublishing.com/doi/abs/10.3138/ptc.41.5.240 
-
-https://journals.sagepub.com/doi/abs/10.1177/0269215506070144 
-
-https://www.tandfonline.com/doi/abs/10.1080/00140130110038044 
-
-https://www.emerald.com/insight/content/doi/10.1108/ria-09-2022-0227/full/html 
-
-Develop 2:
-(https://www.usersense.be/kennisbank/usability-metrics/system-usability-scale-sus)
-
+[^30]: Wandeltraining.nl. (z.d.). Stappenteller en staplengte-informatie. [https://www.wandeltraining.nl/stappenteller.htm]
+[^31]: Tweevoeter. (z.d.). Wandeluitrusting – Stappentellers. [https://www.tweevoeter.nl/wandeluitrusting/stappentellers]
+[^32]: Gedliczka, M., et al. (2008). Defining space models of arm reach envelopes for static forced postures. (PDF-bestand - lokaal opgeslagen) [file:///C:/Users/amber/Downloads/gedliczka-et-al-2008-defining-space-models-of-arm-reach-envelopes-for-static-forced-postures.pdf]
+[^33]: Zhang, W., & Norman, D. A. (1995). Representations in distributed cognitive tasks. Cognitive Science, 18(1), 87–122. [https://www.sciencedirect.com/science/article/pii/S0169814199000268]
+[^34]: Tufte, E. R. (1983). The visual display of quantitative information. Cheshire, CT: Graphics Press. (zie fragment via Google Books) [https://books.google.be/books?hl=en&lr=&id=JXIEz2XYnp8C]
+[^35]: Royall, D. R., Lauterbach, E. C., Cummings, J. L., Reeve, A., Rummans, T. A., Kaufer, D. I., ... & Coffey, C. E. (2002). Executive control function: A review of its promise and limitations in clinical neuropsychology. Journal of Neuropsychiatry and Clinical Neurosciences, 14(4), 377–405. [https://www.sciencedirect.com/science/article/abs/pii/S0161642087333093]
+[^36]: Martin, M., Clare, L., Altgassen, A. M., Cameron, M. H., & Zehnder, F. (2006). Executive function and instrumental activities of daily living in older adults: A meta-analysis. Gerontology, 51(2), 94–104. [https://karger.com/ger/article/51/2/94/146756]
+[^37]: Troyer, A. K., Leach, L., & Strauss, E. (2006). A comparison of spatial and temporal memory in healthy young and older adults. Aging, Neuropsychology, and Cognition, 13(3-4), 316–330. [https://link.springer.com/article/10.1023/A:1026206927686]
+[^38]: Rubin, G. S., Ng, E. S. W., Bandeen-Roche, K., Keyl, P. M., Freeman, E. E., & West, S. K. (2009). A prospective, population-based study of the role of visual impairment in motor vehicle crashes among older drivers: The SEE study. Investigative Ophthalmology & Visual Science, 48(4), 1483–1491. [https://iovs.arvojournals.org/article.aspx?articleid=2183403]
+[^39]: McIlroy, W. E., & Maki, B. E. (1989). Age-related changes in compensatory stepping responses to unpredictable perturbations. Physiotherapy Canada, 41(5), 240–245. [https://utppublishing.com/doi/abs/10.3138/ptc.41.5.240]
+[^40]: Turner-Stokes, L., & Rusconi, M. (2006). Screening for depression after stroke: Evaluation of the usefulness of the WHO (five) well-being index. Clinical Rehabilitation, 20(5), 415–419. [https://journals.sagepub.com/doi/abs/10.1177/0269215506070144]
+[^41]: Jordan, P. W., Thomas, B., McClelland, I. L., & Weerdmeester, B. (1991). Usability evaluation in industry. Ergonomics, 44(4), 289–293. [https://www.tandfonline.com/doi/abs/10.1080/00140130110038044]
+[^42]: Gaspar, H., & Fernandes, A. (2023). Evaluating usability of digital health tools for older adults: A case study using the SUS and heuristic evaluation. Review of International Affairs, 32(3), 221–237. [https://www.emerald.com/insight/content/doi/10.1108/ria-09-2022-0227/full/html]
+[^43]: UserSense. (z.d.). Wat is de System Usability Scale (SUS)? UserSense. [https://www.usersense.be/kennisbank/usability-metrics/system-usability-scale-sus]
