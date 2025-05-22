@@ -482,6 +482,40 @@ Alle observaties, scores en opmerkingen werden vastgelegd in het rapport ([rappo
 
 ### Conclusies & implicaties
 
+De gebruikerstest bevestigt dat het concept geschikt is. Drukknoppen en capacitieve touchsensoren worden het meest gewaardeerd, terwijl licht- en afstandsensoren minder betrouwbaar zijn. Lage tegels zorgen voor meer stabiliteit en veiligheid. Het spel wordt leuk gevonden, maar mist soms uitdaging en motivatie. (Dit zullen we oplossen door meer spelvarianten voor afwisseling en moeilijkheidsniveaus).  
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.1 Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.
+> - D5.2 Zorg voor directe visuele feedback via LED bij interactie.
+> - D5.3 Ontwerp lage, stabiele tegels met antisliponderzijde voor veiligheid.
+
+Gebruikers waarderen het zelf kunnen kiezen van hun liedjes en zien meerwaarde in moeilijkheidsniveaus en speelmomenttracking.  
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.4 Voorzie meerdere moeilijkheidsgraden en speelmodes voor verschillende niveaus.
+> - D5.5 Implementeer speelmoment-tracking en scores voor motivatie en sociale interactie.
+> - D5.6 Bied keuzeopties voor muziekselectie aan de gebruiker. 
+
+![image](https://github.com/user-attachments/assets/9185949a-3ed7-4501-b03f-82f6d6d70961)
+
+Voor het station is de ontwerptekening de favoriet vanwege het compacte en duidelijke ontwerp, met een voorkeur voor vaste stroomvoorziening (dat afwijkt van de voorkeur in de bevraging). Duidelijke knoppen en visuele feedback van aan/uit is ook belangrijk voor de gebruiker. Op basis van de gebruikerssuggesties zijn twee variaties op de favoriete tekening uitgewerkt en opnieuw bevraagd. De resultaten tonen aan dat het oorspronkelijke ontwerp de voorkeur heeft, vanwege de eenvoudige uitstraling en grote knippen. 
+
+![image](https://github.com/user-attachments/assets/6362fd76-cda0-4185-973e-8810b8b750f0)
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.7 Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.
+> - D5.8 Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.
+> - D5.9 Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.
+
+Kunststof in combinatie met rubberachtige materialen wordt door gebruikers als het beste materiaal voor het oplaadstation beschouwd, vanwege de esthetische uitstraling en de functionele grip. 
+
+> [!IMPORTANT]
+> Design Requirements:
+> - D5.10 Gebruik stevig kunststof (zoals PE of PP) voor behuizing. 
+> - D5.11 Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.
 
 ## Conclusie
 
