@@ -749,7 +749,7 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |5.8|Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.|Gebruikerstest|15/05/2025|---|
 |5.9| Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.|Gebruikerstest|15/05/2025|---|
 |5.10| Gebruik stevig kunststof (zoals PE of PP) voor behuizing. |Gebruikerstest/Hardware choices|15/05/2025|---|
-|5.10| Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.|Gebruikerstest/Hardware choices|15/05/2025|---|
+|5.11| Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.|Gebruikerstest/Hardware choices|15/05/2025|---|
 
 ## Kritische reflectie
 
