@@ -482,12 +482,10 @@ Vervolgens schakelden we over naar het station. De gebruikers kregen een reeks s
 
 Tot slot lieten we de gebruikers het volledige spel spelen met hun gekozen knop. Tijdens het spel vroegen we, ter evaluatie van het finale product, om luidop te benoemen wat ze zagen en dachten. De algemene tevredenheid van Active Harmony werd gemeten met behulp van **_Self-Assessment Mannequins_**, waarbij ouderen het mannetje kozen dat het best hun gevoel weerspiegelde. 
 
-Alle observaties, scores en opmerkingen werden vastgelegd in het rapport ([rapport development 3](https://ugentbe-my.sharepoint.com/:w:/r/personal/amber_barra_ugent_be/Documents/SEM%204/Project%20Gebruiksgericht%20Ontwerp/Development%203%20-%20Rapport.docx?d=w897a453e12244f3387e9acf8304f88ad&csf=1&web=1&e=zsPiDr)).
-
 
 ### Resultaten
 
-In de gebruikerstesten werden verschillende onderdelen getest en gerapporteerd (rapport), dit waren de resultaten per onderwerp:
+Alle observaties, scores en opmerkingen werden vastgelegd in het rapport ([rapport development 3](https://ugentbe-my.sharepoint.com/:w:/r/personal/amber_barra_ugent_be/Documents/SEM%204/Project%20Gebruiksgericht%20Ontwerp/Development%203%20-%20Rapport.docx?d=w897a453e12244f3387e9acf8304f88ad&csf=1&web=1&e=zsPiDr)).
 
 **Sensoren:**
 
