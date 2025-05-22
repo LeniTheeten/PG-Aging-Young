@@ -17,14 +17,14 @@ De positionering van de tegels kan aangepast worden aan de fysieke mogelijkheden
 Dankzij het modulaire ontwerp kunnen de tegels ook voor andere spelvormen ingezet worden: met een aanpassing in de spelcode wordt het mogelijk om een volledig nieuw spel te activeren. Dit biedt gebruikers variatie en extra uitdaging.  
 
 ![image](https://github.com/user-attachments/assets/2778c2cb-1524-4dfe-b493-660d175b26a0)
-
+(RENDERS PLAATSEN)
 
 ## Introductie
 
-In kader van het vak Project Gebruiksgericht Ontwerp en toepassing van het vak Gebruiksgericht Ontwerp, kregen we de keuze uit drie challenges, de gekozen challenge voor dit project is Healthy Aging. Startende vanuit een bestaand concept, de Ronnie Gardiner Methode (RGM), wordt er gevraagd een nieuw concept te ontwikkelen of de RGM in een nieuw jasje te steken. Samengevat is de Ronnie Gardiner Methode een methode om mensen met ziektes zoals parkisons, revalidatie na hersenbloeding, etc opnieuw in beweging te brengen terwijl er ook cognitieve uitdaging is. Het is een vrolijke, gestructureerde, multi-sensorische oefenmethode voor de hersenen, waarbij ritme en muziek worden ingezet om motoriek, spraak en cognitie te stimuleren. Dit zorgt ervoor dat mensen opnieuw mentaal fit worden. Het kan zowel alleen als in groep worden uitgevoerd.
+In kader van het vak **Project Gebruiksgericht Ontwerp** en toepassing van het vak Gebruiksgericht Ontwerp, werd er de keuze uit drie challenges gegeven, de gekozen challenge voor dit project is Healthy Aging. Startende vanuit een bestaand concept, de Ronnie Gardiner Methode (RGM), wordt er gevraagd een nieuw concept te ontwikkelen of de RGM in een nieuw jasje te steken. Samengevat is de Ronnie Gardiner Methode een methode om mensen met ziektes zoals parkisons, revalidatie na hersenbloeding, etc… opnieuw in beweging te brengen terwijl er ook cognitieve uitdaging is (RGM Nederland, z.d.) . Het is een vrolijke, gestructureerde, multi-sensorische oefenmethode voor de hersenen, waarbij ritme en muziek worden ingezet om motoriek, spraak en cognitie te stimuleren. Dit zorgt ervoor dat mensen opnieuw mentaal fit worden. Het kan zowel alleen als in groep worden uitgevoerd.
 
-De grote uitdaging bij dit project, is 65-plussers mentaal en fysiek gezond moeten worden gehouden. De smart product design zorgt dat de interactie tussen gebruiker en het product moeiteloos verloopt. Het uiteindelijke concept zal zowel digitale als fysieke componenten bevatten. De mentale fitheid van ouderen kan worden beïnvloed door het sociaal contact met anderen. Dit kan een invloed hebben bij het ontwerpen voor een enkel individu of een concept in groep.
-
+De grote uitdaging bij dit project is 65-plussers mentaal en fysiek bevorderd worden. De **smart product design** zorgt dat de interactie tussen gebruiker en het product moeiteloos verloopt. Het uiteindelijke concept zal zowel digitale als fysieke componenten bevatten. De mentale fitheid van ouderen kan worden beïnvloed door het actief zijn en het sociaal contact met anderen, dit kan een invloed hebben op het ontwerpen voor een enkel individu of een concept voor in groep.
+  
 Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 -	Veiligheid: De bewegingen mogen de fysieke mogelijkheden van de deelnemers niet overstijgen.
 -	Gebruiksvriendelijkheid: De instructies moeten helder en eenvoudig geformuleerd zijn.
@@ -34,13 +34,29 @@ Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 
 ## Methodologie
 
-![image](https://github.com/user-attachments/assets/f6b9e9de-82e3-4a7d-8c11-6fd9f5cc42a5)
+(FOTO METHODOLOGIE TEKENING)
 
-Het gehele ontwerpproces van deze opdracht is vastgelegd met de double diamond methodologie. In de discovery fase wordt de vraag gesteld: ‘Wat is het probleem?’. Om wat meer in de diepte te gaan over de RGM methode werd er een literatuurstudie uitgevoerd. Hierin werden zaken in verband met de RGM methode en cognitieve bevordering van het menselijk brein onderzocht. Uit de inteviews met de gebruikers kwam er een duidelijk beeld van overeenkomsten waarop een persona en user model werd gebaseerd. Doorheen de onderzoeken werdt een WWWWH-model opgesteld. In deze eerste fase werdt in een sprint dag aan een eerste ideegeneratie gedaan. 
+Het ontwerpproces werd gestructureerd aan de hand van het **Double Diamond-model**, met focus op gebruiksvriendelijkheid, veiligheid en effectiviteit voor ouderen. Elke fase werd onderbouwd met methoden en testen die bijdragen aan een gebruiksgericht en iteratief ontwerp, telkens werder **design requirements** bijgehouden.
 
-Het verder werken aan de kern van het probleem werd gedaan in de definition fase. In de definition is de vraag: “Wat is de oplossing?” essentieel. Eerste prototypes en concept sketches werden gemaakt om te pitchen aan klasgenoten. Ook vroegtijdig gebruikerstesten werden afgelegd om zo feedback te krijgen van het doelpubliek. De feedback van de gebruikers was essentieel om inzicht te krijgen in de noden die zullen worden aangepakt door het toepassen van de RGM methode in een product. Uit elk onderzoek werden design requirements opgesteld die het finaal concept laten voldoen aan de noden van de gebruikers. 
+**Discover – Probleemverkenning:**
 
-![image](https://github.com/user-attachments/assets/4e29b6cf-4c96-437e-8fac-ce9fd3a5186e)
+De eerste fase draaide om de vraag: Wat is het probleem? Via **literatuuronderzoek** werd inzicht verkregen in cognitieve stimulatie bij ouderen en de werking van de Ronnie Gardiner Methode (RGM). Dit werd aangevuld met **interviews (N=3)** met de doelgroep, vertaald naar een **persona** en **user model**. Een **WWWWH-analyse** gaf structuur aan de bevindingen. Tijdens een sprintdag vond **ideegeneratie** plaats, en werd een **innovatrix** opgesteld om oplossingsrichtingen te verkennen.
+
+**Define – Probleemafbakening:**
+
+In deze fase stond de vraag centraal: Wat is de juiste oplossing? Door middel van **benchmarkonderzoek** werd de bestaande markt verkend. Uit de ideegeneratie werd één concept gekozen. De begrijpelijkheid ervan werd getest met het **Think Aloud-protocol (wave 1 & 2 (N=5))**. Deze tests boden vroeg inzicht in gebruikerservaring, hoewel ze deels al in de ontwikkelingsfase vielen. Een **storyboard** visualiseerde het gekozen concept ter validatie.
+
+**Develop – Ontwikkeling en Iteratie:**
+
+De ontwikkelfase verliep in drie stappen:
+- **Eerste ontwikkelfase:** Er werd dieper ingegaan op het spelprincipe. Via een **gebruikersbevraging** en **literatuuronderzoek** werd het gebruik van een spelmat onderzocht en nog opzoek gegaan naar validatie van vorige fase. Op basis van **antropometrische data** werd de fysieke vorm afgestemd. Een **gebruikerstest (N=4)** volgde.
+- **Tweede ontwikkelfase:** Hier lag de focus op usability en de eerste functionele implementatie. Er vond een versnelling plaats in het realiseren van het spel aan de hand van elektronica. De gedragsprincipes van **Nir Eyal’s Hook-model** (triggers, actie, beloning, investering) werden toegepast. De **testaanpak (N=6)** bestond uit de **Experience Sampling Method** (ESM), aanvullend met logboek tijdens de testdagen en de **System Usability Scale** (SUS) na testdagen. Er werd al ruw gekeken naar de hardware keuzes.
+- **Derde ontwikkelfase:** Verfijning van **hardware keuzes**, afstemming op gebruiksscenario’s en extra **validatie (N=4)** op vlak van usability en user experience, de methode van de **Self-Assessment Mannequins** werd toegepast. Inclusief onderzoek op het gehele product, opbergstation en materialen.
+
+**Deliver – Oplevering:**
+
+Het project werd afgerond met een **finaal concept** en een productvideo waarin werking en voordelen van de vernieuwde RGM-aanpak helder gepresenteerd worden.
+
 
 ## Discovery (N = 3)
 
