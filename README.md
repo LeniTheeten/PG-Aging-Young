@@ -793,8 +793,6 @@ Een belangrijk leermoment was dat niet alles wat gebruikers zeggen letterlijk te
 
 In de beginfase was er beperkte variatie in prototypes door een late start. De eerste versies waren stevig, maar niet op juiste maat. Latere tegels volgden wel correcte antropometrie.
 
-De tegelhoogte ging van 5 cm naar 2 cm, wat gebruikers stabieler vonden. De drukknop kwam als beste sensor naar voren door gebruiksgemak en snelle respons. Tegels kregen dubbele lagen en anti-slip voor veiligheid en bescherming van elektronica.
-
 Hardwarekeuzes en het opbergstation werden aangepast op basis van gebruikerstests, met aandacht voor gebruiksgemak, vormgeving en materiaalvoorkeur.
 
 Hoewel het concept goed ontvangen werd, zijn er nog aandachtspunten voor verder onderzoek:
