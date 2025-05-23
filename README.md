@@ -808,7 +808,7 @@ Active Harmony is gegroeid van een spelmat-concept naar een doordacht systeem va
 
 In dit vak leerden we hoe we een project methodisch kunnen opbouwen met behulp van verschillende modellen en technieken die we zelf mochten toepassen. We werden uitgedaagd om tot het einde kritisch na te denken over ontwerpkeuzes, gebruik en onderbouwing. Een belangrijk leermoment was het leren analyseren van gebruikersgedrag en -behoeften, wat ons hielp om gerichter en gebruiksgericht te ontwerpen.
 
-De algemene samenwerking binnen het team verloopt efficiënt dankzij wekelijkse planning en taakverdeling. Wel werd duidelijk dat het huidige systeem, waarbij documenten en verslagen verspreid zijn over verschillende computers, zorgt voor een chaotisch overzicht. 
+De algemene samenwerking binnen het team verloopte efficiënt dankzij wekelijkse planning en taakverdeling. Wel werd duidelijk dat het huidige systeem, waarbij documenten en verslagen verspreid zijn over verschillende computers, zorgt voor een chaotisch overzicht. 
 
 ## Technische uitwerking
 
