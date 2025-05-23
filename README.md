@@ -36,8 +36,7 @@ Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 
 ## Methodologie
 
-![Methodologie_double_diamond](https://github.com/user-attachments/assets/55b4af1c-f183-42d0-a7af-c83b90110e76)
-
+![Methodologie_double_diamond](https://github.com/user-attachments/assets/df0ba399-b805-4f1c-ac8d-e3fdbd13f4c4)
 
 Het ontwerpproces werd gestructureerd aan de hand van het **Double Diamond-model**, met focus op gebruiksvriendelijkheid, veiligheid en effectiviteit voor ouderen. Elke fase werd onderbouwd met methoden en testen die bijdragen aan een gebruiksgericht en iteratief ontwerp, telkens werden de **design requirements** bijgehouden.
 
