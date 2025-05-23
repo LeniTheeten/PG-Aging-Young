@@ -231,7 +231,7 @@ Er werd een **storyboard** opgesteld om het concept verder te valideren bij de g
 > - D2.9 De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.
 > - D2.10 Struikelgevaar moet vermeden worden.
 
-Ook werden nog even de bestaande benchmarks ([rapport_benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ebe5ZKRW-7FBnCFcHk-Sb-gBvtW_tWaTy842xuI-NIs6bg?e=Cwhfzm)) bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. 
+Ook werden nog even de bestaande ([benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ebe5ZKRW-7FBnCFcHk-Sb-gBvtW_tWaTy842xuI-NIs6bg?e=Cwhfzm)) bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. 
 
 Uit de benchmark kwamen deze conclusies naar voren: 
 - Interactieve matten en digitale producten zoals de Nintendo Wii zijn vaak te intensief voor onze doelgroep.
