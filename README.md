@@ -955,7 +955,7 @@ Develop:
 - [Protocol_Develop_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EV_IygXPRalPtrS1I5XQesUBwCMJmVDo8U40Bpl5j_BUiw?e=MBaob8)
 - [Rapport_Develop_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaLoDKUjlFZBukDpzQYdyiUB9ZKircovtSIOe9d3dzMy7A?e=ebQk7r)
 
-Develop 2:
+**Develop 2:**
 
 Develop:
 - [Protocol_Develop_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EamqfLQobHdItSjWbO3DidEB2z7TDTCNWqYe7Fh_vAhNIQ?e=7oi5rc)
@@ -982,7 +982,7 @@ Ingevulde logboeken en SUS (niet allemaal staan online):
 - [Logboek_Opa_Dag_3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ERslKgd5XCZGux5H1_pXz-oBFeT2e5iD6px4kNijRhnnxA?e=dfFsUr)
 - [Logboek_Pascal_Dag_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUnijR0e5q5Frz81fW0hWWYBDaE0sINGzj2zKz2tUo1NkQ?e=UMOL8H)
 
-Develop 3:
+**Develop 3:**
 
 Develop:
 - [Protocol_Develop_3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQWXO2IzpFZBqjPfpNIZC4MB4bdI7EqxyYneEO-qcKHLsQ?e=z0K8Oq)
