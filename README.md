@@ -723,24 +723,24 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |2.15|Keuze uit verschillende instrumentgeluiden en melodieën.|Benchmark|21/11/2024|<details><summary>OK</summary><br>Gebruikers kunnen liedjes selecteren op het oplaadstation, nieuwe melidieën kunnen worden toegevoegd via USB.</details>|
 |2.16|Opvouwbaarheid voor eenvoudig opbergen en transport|Benchmark|21/11/2024|<details><summary>OK</summary><br>Alle tegels passen samen in een compact oplaadstation.</details>|
 |**Develop 1**|
-|3.1|De benaderingen van het spel moeten de gulden snede volgen.|Literatuuronderzoek|05/03/2025|---|
-|3.2|et product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.|Literatuuronderzoek|05/03/2025|---|
-|3.3|Belangrijke visuele informatie moet binnen het centrale gezichtsveld geplaatst zijn.|Literatuuronderzoek|05/03/2025|---|
-|3.4|Balansverstoringen mogen geen obstakel vormen in het gebruiken van het product.|Literatuuronderzoek|05/03/2025|---|
-|3.5|De oefenomgeving moet veilige en gecontroleerde omstandigheden bieden.|Literatuuronderzoek|05/03/2025|---|
-|3.6|De oplossing moet zowel met twee voeten als met een voet speelbaar zijn.|Literatuuronderzoek|05/03/2025|---|
-|3.7|Het spel moet een goede balans hebben tussen complexiteit en speelbaarheid.|Bevraging|05/03/2025|---|
-|3.8|De oplossing moet een kabelvrije oplossing bieden.|Bevraging|12/03/2025|---|
-|3.9|Muziek met tekst moet geïntegreerd zijn in de oplossing.|Bevraging|12/03/2025|---|
-|3.10|Bij langdurig gebruik mogen geen frustraties naar boven komen.|Bevraging|12/03/2025|---|
-|3.11|De oplossing moet bestaan uit losse elementen.|Gebruikerstest|09/03/2025|---|
-|3.12|De elementen moeten variabel te positioneren zijn.|Gebruikerstest|09/03/2025|---|
-|3.13|De oplossing moet bewegingsvrijheid garanderen.|Gebruikerstest|09/03/2025|---|
-|3.14|De oplossing moet compatibel zijn met een steunoptie naar keus.|Gebruikerstest|09/03/2025|---|
-|3.15|De gebruiker mag niet uitgebrand zijn na gebruik.|Gebruikerstest|09/03/2025|---|
-|3.16|Het spel moet positieve feedback geven.|Gebruikerstest|09/03/2025|---|
-|3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|Gebruikerstest|09/03/2025|---|
-|3.18|De elementen mogen niet falen tijdens lange rustmomenten.|Gebruikerstest|09/03/2025|---|
+|3.1|De benaderingen van het spel moeten de gulden snede volgen.|Literatuuronderzoek|05/03/2025|<details><summary>NIET OK</summary><br>De plaatsing van tegels volgt een evenwichtige verdeling, gebaseerd op de antropometrie van de gebruiker.</details>|
+|3.2|et product moet met verminderde gevoeligheid in kleurwaarneming speelbaar zijn.|Literatuuronderzoek|05/03/2025|<details><summary>OK</summary><br>Muziekfeedback ondersteunt kleurfeedback door luider te spelen bij correcte input en te stoppen bij fouten.</details>|
+|3.3|Belangrijke visuele informatie moet binnen het centrale gezichtsveld geplaatst zijn.|Literatuuronderzoek|05/03/2025|<details><summary>OK</summary><br>Gebruikers plaatsen de tegels zo dat deze comfortabel en goed zichtbaar zijn binnen hun gezichtsveld.</details>|
+|3.4|Balansverstoringen mogen geen obstakel vormen in het gebruiken van het product.|Literatuuronderzoek|05/03/2025|<details><summary>OK</summary><br>Door onder andere het lage ontwerp en het advies om aan een tafel te spelen, wordt stabiliteit bevorderd.</details>|
+|3.5|De oefenomgeving moet veilige en gecontroleerde omstandigheden bieden.|Literatuuronderzoek|05/03/2025|<details><summary>OK</summary><br>De setting wordt aanbevolen rond een tafel, waardoor stabiele en vertrouwde omgeving ontstaat.</details>|
+|3.6|De oplossing moet zowel met twee voeten als met een voet speelbaar zijn.|Literatuuronderzoek|05/03/2025|<details><summary>NIET OK</summary><br>Tegels zijn groot genoeg voor twee voeten, maar ontworpen om comfortabel met 1 voet te bedienen.</details>|
+|3.7|Het spel moet een goede balans hebben tussen complexiteit en speelbaarheid.|Bevraging|05/03/2025|<details><summary>Aan het verwerken</summary><br>In het businessmodel is voorzien dat gebruikers in een latere fase de moeilijkheidsgraad zelf kunnen kiezen.</details>|
+|3.8|De oplossing moet een kabelvrije oplossing bieden.|Bevraging|12/03/2025|<details><summary>OK</summary><br>De speltegels werken draadloos met een interne herlaadbare batterij, enkel het vast oplaadstation heeft een stroomkabel.</details>|
+|3.9|Muziek met tekst moet geïntegreerd zijn in de oplossing.|Bevraging|12/03/2025|<details><summary>OK</summary><br>Er zijn herkenbare liedjes met originele zang van artiesten gebruikt in het spel.</details>|
+|3.10|Bij langdurig gebruik mogen geen frustraties naar boven komen.|Bevraging|12/03/2025|<details><summary>OK</summary><br>Door foutloze auditieve feedback (geen storend geluid) en een geleidelijke opbouw blijft de ervaring positief, op technische haperingen na.</details>|
+|3.11|De oplossing moet bestaan uit losse elementen.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Elke speltegel is een zelfstandig, losstaand onderdeel</details>|
+|3.12|De elementen moeten variabel te positioneren zijn.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>De losse tegels kunnen vrij geplaatst worden op elk vlak oppervlak, afgestemd op de gebruiker</details>|
+|3.13|De oplossing moet bewegingsvrijheid garanderen.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Door de tegels verder uiteen te leggen, wordt voldoende ruimte voorzien om vlot te bewegen.</details>|
+|3.14|De oplossing moet compatibel zijn met een steunoptie naar keus.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Tegels zijn compact en laag, en kunnen in de buurt van een stoel of tafel gebruikt worden voor extra steun.</details>|
+|3.15|De gebruiker mag niet uitgebrand zijn na gebruik.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>De inspanning blijft laagdrempelig dankzij eenvoudige spelprincipes die toch fysiek en mentaal activeren.</details>|
+|3.16|Het spel moet positieve feedback geven.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Correcte input wordt beloond met luider spelende muziek en groene lichtfeedback; het lied gaat dan verder.</details>|
+|3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>De knop is gevoelig genoeg om met een lichte aanraking, ook met de vinger, te worden geactiveerd.</details>|
+|3.18|De elementen mogen niet falen tijdens lange rustmomenten.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Tijdens laadmomenten worden componenten automatisch gepauzeerd.</details>|
 |**Developm 2**|
 |4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|Gebruikerstest|25/04/2025|---|
 |4.2|Duur van muziek mag niet te lang.|Gebruikerstest|25/04/2025|---|
