@@ -608,12 +608,6 @@ Ook werd gevraagd voor de **Self-Assessment Mannequins** aan te duiden, zodat er
 
 De scores zijn overwegend positief; deelnemers zijn vrolijk en positief tijdens het spel. Omdat er nog ‘achter de schermen’ besturing is, zijn spelers nog niet volledig zelfstandig. Het spel wordt als matig actief ervaren. Om dit te verbeteren, kunnen we het uitdagender maken met verschillende niveaus, zoals snellere tempo’s of meer tegels.
 
-> [!IMPORTANT]
-> Design Requirements:
-> - D5.4 Voorzie meerdere moeilijkheidsgraden en speelmodes voor verschillende niveaus.
-> - D5.5 Implementeer speelmoment-tracking en scores voor motivatie en sociale interactie.
-> - D5.6 Bied keuzeopties voor muziekselectie aan de gebruiker. 
-
 **Opbergings station:**
 
 Er werden vijf variaties van het station gemaakt (zie foto’s). De deelnemers beoordeelden elke tekening en gaven aan welke ze het duidelijkst vonden en welke ze prefereren. Het laatste ontwerp was favoriet vanwege het moderne, duidelijke uiterlijk en paste het beste in een leefruimte.
@@ -636,9 +630,9 @@ _“Zegt veel zonder uitleg nodig te hebben.”_
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D5.7 Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.
-> - D5.8 Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.
-> - D5.9 Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.
+> - D5.4 Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.
+> - D5.5 Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.
+> - D5.6 Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.
 
 **Materialen:**
 
@@ -660,8 +654,8 @@ Voor de materialen en uitstraling werd ook een eigen moodboard opgesteld.
 
 > [!IMPORTANT]
 > Design Requirements:
-> - D5.10 Gebruik stevig kunststof (zoals PE of PP) voor behuizing. 
-> - D5.11 Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.
+> - D5.7 Gebruik stevig kunststof (zoals PE of PP) voor behuizing. 
+> - D5.8 Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.
 
 **Finaal product:**
 
@@ -749,17 +743,14 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |4.5|Precisie van sensoren.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>De knop reageert al op een lichte aanraking.</details>|
 |4.6|Wifi modules vlot werken met elkaar.|Gebruikerstest|25/04/2025|<details><summary>Aan het verwerken</summary><br>Dit hangt af van de gebruikte Arduino-hardware.</details>|
 |**Develop 3**|
-|5.1|Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.|Gebruikerstest/Hardware choices|15/05/2025|---|
-|5.2|Zorg voor directe visuele feedback via LED bij interactie.|Gebruikerstest|15/05/2025|---|
-|5.3|Ontwerp lage, stabiele tegels met antisliponderzijde voor veiligheid.|Gebruikerstest|15/05/2025|---|
-|5.4|Voorzie meerdere moeilijkheidsgraden en speelmodes voor verschillende niveaus.|Gebruikerstest|15/05/2025|---|
-|5.5|Implementeer speelmoment-tracking en scores voor motivatie en sociale interactie.|Gebruikerstest|15/05/2025|---|
-|5.6|Bied keuzeopties voor muziekselectie aan de gebruiker.|Gebruikerstest|15/05/2025|---|
-|5.7|Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.|Gebruikerstest|15/05/2025|---|
-|5.8|Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.|Gebruikerstest|15/05/2025|---|
-|5.9| Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.|Gebruikerstest|15/05/2025|---|
-|5.10| Gebruik stevig kunststof (zoals PE of PP) voor behuizing. |Gebruikerstest/Hardware choices|15/05/2025|---|
-|5.11| Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.|Gebruikerstest/Hardware choices|15/05/2025|---|
+|5.1|Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.|Gebruikerstest/Hardware choices|15/05/2025|<details><summary>OK</summary><br>Het finale concept maakt gebruik van drukknoppen, gekozen op basis van gebruikerstests.</details>|
+|5.2|Zorg voor directe visuele feedback via LED bij interactie.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>Bij het indrukken van de knop wordt onmiddelijk lichtfeedback gestuurd.</details>|
+|5.3|Ontwerp lage, stabiele tegels met antisliponderzijde voor veiligheid.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>DIt is te zien op het ontwerp van de tegels.</details>|
+|5.4|Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>Dit is te zien in de renders.</details>|
+|5.5|Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>Het oplaadstation werkt met een vaste stroomkabel.</details>|
+|5.6| Voorzie indicatielampjes (bv. voor opladen, status) van kleurcodering.|Gebruikerstest|15/05/2025|<details><summary>Aan het verwerken</summary><br>In het prototype zou een indicatielampje onder de aan/uit-knop geïntegreerd worden om status weer te geven.</details>|
+|5.7| Gebruik stevig kunststof (zoals PE of PP) voor behuizing. |Gebruikerstest/Hardware choices|15/05/2025|<details><summary>Aan het verwerken</summary><br>Hoewel het staion niet fysiek is gebouwd, is stevig kunststof voorzien als het gewenste materiaal.</details>|
+|5.8| Integreer siliconen of andere antislipmaterialen aan de onderzijde voor veiligheid.|Gebruikerstest/Hardware choices|15/05/2025|<details><summary>OK</summary><br>De onderzijde van de tegels, de draaiknop en de pootjes van het oplaadstation zijn voorzien van antislipmateriaal.</details>|
 
 ## Kritische reflectie
 
