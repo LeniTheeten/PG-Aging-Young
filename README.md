@@ -101,7 +101,7 @@ Uit het **literatuuronderzoek** blijkt dat een combinatie van muziek, beweging e
 > - D1.2 De activiteit moet bijdragen aan zowel fysieke als cognitieve stimulatie.
 > - D1.3 Muziek moet op een intuïtieve manier geïntegreerd worden.
 
-Cognitieve functies zoals geheugen en aandacht zijn essentieel voor de 65+ers om dagelijks te functioneren. Kleine brein games bieden vaak onvoldoende uitdagingen.
+Cognitieve functies zoals geheugen en aandacht zijn essentieel voor de 65-plussers om dagelijks te functioneren. Kleine brein games bieden vaak onvoldoende uitdagingen.
 
 > [!IMPORTANT]
 > Design Requirements:
