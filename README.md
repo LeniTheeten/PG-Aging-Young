@@ -720,10 +720,10 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |2.3|Voldoende bewegingsvrijheid is essentieel.|Wave 1|08/12/2024|<details><summary>OK</summary><br>Gebruikers konden de tegels vrij positioneren volgens hu beschikare ruimte en mobiliteit.</details>|
 |2.4|Ouderen moeten zich ontspannen voelen zonder evaluatiedruk.|Wave 1 & 2|08/12/2024|<details><summary>OK</summary><br>Er is geen scoreweergave in het spel, vergelijken gebeurt vrijwillig en op papier indien gewenst.</details>|
 |2.5|Het concept moet makkelijk in een woonomgeving passen zonder grote aanpassingen.|Wave 1|08/12/2024|<details><summary>OK</summary><br>De tegels zijn flexibel plaatsbaar en kunnen rondom een tafel worden gelegd.</details>|
-|2.6|De knoppen moeten comfortabel, duidelijk en goed leesbaar zijn.|Wave 2|08/12/2024|<details><summary>OK</summary><br>De knoppen zijn groot en geven directe feedback bij correcte of foute input.</details>|
+|2.6|De knoppen moeten comfortabel, duidelijk en goed leesbaar zijn.|Wave 2|08/12/2024|<details><summary>OK</summary><br>Het oppervlak is groot en geeft directe feedback bij correcte of foute input.</details>|
 |2.7|Het spel moet bruikbaar zijn met een rollator of steunmogelijkheid voor balans.|Wave 1|08/12/2024|<details><summary>OK</summary><br>De tegels zijn los plaatsbaar; voor rollatorgebruik wordt het spel bij een tafel of stoel aangeraden voor beter zicht en ondersteuning.</details>|
 |2.8|Kleuren moeten visuele onderscheiding vergemakkelijken.|Wave 2|08/12/2024|<details><summary>OK</summary><br>Er is duidelijke lichtfeedback per functie en verschillende kleuren voor verschillende signalen.</details>|
-|2.9|De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.|Wave 2|08/12/2024|<details><summary>OK</summary><br>De knoppen reageren al op een lichte vingerdruk, wat minimale fysieke inspanning vraagt.</details>|
+|2.9|De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.|Wave 2|08/12/2024|<details><summary>OK</summary><br>De tegels reageren al op een lichte vingerdruk, wat minimale fysieke inspanning vraagt.</details>|
 |2.10|Struikelgevaar moet vermeden worden.|Wave 2|08/12/2024|<details><summary>OK</summary><br>De tegels zijn laag, afgerond en voorzien van een kleine helling om struikelen te voorkomen.</details>|
 |2.11|Instelbaar geluidsniveau in het spel.|Benchmark|21/11/2024|<details><summary>OK</summary><br>Het volume is aanpasbaar via een draaiknop op het oplaadstation.</details>|
 |2.12|Diverse spelmogelijkheden aanbieden.|Benchmark|21/11/2024|<details><summary>Aan het verwerken</summary><br>Het businessmodel voorziet uitbreidbare spelopties, werd niet toegepast wegens tijdsgebrek.</details>|
@@ -748,18 +748,18 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |3.14|De oplossing moet compatibel zijn met een steunoptie naar keus.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Tegels zijn compact en laag, en kunnen in de buurt van een stoel of tafel gebruikt worden voor extra steun.</details>|
 |3.15|De gebruiker mag niet uitgebrand zijn na gebruik.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>De inspanning blijft laagdrempelig dankzij eenvoudige spelprincipes die toch fysiek en mentaal activeren.</details>|
 |3.16|Het spel moet positieve feedback geven.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Correcte input wordt beloond met luider spelende muziek en groene lichtfeedback; het lied gaat dan verder.</details>|
-|3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>De knop is gevoelig genoeg om met een lichte aanraking, ook met de vinger, te worden geactiveerd.</details>|
+|3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>De tegel is gevoelig genoeg om met een lichte aanraking, ook met de vinger, te worden geactiveerd.</details>|
 |3.18|De elementen mogen niet falen tijdens lange rustmomenten.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Tijdens laadmomenten worden componenten automatisch gepauzeerd.</details>|
 |**Developm 2**|
 |4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|Gebruikerstest|25/04/2025|<details><summary>Aan het verwerken</summary><br>Mogelijkheid tot competitie werd opgenomen in het businessmodel.</details>|
 |4.2|Duur van muziek mag niet te lang.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>Elk liedje speelt tot het einde, indien juist.</details>|
-|4.3|Plaatsing van de sensoren mag niet hinderen. Bv; lichtsensor en lichtje niet naast elkaar.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>De drukknop is centraal geplaatst met een omliggende LED-ring.</details>|
+|4.3|Plaatsing van de sensoren mag niet hinderen. Bv; lichtsensor en lichtje niet naast elkaar.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>De capacitieve touchpad is centraal geplaatst met een omliggende LED-ring.</details>|
 |4.4|Variatie in muziek brengen.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>Er zijn minstens drie liedjes beschikbaar bij aankoop en gebruikers kunnen extra muziek toevoegen via een USB-stick.</details>|
-|4.5|Precisie van sensoren.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>De knop reageert al op een lichte aanraking.</details>|
+|4.5|Precisie van sensoren.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>De tegel reageert al op een lichte aanraking.</details>|
 |4.6|Wifi modules vlot werken met elkaar.|Gebruikerstest|25/04/2025|<details><summary>Aan het verwerken</summary><br>Dit hangt af van de gebruikte Arduino-hardware.</details>|
 |**Develop 3**|
-|5.1|Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.|Gebruikerstest/Hardware choices|15/05/2025|<details><summary>OK</summary><br>Het finale concept maakt gebruik van drukknoppen, gekozen op basis van gebruikerstests.</details>|
-|5.2|Zorg voor directe visuele feedback via LED bij interactie.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>Bij het indrukken van de knop wordt onmiddelijk lichtfeedback gestuurd.</details>|
+|5.1|Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.|Gebruikerstest/Hardware choices|15/05/2025|<details><summary>OK</summary><br>Het finale concept maakt gebruik van een capacitieve touch pad, gekozen op basis van gebruikerstests.</details>|
+|5.2|Zorg voor directe visuele feedback via LED bij interactie.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>Bij het indrukken van de tegel wordt onmiddelijk lichtfeedback gestuurd.</details>|
 |5.3|Ontwerp lage, stabiele tegels met antisliponderzijde voor veiligheid.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>DIt is te zien op het ontwerp van de tegels.</details>|
 |5.4|Voorzie een duidelijke draaiknop, grote knoppen en goed zichtbare symbolen.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>Dit is te zien in de renders.</details>|
 |5.5|Werk met vaste stroomvoorziening (stekker) i.p.v. batterijen.|Gebruikerstest|15/05/2025|<details><summary>OK</summary><br>Het oplaadstation werkt met een vaste stroomkabel.</details>|
