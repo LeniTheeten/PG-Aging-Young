@@ -450,11 +450,11 @@ Uit de **System Usabilty Scale**-vragen, werd een score opgesteld van wat de men
 > Design requirements:
 > - DR 4.1 Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.
 > - DR 4.2 Duur van muziek mag niet te lang.
-> - DR 4.3 Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar.
-> - DR 4.4 Meer variatie in muziek brengen.
-> - DR 4.5 Precisie van sensoren hoger.
-> - DR 4.6 Wifi modules vlotter werken met elkaar en de code.
-> - DR 4.7 Meer feedback bij fouten geven.
+> - DR 4.3 Plaatsing van de sensoren mag niet hinderen.
+> - DR 4.4 Variatie in muziek brengen.
+> - DR 4.5 Precisie van sensoren.
+> - DR 4.6 Wifi modules vlot werken met elkaar.
+
 
 Verder werd er ook gekeken naar een ideale opstelling van de tegels, dit verder werkend op het **antropometrie**-onderzoek van development 1. De ideale opstelling is de tegels in een cirkelboog rondom de persoon op een afstand van 60 cm. Deze opstelling kan aangeraden worden aan de gebruikers. Natuurlijk kunnen ze zelf nog steeds vrij kiezen hoe ze de tegels plaatsen, doordat de tegels los zijn. ([Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP))
 
@@ -742,13 +742,12 @@ Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richt
 |3.17|De activiteit moet kunnen plaatsvinden met 1 voet aanraking.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>De knop is gevoelig genoeg om met een lichte aanraking, ook met de vinger, te worden geactiveerd.</details>|
 |3.18|De elementen mogen niet falen tijdens lange rustmomenten.|Gebruikerstest|09/03/2025|<details><summary>OK</summary><br>Tijdens laadmomenten worden componenten automatisch gepauzeerd.</details>|
 |**Developm 2**|
-|4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|Gebruikerstest|25/04/2025|---|
-|4.2|Duur van muziek mag niet te lang.|Gebruikerstest|25/04/2025|---|
-|4.3|Plaatsing van de sensoren moeten beter zijn tegenover elkaar. Bv; lichtsensor en lichtje niet naast elkaar.|Gebruikerstest|25/04/2025|---|
-|4.4|Meer variatie in muziek brengen.|Gebruikerstest|25/04/2025|---|
-|4.5|Precisie van sensoren hoger.|Gebruikerstest|25/04/2025|---|
-|4.6|Wifi modules vlotter werken met elkaar en de code.|Gebruikerstest|25/04/2025|---|
-|4.7|Meer feedback bij fouten geven.|Gebruikerstest|25/04/2025|---|
+|4.1|Competitie in het spel verwerken. Bv; scores, makkelijk beginnen en naar moeilijker gaan.|Gebruikerstest|25/04/2025|<details><summary>Aan het verwerken</summary><br>Mogelijkheid tot competitie werd opgenomen in het businessmodel.</details>|
+|4.2|Duur van muziek mag niet te lang.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>Elk liedje speelt tot het einde, indien juist.</details>|
+|4.3|Plaatsing van de sensoren mag niet hinderen. Bv; lichtsensor en lichtje niet naast elkaar.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>De drukknop is centraal geplaatst met een omliggende LED-ring.</details>|
+|4.4|Variatie in muziek brengen.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>Er zijn minstens drie liedjes beschikbaar bij aankoop en gebruikers kunnen extra muziek toevoegen via een USB-stick.</details>|
+|4.5|Precisie van sensoren.|Gebruikerstest|25/04/2025|<details><summary>OK</summary><br>De knop reageert al op een lichte aanraking.</details>|
+|4.6|Wifi modules vlot werken met elkaar.|Gebruikerstest|25/04/2025|<details><summary>Aan het verwerken</summary><br>Dit hangt af van de gebruikte Arduino-hardware.</details>|
 |**Develop 3**|
 |5.1|Gebruik drukknoppen of capacitieve touchsensoren voor betrouwbare, intuïtieve input.|Gebruikerstest/Hardware choices|15/05/2025|---|
 |5.2|Zorg voor directe visuele feedback via LED bij interactie.|Gebruikerstest|15/05/2025|---|
