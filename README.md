@@ -85,7 +85,7 @@ De centrale onderzoeksvragen waren:
 3. Wat zijn cognitieve functies of vaardigheden?[^4][^5][^6]
 4. Hoe kan healthy aging worden bevorderd?[^7][^8][^9][^10]
 
-Om kwalitatieve inzichten te verkrijgen, werden **interviews** ([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ed9Tg9MHxxxLjNeRAD1qHx4BbbeWkM66jpOKRjnQA1RbtA?e=XPNxeX)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen. Voorafgaande aan elk interview werd een [informed consent](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXM5TNVYrNlKmqjKmqB2AT0Bvmq5wapY2ed5hnVDOPwtzg?e=O9AUdu) ondertekend. Uit de inzichten van de intervieuws werd een **[user-model](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EeT5JPQhoT9Il87CmLzDUhwBnuIiQGFslfVxvmP2XvJrvA?e=qtHXya))** en **persona** opgesteld.
+Om kwalitatieve inzichten te verkrijgen, werden **interviews** ([Interview protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ed9Tg9MHxxxLjNeRAD1qHx4BbbeWkM66jpOKRjnQA1RbtA?e=XPNxeX)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen. Voorafgaande aan elk interview werd een [informed consent](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXM5TNVYrNlKmqjKmqB2AT0Bvmq5wapY2ed5hnVDOPwtzg?e=O9AUdu) ondertekend. Uit de inzichten van de intervieuws werd een **[user-model](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EeT5JPQhoT9Il87CmLzDUhwBnuIiQGFslfVxvmP2XvJrvA?e=qtHXya)** en **persona** opgesteld.
 
 In de sprintdag begon de **ideegeneratiefase** waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de **[innovatrix](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdkjVfKgH2pHnB5uVPi7kr8Bnw1xOAUtfrK0q7NPQ2Yigg?e=abiBrG)** (om de graad van innovatie te bepalen) en de **[lotusbloem](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EWPI5N-yksNMkH7ecEv-5qYBS7CTrXczUbx8ZkWyUEFj4w?e=nj2gAT)** ( om de brainstormsessie te structureren).
 
@@ -114,9 +114,11 @@ Stressmanagement, levenskwaliteit en sociale interactie beïnvloeden  het gezond
 > Design Requirements:
 > - D1.6 Het moet toegankelijk en gebruiksvriendelijk zijn, zodat ouderen er zich comfortabel bij voelen.
 
-Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
+Het [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Eb2BTOIQYoNPgViz66QgTowBeQ74xHOHPBdTTzjgx27Rkw?e=8AwNnY) opgesteld om de kern van het probleem te verfijnen is hieronder te zien.
 
 ![image](https://github.com/user-attachments/assets/82c3253f-864e-4698-b1cd-7a97b408841f)
+
+[Research 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ER7Arm1DL6ZNr-xpVFqBKKEBzW85mcIWFiCbIAf0MApIyw?e=QDw2j0) [Research 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EV_8_h6YbRJPteX8cHt7UTQBjeDC3finbOSjWyDnyhi3Fw?e=G6gjd3) [Research 3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ea52tnMaCYNIj15GUdl_fIkBq8D-WqmgTdL9ondPxouKDA?e=7ktx9s) [Research 4](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZto4MPwcfRLnt4anlINZSUBgP6rLm86bkDjeDwdwwIQCg?e=OPbxAY)
 
 Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voor een activiteit met muziek en beweging, maar in beperkte mate. De voorkeur gaat uit naar oefeningen die in de ochtend of voormiddag plaatsvinden omdat de namiddag meestal een vaste routine heeft. Voor onze doelgroep is een eenvoudige en duidelijke interface belangrijk door bijvoorbeeld zaken als gehoor- en zichtverlies. De populairste sociale en cognitieve spellen bij de ouderen zijn kaarten, Sudoku en Rummikub.
 
@@ -126,9 +128,11 @@ Uit de wensen en behoeften van de doelgroep zelf bleek dat ouderen openstaan voo
 > - D1.8 Een duidelijke, grote interface met heldere symbolen en tekst is noodzakelijk.
 
 
-“Als ik het zou toepassen dan zou ik het toepassen in de ochtend juist na het ontbijt”
+_“Als ik het zou toepassen dan zou ik het toepassen in de ochtend juist na het ontbijt”_
 
 ![Persona](https://github.com/user-attachments/assets/0b12ad66-294a-41f5-b96d-f17cc0fd9372)
+
+[Rapport interview](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQBLqqrcJ7dLkSwrPoS_RuEBpcDvh8mPSXsrzcUtsbHcow?e=m9L857)
 
 De eerste concepten uit de **sprint day** bevatten telkens een combinatie van beweging en muziek.
 
@@ -183,13 +187,14 @@ De toegepaste materialen zijn opgedeeld in gebruik:
 
 De testen volgden een methodische aanpak: Leni observeerde en noteerde de natuurlijke interactie met het product, terwijl Amber als testleider vragen stelde en inzichten verzamelde via het "think aloud protocol". Daarnaast werden, met toestemming, foto’s en video’s vastgelegd voor verdere analyse.
 
-Voor de **eerste test** werd een([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa))opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd door de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.. 
+Voor de **eerste test**[^25][^26] werd een [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EbANW511LWNNsGvWQpc5gQIBuqMyODV8aUNs5kjBCZVgUg?e=eUACrA) opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd door de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.. 
 
-De **tweede test** volgde hetzelfde ([protocol](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.
+De **tweede test**[^27][^28] volgde hetzelfde [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ERXhIqwXYx1Ltt6LiDt17yIBMhsqn2SXI9TY65UD3ha9fw?e=Ub3f5c) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.
 
 ![image](https://github.com/user-attachments/assets/a58d7464-7b49-4c86-aaee-7615686d1629)  ![image](https://github.com/user-attachments/assets/213b946b-3a56-45d0-b929-2008bcab1ad3)
 
-Er werd een **benchmarking** onderzoek uitgevoerd voor het concept. Hier werd opnieuw protocol, rapportering en conclusie toegepast. Er werd telkens gekeken naar waar er voordelen en nadelen waren, welke methode handig en wat kan toegepast worden.
+Er werd een **benchmarking** onderzoek uitgevoerd voor het concept. Hier werd opnieuw [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ_UbdvbrxxCpQCTad8GWK8BS1MLvDNTztjk93iY6IWJhg?e=ml0MdE), rapportering en conclusie toegepast. Er werd telkens gekeken naar de voordelen, nadelen en methode die handig waren, voor wat kon toegepast worden.
+[^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24]
 
 ### Resultaten
 
@@ -204,10 +209,11 @@ In de gebruikerstesten zowel **wave 1** als **wave 2** werden op dezelfde dag af
 | 'Gebruik symbolen & groottes' | Door onvoldoende kleurcontrast waren figuren en symbolen lastig te herkennen. Ouderen gaven aan dat kleurgebruik de zichtbaarheid zou verbeteren. Bij de piano-opstelling werden hoofdletters als duidelijker ervaren, ondanks hun gelijke grootte met andere tekens. | / |
 | 'Knop zacht of hard' | De zachtere knoppen werden verkozen vanwege het hogere comfort, vooral voor mensen met beperkte kracht in handen en voeten. | De uitstekende harde knoppen werden als een struikelgevaar ervaren, vooral door ouderen met een verminderde stabiliteit. |
 
-([wave1_resultaten](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERRFWS9-bCxKi_x_W7haszcBp11-S-wy_OMZbQtCtLh6Lg?e=spmyJ9)) & ([wave2_resultaten](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Edp2z4fMv7RIjM0WtIWSaRcBYyjB8X5Bx9Ilxk6zJUd_Wg?e=Rhwbat))
+[rapport wave 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ER700uWDjqFPoz_dBYzhKfABa-R9iyGG8hRXco3aUhLTSg?e=Bu4m6D)   [rapport wave 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfLeMs_svWBKkLvKr_yxo0EBOrXDc04VubmYaC-leUteIg?e=bTHZ52)   [informed consents](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXZ0kbqbV0tAt5BtcgqJHGkB-bpq4xKJaCrRDLlcnR239Q?e=R52EGf)
 
 Er werd een **storyboard** opgesteld om het concept verder te valideren bij de gebruikers. De gebruikers begrepen het storyboard goed, maar gaven direct aan dat ruimtegebrek een aandachtspunt is.
-([storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK))
+
+[storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUyYYcLv6xxNjIo-U68ERVwBXmIZ3-MT567TcSU0i7ttcQ?e=Y8BjRY)
 
 ![image](https://github.com/user-attachments/assets/623310bf-0068-4456-aebd-882eaec7587f)
 
@@ -224,7 +230,9 @@ Er werd een **storyboard** opgesteld om het concept verder te valideren bij de g
 > - D2.9 De knoppen mogen niet te hard zijn en moeten minimale kracht vereisen.
 > - D2.10 Struikelgevaar moet vermeden worden.
 
-Ook werden nog even de bestaande benchmarks ([rapport_benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=5866hT)) bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. Uit de benchmark kwamen deze conclusies naar voren: 
+Ook werden nog even de bestaande benchmarks ([rapport_benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ebe5ZKRW-7FBnCFcHk-Sb-gBvtW_tWaTy842xuI-NIs6bg?e=Cwhfzm)) bekeken en geëvalueerd, deze kunnen helpen bij het verder ontwerpen van het concept bij volgende fasen. Hierbij werd er gezocht naar bestaande oplossingen van beweegspellen. 
+
+Uit de benchmark kwamen deze conclusies naar voren: 
 - Interactieve matten en digitale producten zoals de Nintendo Wii zijn vaak te intensief voor onze doelgroep.
 - Matten zijn kleurrijk, vierkant of rechthoekig, en aangepast aan kinderen, met variërend ontwerp voor instrument- of dansgebruik.
 - Ook deze design requirements kwamen naar voren:
