@@ -540,7 +540,7 @@ Dit zijn nog enkele aanvullende bevindingen die de gebruikers hebben gedeeld:
 - Lichtsensor: betere plaatsing, maar trager dan drukknop en touch.
 - Afstandssensor: traagste en minst betrouwbaar
 
-Hieruit is gekozen voor de capacitieve touch, omdat gebruikers aangeven dat het prettiger is om zonder fysieke druk een knop te bedienen, en deze sensor bovendien snel reageert.
+De drukknop scoorde zeer goed en snelle feedback. Toch wordt voor de capacitieve touch gekozen, omdat gebruikers aangeven dat het prettiger is om zonder fysieke druk een knop te bedienen, en deze sensor bovendien snel reageert.
 
 > [!IMPORTANT]
 > Design Requirements:
