@@ -793,16 +793,16 @@ Een belangrijk leermoment was dat niet alles wat gebruikers zeggen letterlijk te
 
 In de beginfase was er beperkte variatie in prototypes door een late start. De eerste versies waren stevig, maar niet op juiste maat. Latere tegels volgden wel correcte antropometrie.
 
-De tegelhoogte ging van 5 cm naar 2 cm, wat gebruikers stabieler vonden. Capacitieve touch kwam als beste sensor naar voren door gebruiksgemak en snelle respons. Tegels kregen dubbele lagen en anti-slip voor veiligheid en bescherming van elektronica.
+De tegelhoogte ging van 5 cm naar 2 cm, wat gebruikers stabieler vonden. De drukknop kwam als beste sensor naar voren door gebruiksgemak en snelle respons. Tegels kregen dubbele lagen en anti-slip voor veiligheid en bescherming van elektronica.
 
 Hardwarekeuzes en het opbergstation werden aangepast op basis van gebruikerstests, met aandacht voor gebruiksgemak, vormgeving en materiaalvoorkeur.
 
 Hoewel het concept goed ontvangen werd, zijn er nog aandachtspunten voor verder onderzoek:
 - Volledige validatie van laatste prototype: Vooral op vlak van technische betrouwbaarheid en user experience.
 - Materiaalkeuze en duurzaamheid: PE en PP zijn voorkeursmaterialen, maar moeten nog getoetst worden op milieu-impact.
-- Spelvariatie en moeilijkheidsgraad: Hoe behoud je motivatie op lange termijn? Hoe kunnen er extra spelletjes worden geïmplementeerd
-- Autonomie: Verder onderzoek op: Hoe kan het product volledig zelfstandig gebruikt worden?
-- Sociale dynamiek: Hoe stimuleer je competitie of samenwerking tussen gebruikers?
+- Spelvariatie en moeilijkheidsgraad: "Hoe behoud je motivatie op lange termijn? Hoe kunnen er extra spelletjes worden geïmplementeerd?"
+- Autonomie: Verder onderzoek op "Hoe kan het product volledig zelfstandig gebruikt worden?"
+- Sociale dynamiek: "Hoe stimuleer je competitie of samenwerking tussen gebruikers?"
 
 **ALGEMEEN:**
 
@@ -894,7 +894,7 @@ Schakeling van de laatste development.
 
 De tegels werden opgebouwd uit hout en lijm. De basis en schuine zijden werden gelasercut en vervolgens tegen elkaar gelijmd om een helling te vormen. Binnenin werden houten pootjes geplaatst, net iets lager dan de drukknop, zodat het plexiglas bij het indrukken hierop steunde en de elektronische componenten beschermd bleven. Voor het bovenvlak werd gelasercut plexiglas uit een eerder prototype hergebruikt.
 
-![image](https://github.com/user-attachments/assets/a48dccd7-95de-40ca-b344-1b75d828770f)  ![image](https://github.com/user-attachments/assets/f2849c10-5167-49e4-bf21-1b800a2aee5e)   ![image](https://github.com/user-attachments/assets/1e1f14fa-c031-47d2-a433-1e30b495ef13)
+![image](https://github.com/user-attachments/assets/a48dccd7-95de-40ca-b344-1b75d828770f)  ![image](https://github.com/user-attachments/assets/f2849c10-5167-49e4-bf21-1b800a2aee5e)   c![image](https://github.com/user-attachments/assets/1e1f14fa-c031-47d2-a433-1e30b495ef13)
 
 De verschillende variaties werden bijgehouden in een [ontwerpdocument](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ3NpIwATrZGp4_uY1njyJABunV3QDLnKJC49-ugDMR8Vw?e=T1gvcx).
 
