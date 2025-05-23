@@ -901,64 +901,78 @@ De verschillende variaties werden bijgehouden in een [ontwerpdocument](https://u
 
 ## Bijlagen
 
-Discovery:
+**Discovery:**
 
+Templates:
 - [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Eb2BTOIQYoNPgViz66QgTowBeQ74xHOHPBdTTzjgx27Rkw?e=liArU3)
 - [User_Model](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EeT5JPQhoT9Il87CmLzDUhwBnuIiQGFslfVxvmP2XvJrvA?e=1uhM1b)
 - [Persona](https://ugentbe-my.sharepoint.com/:i:/g/personal/leni_theeten_ugent_be/EUt2wAV_optMj7JuAgD1PeQBA_siCJzXbVXICY0SYjfe7A?e=FWvq5k)
 - [Innovatrix](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdkjVfKgH2pHnB5uVPi7kr8Bnw1xOAUtfrK0q7NPQ2Yigg?e=AvybZz)
 - [Lotusbloem](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdI5ab2WS3JIiJnwhV0hnSYBGzaCBPrGbIVretOMGGWNTA?e=gRJoRW)
 
+Interview:
 - [Protocol_Interview](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ed9Tg9MHxxxLjNeRAD1qHx4BbbeWkM66jpOKRjnQA1RbtA?e=SIPGgp)
 - [Interview_Informed_Consents](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXM5TNVYrNlKmqjKmqB2AT0Bvmq5wapY2ed5hnVDOPwtzg?e=zWSJka)
 - [Rapport_interview](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQBLqqrcJ7dLkSwrPoS_RuEBpcDvh8mPSXsrzcUtsbHcow?e=pgAIRI)
 
+Literatuurstudie:
 - [Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdI5ab2WS3JIiJnwhV0hnSYBGzaCBPrGbIVretOMGGWNTA?e=gRJoRW)
 - [Rapport_1_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ER7Arm1DL6ZNr-xpVFqBKKEBzW85mcIWFiCbIAf0MApIyw?e=Hkb6fh)
 - [Rapport_2_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EV_8_h6YbRJPteX8cHt7UTQBjeDC3finbOSjWyDnyhi3Fw?e=hkQxCV)
 - [Rapport_3_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ea52tnMaCYNIj15GUdl_fIkBq8D-WqmgTdL9ondPxouKDA?e=xMghUE)
 - [Rapport_4_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZto4MPwcfRLnt4anlINZSUBgP6rLm86bkDjeDwdwwIQCg?e=4eJoPx)
 
-Definition:
+**Definition:**
 
+Wave's:
 - [Protocol_Wave_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EbANW511LWNNsGvWQpc5gQIBuqMyODV8aUNs5kjBCZVgUg?e=4GcfeU)
 - [Protocol_Wave_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ERXhIqwXYx1Ltt6LiDt17yIBMhsqn2SXI9TY65UD3ha9fw?e=7xMpm6)
 - [Rapport_Wave_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ER700uWDjqFPoz_dBYzhKfABa-R9iyGG8hRXco3aUhLTSg?e=PIkCmg)
 - [Rapport_Wave_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfLeMs_svWBKkLvKr_yxo0EBOrXDc04VubmYaC-leUteIg?e=fZMTXc)
 - [Informed_Consents](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXZ0kbqbV0tAt5BtcgqJHGkB-bpq4xKJaCrRDLlcnR239Q?e=MTaa26)
 
+Benchmarks:
 - [Protocol_Benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ_UbdvbrxxCpQCTad8GWK8BS1MLvDNTztjk93iY6IWJhg?e=w3q8ek)
 - [Rapport_Benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ebe5ZKRW-7FBnCFcHk-Sb-gBvtW_tWaTy842xuI-NIs6bg?e=QeFaiu)
 
+Stroyboard:
 - [Storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUyYYcLv6xxNjIo-U68ERVwBXmIZ3-MT567TcSU0i7ttcQ?e=n6mNIi)
 
-Develop 1:
+**Develop 1:**
 
+Literatuurstudie:
 - [Protocol_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ES5WRMaQiqNNuu7Dh5JuNHwBzRA2tucVpcTmaLwArX13mg?e=N5sjMj)
 - [Rapport_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ2vHM7v0SxPsu57006gdCEBMrsGV9-CTEMW5ViNKqYYdw?e=iktdrC)
 
+Bevraging:
 - [Protocol_Bevraging](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfemSfONiTRBgJiA3QSlGK4BI2YB-jWXd4va0o2YSx8v3w?e=TGxQHM)
 - [Rapport_Bevraging](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQJyWh0UEaBFnMa6Jah2G1sBgQjOR-V--C7YCmGNLQJkkQ?e=zzcoyR)
 
+Antropometrie:
 - [Rapport_Antropometrie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ6PHRjAGSBPgthQIm_aX_YB0ZPXzBCp-ItvmigKxjB_pQ?e=w8Twew)
 
+Develop:
 - [Protocol_Develop_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EV_IygXPRalPtrS1I5XQesUBwCMJmVDo8U40Bpl5j_BUiw?e=MBaob8)
 - [Rapport_Develop_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaLoDKUjlFZBukDpzQYdyiUB9ZKircovtSIOe9d3dzMy7A?e=ebQk7r)
 
 Develop 2:
 
+Develop:
 - [Protocol_Develop_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EamqfLQobHdItSjWbO3DidEB2z7TDTCNWqYe7Fh_vAhNIQ?e=7oi5rc)
 - [Rapport_Develop_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZh53ftpuitCpU6j7PnYtDMBJEH_pylTLkU87YrIaJVx_A?e=w6XE9O)
 
+Gebruikte methodes:
 - [Nirals_Eye_Trigger](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXUyqudRjgBBushXMzXYtYQBi_VrxR5BBEndkpyd1Zo9zw?e=hDQgdo)
 - [System_Usability_Scale](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYcgEizQVzFHrm3VPIPnzBwBR5Cr3yVQrYctaAgVbSHdvg?e=mq8erk)
 - [Logboek](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EcZ6CCxgOpJEtlvyZ4Q59C4Bh-Ldp7RHhGbKovcYx7OxCQ?e=4nBKUQ)
 
+Antropometrie:
 - [Rapport Antropometrie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ec9Esd6M5CdOirgLoZVe7lQBb4Ckn5KQeGYfeoDUMCPgrA?e=fKSjQD)
 
+Hardware:
 - [Hardware choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfOFYgQVXHlLr8tAMDEF2OQBbchNQzLhaCWmz1phOQ-ggw?e=gpOsFI)
 
-Ingevulde logboeken en SUS (niet allemaal staan online)
+Ingevulde logboeken en SUS (niet allemaal staan online):
 - [SUS_Oma](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaCJKPlC_2JMt7NVlHy85xAB9sk_uChGBVOy5lvwBuXzxA?e=r4mYtW)
 - [Logboek_Oma_Dag_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EcdQ5vvUuFNKqFcJHzASssgB1j7LIfy3lnr3eaIFP33w4A?e=AZgjk4)
 - [Logboek_Oma_Dag_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUGhwqe8011AuPG-7uhCuXQBk86aHsByHnGLUdLq7dcWRA?e=pf6gpC)
@@ -970,14 +984,18 @@ Ingevulde logboeken en SUS (niet allemaal staan online)
 
 Develop 3:
 
+Develop:
 - [Protocol_Develop_3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQWXO2IzpFZBqjPfpNIZC4MB4bdI7EqxyYneEO-qcKHLsQ?e=z0K8Oq)
 - [Rapport_Develop_3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EctJrjE2hWhOkK9FoJ35mxoB4LuyOcXaifnePtCdFwoktg?e=r5Xbmy)
 
+Gebruikte methode:
 - [Self-Assessment_Mannequins](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUmh3NdmKvJLuPXBrOkhPvsBpiDNEyKo3DohPsiBbC7Wlg?e=cCnMW7)
 - [Self-Assessment_Mannequins_Ingevuld](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaxuzW3S7NRErCW7rolVFQIBU2nGmjVR5IU0yjhYWCxc-g?e=7N1A1P)
 
+Hardware:
 - [Hardware_Choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ET1zpptYRHlJgKyQM1qBtJ4BlxcT5_yaMBnSr-xnkRJsfQ?e=03haZt)
 
+Extra:
 - [Video_Studenten](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EVWccGI__-ZJilQPaqF7-awBxodyvuzCGI0e_dsah5rndQ?e=59gGW1)
 - [Businessmodel](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYVH78OmSddFi_5Vz1LwwT4BR4AGI-ZVwyMprqh8G3TjCw?e=IJrGJU)
 - [Ontwerp_Tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ3NpIwATrZGp4_uY1njyJABunV3QDLnKJC49-ugDMR8Vw?e=iwkKta)
