@@ -189,7 +189,7 @@ De testen volgden een methodische aanpak: Leni observeerde en noteerde de natuur
 
 Voor de **eerste test** werd een [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EbANW511LWNNsGvWQpc5gQIBuqMyODV8aUNs5kjBCZVgUg?e=eUACrA) opgesteld en was het doel begrijpen zonder uitleg. Deelnemers speelden het spel intuïtief, gevolgd door de uitleg waarna ze het spel nogmaals speelden. Hierbij werd geobserveerd in welke mate de mat en de projectie van het pianospel duidelijk begrepen werden.[^25][^26]
 
-De **tweede test**[^27][^28] volgde hetzelfde [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ERXhIqwXYx1Ltt6LiDt17yIBMhsqn2SXI9TY65UD3ha9fw?e=Ub3f5c) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.[^27][^28]
+De **tweede test** volgde hetzelfde [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ERXhIqwXYx1Ltt6LiDt17yIBMhsqn2SXI9TY65UD3ha9fw?e=Ub3f5c) en richtte zich op lay-out voorkeuren. Deelnemers testten verschillende matvormen in willekeurige volgorde en beoordeelden deze op comfort en gebruiksvriendelijkheid. Daarnaast werd de leesbaarheid van symbolen en letters op de afgedrukte piano’s geëvalueerd. Tot slot werden de knoppen getest op comfort, zowel met de hand als met de voet.[^27][^28]
 
 ![image](https://github.com/user-attachments/assets/a58d7464-7b49-4c86-aaee-7615686d1629)  ![image](https://github.com/user-attachments/assets/213b946b-3a56-45d0-b929-2008bcab1ad3)
 
