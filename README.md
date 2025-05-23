@@ -194,6 +194,7 @@ De **tweede test**[^27][^28] volgde hetzelfde [protocol](https://ugentbe-my.shar
 ![image](https://github.com/user-attachments/assets/a58d7464-7b49-4c86-aaee-7615686d1629)  ![image](https://github.com/user-attachments/assets/213b946b-3a56-45d0-b929-2008bcab1ad3)
 
 Er werd een **benchmarking** onderzoek uitgevoerd voor het concept. Hier werd opnieuw [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ_UbdvbrxxCpQCTad8GWK8BS1MLvDNTztjk93iY6IWJhg?e=ml0MdE), rapportering en conclusie toegepast. Er werd telkens gekeken naar de voordelen, nadelen en methode die handig waren, voor wat kon toegepast worden.
+
 [^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24]
 
 ### Resultaten
@@ -209,11 +210,11 @@ In de gebruikerstesten zowel **wave 1** als **wave 2** werden op dezelfde dag af
 | 'Gebruik symbolen & groottes' | Door onvoldoende kleurcontrast waren figuren en symbolen lastig te herkennen. Ouderen gaven aan dat kleurgebruik de zichtbaarheid zou verbeteren. Bij de piano-opstelling werden hoofdletters als duidelijker ervaren, ondanks hun gelijke grootte met andere tekens. | / |
 | 'Knop zacht of hard' | De zachtere knoppen werden verkozen vanwege het hogere comfort, vooral voor mensen met beperkte kracht in handen en voeten. | De uitstekende harde knoppen werden als een struikelgevaar ervaren, vooral door ouderen met een verminderde stabiliteit. |
 
-[rapport wave 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ER700uWDjqFPoz_dBYzhKfABa-R9iyGG8hRXco3aUhLTSg?e=Bu4m6D)   [rapport wave 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfLeMs_svWBKkLvKr_yxo0EBOrXDc04VubmYaC-leUteIg?e=bTHZ52)   [informed consents](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXZ0kbqbV0tAt5BtcgqJHGkB-bpq4xKJaCrRDLlcnR239Q?e=R52EGf)
+[Rapport wave 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ER700uWDjqFPoz_dBYzhKfABa-R9iyGG8hRXco3aUhLTSg?e=Bu4m6D)   [Rapport wave 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfLeMs_svWBKkLvKr_yxo0EBOrXDc04VubmYaC-leUteIg?e=bTHZ52)   [Informed consents](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXZ0kbqbV0tAt5BtcgqJHGkB-bpq4xKJaCrRDLlcnR239Q?e=R52EGf)
 
 Er werd een **storyboard** opgesteld om het concept verder te valideren bij de gebruikers. De gebruikers begrepen het storyboard goed, maar gaven direct aan dat ruimtegebrek een aandachtspunt is.
 
-[storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUyYYcLv6xxNjIo-U68ERVwBXmIZ3-MT567TcSU0i7ttcQ?e=Y8BjRY)
+[Storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUyYYcLv6xxNjIo-U68ERVwBXmIZ3-MT567TcSU0i7ttcQ?e=Y8BjRY)
 
 ![image](https://github.com/user-attachments/assets/623310bf-0068-4456-aebd-882eaec7587f)
 
@@ -255,24 +256,26 @@ Eerder werd uitgegaan van mobiele ouderen zonder hulpmiddelen, maar op basis van
 
 ### Doelstellingen
 
-In deze eerste develop fase wordt gestreefd naar een beter gevalideerd concept, zodat er zeker aan het juiste product wordt gewerkt en een oplossing ontstaat die de doelgroep daadwerkelijk zal gebruiken.
+In deze eerste develop fase wordt gestreefd naar een beter gevalideerd concept, zodat er zeker aan het juiste product gewerkt wordt en een oplossing ontstaat die de doelgroep daadwerkelijk zal gebruiken.
 
 Belangrijke aandachtspunten in deze fase:
 -	Onderzoek naar de keuze voor een rechthoekige vorm bij bestaande spelmatten in benchmarks via een literatuurstudie.
 -	Evaluatie of een projector de beste optie is voor het spel, of dat dit te ingewikkeld zou zijn. Alternatieve oplossingen worden bekeken.
 -	Peiling bij de doelgroep om inzicht te krijgen in hun mening over het concept en mogelijke alternatieven.
-  	Onderzoek naar antropometrische gegevens van de doelgroep, zodat de fysieke eigenschappen goed worden verwerkt in het ontwerp.
+-	Onderzoek naar antropometrische gegevens van de doelgroep, zodat de fysieke eigenschappen goed worden verwerkt in het ontwerp.
 -	Uitvoeren van gebruikerstesten om concepten te valideren en nieuwe inzichten te verkrijgen voor verdere ontwikkeling.
 
 ### Materiaal & methoden
 
-Er werd een **literatuuronderzoek** ([protocol](https://ugentbe-my.sharepoint.com/:f:/g/personal/amber_barra_ugent_be/EmlXFazKElZHl0-18dP_LOIBXBfoJwNxMWfIDaCutvVNQA?e=D1DHOj)) uitgevoerd naar waarom spelmatten vaak rechthoekig zijn en niet een andere vorm, zoals een cirkel. Daarnaast werd onderzocht of een projector geschikt is voor het spel, met specifieke aandacht voor de impact van op- en neerwaartse oogbewegingen en de antropometrie van het gezichtsveld.
+Er werd een **literatuuronderzoek** ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ES5WRMaQiqNNuu7Dh5JuNHwBzRA2tucVpcTmaLwArX13mg?e=Wn0OYM)) uitgevoerd naar waarom spelmatten vaak rechthoekig zijn en niet een andere vorm, zoals een cirkel. Daarnaast werd onderzocht of een projector geschikt is voor het spel, met specifieke aandacht voor de impact van op- en neerwaartse oogbewegingen en de antropometrie van het gezichtsveld.
 
-Er werd verder gewerkt aan de validatie van het concept en het verzamelen van meningen over alternatieve ideeën. Omdat eerdere validatie nog onvoldoende was, werd een **bevraging** opgesteld en via **Google Forms** verspreid onder de doelgroep. De enquête bestond uit meerkeuze- en open vragen om zowel kwantitatieve als kwalitatieve inzichten te verkrijgen. Daarnaast werden aanvullende aandachtspunten bevraagd voor het verdere ontwerpproces, met bijbehorend ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Ec1hUPYb7zRDoE2LG7lhJQwBG3r8PADqIow15AuP48VzOw?e=6swvXS)) en rapport.
+Er werd verder gewerkt aan de validatie van het concept en het verzamelen van meningen over alternatieve ideeën. Omdat eerdere validatie nog onvoldoende was, werd een **bevraging** opgesteld en via **Google Forms** verspreid onder de doelgroep. De enquête bestond uit meerkeuze- en open vragen om zowel kwantitatieve als kwalitatieve inzichten te verkrijgen. Daarnaast werden aanvullende aandachtspunten bevraagd voor het verdere ontwerpproces, met bijbehorend ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfemSfONiTRBgJiA3QSlGK4BI2YB-jWXd4va0o2YSx8v3w?e=zGoW9X)) en rapport.
 
-Om het ontwerpproces verder te zetten, werd gezocht naar **antropometrische data** ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERhBBPLdsilCtcZHyxPOscEBoxuF0XTou8eZ1hebcRLUUw?e=PYHdz9)), die later in het design verwerkt kan worden. Deze informatie werd verzameld via DINBelg en andere betrouwbare bronnen. Dit werd in een kleine analyse geplaatst.
+Om het ontwerpproces verder te zetten, werd gezocht naar **[antropometrische data](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ6PHRjAGSBPgthQIm_aX_YB0ZPXzBCp-ItvmigKxjB_pQ?e=X62nye)**, die later in het design verwerkt kan worden. Deze informatie werd verzameld via DINBelg[^29] en andere betrouwbare bronnen. Dit werd in een kleine analyse geplaatst.
 
-Tot slot werden opnieuw **gebruikerstesten** ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EbBdN8cEEBZEnKubPO4GDcIB7URGulgF5_XDvzKcvhPH5g?e=SLeIz9)) uitgevoerd volgens een vooraf opgesteld protocol, met achteraf een rapport. De testen vonden thuis plaats, waarbij observaties, foto’s en video’s werden verzameld voor latere analyse. Het product werd opnieuw gevalideerd via verschillende testen:
+Tot slot werden opnieuw **gebruikerstesten** ([protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EV_IygXPRalPtrS1I5XQesUBwCMJmVDo8U40Bpl5j_BUiw?e=jghw9h)) uitgevoerd volgens een vooraf opgesteld protocol, met achteraf een rapport. De testen vonden thuis plaats, waarbij observaties, foto’s en video’s werden verzameld voor latere analyse. 
+
+Het product werd opnieuw gevalideerd via verschillende testen:
 - Zowel losse als vaste matten werden getest.
 - Twee spelletjes werden uitgeprobeerd.
 - Er werd onderzocht hoe de doelgroep hun evenwicht bewaart en welke ondersteuning zij het meest geschikt vinden.
@@ -283,7 +286,7 @@ Voor de prototypes werden kartonnen (low-fidelity) matten gebruikt, met kleuren 
 
 ### Resultaten
 
-Uit de literatuurstudie ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EfD4RJg_5RNIp21dfLDsmWQBkHR2P1bFz4B0FWIxsNzVIw?e=pR9z7s)) bleek dat veranderingen in het gezichtsveld, zoals de gevoeligheid van S-kegeltjes en de beperking van het bruikbare gezichtsveld, leeftijdsgebonden zijn. Balans is cruciaal voor de veiligheid van ouderen, waarbij staan op twee voeten meer stabiliteit biedt dan op één been, wat meer spiercontrole en snelle reacties vereist. Omdat rechthoekige vormen vaak voorkwamen in benchmarks, werd dit verder onderzocht. Daarnaast toonde een ooganalyse aan dat een afzonderlijke spelprojectie hinderlijk kan zijn, omdat dit snelle reacties en goede oog-beencoördinatie vraagt. 
+Uit de [literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ2vHM7v0SxPsu57006gdCEBMrsGV9-CTEMW5ViNKqYYdw?e=lSJ4XP) bleek dat veranderingen in het gezichtsveld, zoals de gevoeligheid van S-kegeltjes en de beperking van het bruikbare gezichtsveld, leeftijdsgebonden zijn. Balans is cruciaal voor de veiligheid van ouderen, waarbij staan op twee voeten meer stabiliteit biedt dan op één been, wat meer spiercontrole en snelle reacties vereist. Omdat rechthoekige vormen vaak voorkwamen in benchmarks, werd dit verder onderzocht. Daarnaast toonde een ooganalyse aan dat een afzonderlijke spelprojectie hinderlijk kan zijn, omdat dit snelle reacties en goede oog-beencoördinatie vraagt. 
 
 ![image](https://github.com/user-attachments/assets/73aa78c7-ef4b-4e90-b310-acb99273d815) ![image](https://github.com/user-attachments/assets/5c362884-12cf-499c-bc70-d232927d75e9)
 
@@ -296,7 +299,7 @@ Uit de literatuurstudie ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/perso
 > - DR 3.5 De oefenomgeving moet veilige en gecontroleerde omstandigheden bieden.
 > - DR 3.6 De oplossing moet zowel met twee voeten als met een voet speelbaar zijn.
 
-Parallel aan het literatuuronderzoek werden gebruikers bevraagd ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVBC19PzliNBv2nJAG8V2FYBWU75DWE8H5IpxA-M4bC7JQ?e=ADMuIM)). Hieruit bleek dat het pianospel niet voor iedereen duidelijk was, ondanks de voorkeur voor interactieve spellen. Ouderen gaven aan graag met meerdere spelers te willen spelen om sociale interactie te bevorderen. Voor de opstelling werden losse tegels met objecten in huis als houvast verkozen. Omdat muziek een belangrijk element is, werden muziekvoorkeuren bevraagd. Ouderen gaven de voorkeur aan klassieke en soms Franse muziek. Bij een memorie-spel met muziek vonden velen het een goed idee om de muziek met bijbehorende tekst af te spelen.
+Parallel aan het literatuuronderzoek werden gebruikers [bevraagd](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQJyWh0UEaBFnMa6Jah2G1sBgQjOR-V--C7YCmGNLQJkkQ?e=xMBZLp). Hieruit bleek dat het pianospel niet voor iedereen duidelijk was, ondanks de voorkeur voor interactieve spellen. Ouderen gaven aan graag met meerdere spelers te willen spelen om sociale interactie te bevorderen. Voor de opstelling werden losse tegels met objecten in huis als houvast verkozen. Omdat muziek een belangrijk element is, werden muziekvoorkeuren bevraagd. Ouderen gaven de voorkeur aan klassieke en soms Franse muziek. Bij een memorie-spel met muziek vonden velen het een goed idee om de muziek met bijbehorende tekst af te spelen.
 
 > [!IMPORTANT]
 > Design requirements:
@@ -305,7 +308,7 @@ Parallel aan het literatuuronderzoek werden gebruikers bevraagd ([rapport](https
 > - DR 3.9 Muziek met tekst moet geïntegreerd zijn in de oplossing.
 > - DR 3.10 Bij langdurig gebruik mogen geen frustraties naar boven komen.
 
-Op basis van deze inzichten werden gebruikerstesten uitgevoerd ([rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EY-EuLq6HiFLntbR0UOzbjcBp-6xQOo4F3TqE37nIXbfDA?e=mqJhR4)). Zoals in de bevraging werd bevestigd dat een vaste tegelopstelling minder praktisch was vanwege de beperkte bewegingsvrijheid. Tijdens het spelen grepen de gebruikers intuïtief naar een tafel of een lage stoelleuning als steunpunt, maar dit werd niet als noodzakelijk ervaren.
+Op basis van deze inzichten werden [gebruikerstesten](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaLoDKUjlFZBukDpzQYdyiUB9ZKircovtSIOe9d3dzMy7A?e=OO59oD) uitgevoerd. Zoals in de bevraging werd bevestigd dat een vaste tegelopstelling minder praktisch was vanwege de beperkte bewegingsvrijheid. Tijdens het spelen grepen de gebruikers intuïtief naar een tafel of een lage stoelleuning als steunpunt, maar dit werd niet als noodzakelijk ervaren.
 
 ![image](https://github.com/user-attachments/assets/b0ddf925-ee63-4acb-842a-8df5783fc248)
 
@@ -342,7 +345,7 @@ In een volgende fase zal verder gewerkt worden aan de ideale spelduur en het gar
 ## Development 2 (N = 6)
 
 ### Doelstellingen
-Het doel van de 2e ontwikkelfase is een elektronica-gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het protocol ([protocol development 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/Protcol_Develop_2.docx?d=w7a63eda598a3493baf7f74cf83195043&csf=1&web=1&e=812wJg)), deze zijn:
+Het doel van de tweede ontwikkelfase is een elektronica-gestuurd prototype meegeven met de gebruikers. Dit om feedback te verzamelen over het spel Active Harmony, gericht op gezond ouder worden. De belangrijkste doelstellingen zijn te vinden in het [protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EamqfLQobHdItSjWbO3DidEB2z7TDTCNWqYe7Fh_vAhNIQ?e=pXNTqs), deze zijn:
 -	Gebruiksvriendelijkheid evalueren: nagaan of het spel duidelijk en eenvoudig te gebruiken is voor gezonde ouderen, zonder externe hulp na een eerste introductie.
 -	Feedbacksystemen beoordelen: onderzoeken of de feedback die gebruikers krijgen tijdens het spel (zowel positief als bij fouten) voldoende en correct is. En nagaan welke vormen van feedback mogelijk ontbreken.
 -	Realistische gebruikerservaring vastleggen: begrijpen hoe het spel wordt gespeeld in een natuurlijke leefomgeving van de doelgroep over meerdere dagen.
@@ -362,26 +365,30 @@ Vooraleer de gebruikers effectief met het spel aan de slag gingen, is een **blac
 
 ![image](https://github.com/user-attachments/assets/6533327a-e29d-446d-b217-02f187a46549)
 
-Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen in 1 groot bestand te plaatsen. Als laatste is er een optimalisatie in de Python-logica gebeurd om een duidelijk overzicht te verkrijgen in de stappen. 
+Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen in één groot bestand te plaatsen. Als laatste is er een optimalisatie in de Python-logica gebeurd om een duidelijk overzicht te verkrijgen in de stappen. 
 
 ![image](https://github.com/user-attachments/assets/edbe5ea7-2764-4274-baec-e31820c7c796)
 
 Voorafgaand aan de **gebruikerstesten** werd het spel virtueel uitgevoerd door simulaties. De Arduino’s worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld). Hierbij werden de denkpatronen van de ouderen nagebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd. Bij de map [Data](./Data)  zijn de gebruikte codebestanden terug te vinden.
 
-Op basis van *Nirals Eye* werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5) van de gebruiker vastgelegd, met als doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment dat vaak op de radio wordt gespeeld associëren met ons spel. 
+Op basis van *Nirals Eye* werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXUyqudRjgBBushXMzXYtYQBi_VrxR5BBEndkpyd1Zo9zw?e=AVMr2c) van de gebruiker vastgelegd, met als doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment dat vaak op de radio wordt gespeeld associëren met ons spel. 
 
 Pas nadat het prototype voldoende stabiel en logisch opgebouwd was, startten de gebruikerstesten met de ouderen. Hierbij werden zes, 65-plussers in hun woonomgeving gekozen om het prototype gedurende 3 dagen te testen. Alle testen werden uitgevoerd in de periode van 06-04-2025 tot 20-04-2025.
 
 Bij de voorbereiding werd het **informed consent** ondertekend. 
+
 Dag 1 staat in het teken van start en observatie. De gebruiker speelt het spel voor het eerst onder toezicht van de observator en testleider. Door het gebruik van Wizard-of-Oz-methode, wordt het spel manueel opgestart via Python, gelinkt aan de activering van de powerbank door de gebruiker.
+
 Dag 2 bood de deelnemers de vrijheid om het spel zelfstandig te gebruiken in hun eigen omgeving.
+
 Dag 3 werd opnieuw begeleid door testleider en observator, waarbij belangrijke veranderingen werden genoteerd. 
-Elke dag vulden de gebruikers een [logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6) in dat verschillende aspecten van het spel bevragen. Op de laatste dag werd de System Usability Scale ook ingevuld ([SUS](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EeoH8CZmnLhMgiC3C3AzJtABEacxWBImbtrPJ_n8sL6-RQ?e=fLgI5q)).
+
+Elke dag vulden de gebruikers een **[logboek](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EcZ6CCxgOpJEtlvyZ4Q59C4Bh-Ldp7RHhGbKovcYx7OxCQ?e=0Hdbcm)** in dat verschillende aspecten van het spel bevragen. Op de laatste dag werd de **[System Usability Scale](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYcgEizQVzFHrm3VPIPnzBwBR5Cr3yVQrYctaAgVbSHdvg?e=nYVDGw)**(SUS)[^43] ook ingevuld.
 
 ![image](https://github.com/user-attachments/assets/07231d98-0818-4962-bcef-c458ec0b6bc6)
 
-Na afloop van de gebruikerstesten werd **variety prototyping** toegepast om het grootste probleem, namelijk de lichtsensor, te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD-model ontworpen, waarbij rekening werd gehouden met de [antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ESMYJ2hMMlpNjmPszoZSaYsBGAYIlG5Dg3-M26ssu1h2lw?e=acZaUG). 
-De technische schakeling van elke oplossing is gedocumenteerd in het hardwareprotocol ([protocol hardware](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=heA9mc)).  
+Na afloop van de gebruikerstesten werd **variety prototyping** toegepast om het grootste probleem, namelijk de lichtsensor, te gaan verbeteren. In deze fase werden verschillende alternatieven ontwikkeld. Voor elk van de oplossingen is een specifiek CAD-model ontworpen, waarbij rekening werd gehouden met de [antropometrie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ec9Esd6M5CdOirgLoZVe7lQBb4Ckn5KQeGYfeoDUMCPgrA?e=1Brcy8) van de tegels. 
+De technische schakeling van elke oplossing is gedocumenteerd in het hardwareprotocol.  
 
 ![image](https://github.com/user-attachments/assets/0588508f-c848-4d59-8326-61dee37b6268)
 
@@ -405,7 +412,7 @@ Het eerste onderwerp is hoe de gebruikers het vrije gebruik van het prototype er
 
 ![image](https://github.com/user-attachments/assets/5e288b73-1024-40b2-9a42-2cd78ba6ce36)
 
-Hierbij is te zien dat ze bijna allemaal bij de laatste dag het spel driemaal speelden. Er werd vastgesteld dat het kwam doordat ze het spel beter begrepen. Maar ook omdat ze het spel enthousiast meespeelden.
+Hierbij is te zien dat ze bijna allemaal bij de laatste dag het spel driemaal speelden. Er werd vastgesteld dat dit kwam doordat ze het spel beter begrepen. Maar ook omdat ze het spel enthousiast meespeelden.
 
 Het tweede onderwerp was hun motivatie en spelmoment. Dit waren de ervaringen:
 - De ouderen waren zeer flexibel tijdens gebruik. Zeer gemotiveerd.
@@ -449,9 +456,7 @@ Daarnaast werden nog een paar open vragen gesteld, en kwamen de volgende tips na
 
 Uit de **System Usabilty Scale**-vragen, werd een score opgesteld van wat de mensen van het product vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
 
-([rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Eb14NZj02RpJueEuV5QmxaYB_O-dqX9yAyYtQIq0YhjybQ?e=pGeihz))
-
-([resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5))
+[Rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZh53ftpuitCpU6j7PnYtDMBJEH_pylTLkU87YrIaJVx_A?e=t309vA)  [Resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5))
 
 ![image](https://github.com/user-attachments/assets/1942d9a5-d578-4271-bdcf-da37fffb3767)
 
@@ -469,11 +474,11 @@ Verder werd er ook gekeken naar een ideale opstelling van de tegels, dit verder 
 
 ![image](https://github.com/user-attachments/assets/a9b3d41b-d9b9-426b-aae0-d4b25127e534)
 
-Op het ontwerp en sensoren van onze tegels werd verder gezocht **(Hardware choices)**. De tegel werd veranderd naar een tegel die uit twee lagen bestaat, zodat de Arduino-onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken of er antislip op de tegel kan worden gevoegd. [(hardware choices)](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=v9yM0U)
+Op het ontwerp en sensoren van onze tegels werd verder gezocht in de **[hardware choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfOFYgQVXHlLr8tAMDEF2OQBbchNQzLhaCWmz1phOQ-ggw?e=wr8eEv)**. De tegel werd veranderd naar een tegel die uit twee lagen bestaat, zodat de Arduino-onderdelen niet kunnen worden beschadigd, verder wordt ook gekeken of er antislip op de tegel kan worden gevoegd. 
 
 ![image](https://github.com/user-attachments/assets/e229a57b-f824-4d6d-9b75-ee1dcd34ecab)  ![image](https://github.com/user-attachments/assets/4de3d5d8-d1b9-4c65-942f-2f5da5517111)
 
-Verder worden ook de opties voor sensoren bekeken en welk ontwerp van doosje hierbij het best past. Er wordt aan **variety prototyping** gedaan van de doosjes en ze worden getest per sensor. 
+De opties voor de sensoren worden bekeken, en welk ontwerp van doosje hierbij het best past. Er wordt aan **variety prototyping** gedaan van de doosjes en testen per sensor. 
 
 ![image](https://github.com/user-attachments/assets/127049a3-4028-447a-aa35-a99e63d9ce8b)  ![image](https://github.com/user-attachments/assets/7649a8b4-1147-4299-933a-0c73e417f793)  ![image](https://github.com/user-attachments/assets/0cb60aaf-bea3-4e63-9226-86a96aa5f2c2)  ![image](https://github.com/user-attachments/assets/a054be57-1d79-4b53-a9cd-3c9421d30361)
     
@@ -500,7 +505,7 @@ In de laatste testfase ligt de nadruk op gebruiksvriendelijkheid, validatie en d
 
 ### Materiaal & methoden
 
-Voor deze testen trokken we met het verbeterde prototype naar 4 gezonde 65-plussers in hun eigen woonomgeving. Zodanig in een vertrouwde context, de interactie met het product wordt geobserveerd. De testronde focust op 3 elementen: de optimale sensor voor de tegels, visuele en functionele beoordeling van het controle- en opbergstation en een eindvalidatie van het spel in zijn geheel. 
+Voor deze testen trokken werd gegaan met een verbeterde prototype naar vier gezonde 65-plussers in hun eigen woonomgeving. In vertrouwde context, zodat de interactie met het product kan worden geobserveerd. De testronde focust op drie elementen: de optimale sensor voor de tegels, visuele en functionele beoordeling van het controle- en opbergstation en een eindvalidatie van het spel in zijn geheel. 
 
 Allereerst een verkennende hardwaretest. Gebruikers gaven in de vorige test aan dat de lichtsensor niet optimaal functioneerde; daarom kregen ze dit keer verschillende tegelprototypes met elk een andere knop. We vroegen hen om hun favoriete knop te kiezen; de beoordeling gebeurde door een voorkeursranking.  
 
@@ -508,10 +513,11 @@ Vervolgens schakelden we over naar het station. De gebruikers kregen een reeks s
 
 Tot slot lieten we de gebruikers het volledige spel spelen met hun gekozen knop. Tijdens het spel vroegen we, ter evaluatie van het finale product, om luidop te benoemen wat ze zagen en dachten. De algemene tevredenheid van Active Harmony werd gemeten met behulp van **Self-Assessment Mannequins**, waarbij ouderen het mannetje kozen dat het best hun gevoel weerspiegelde. 
 
+[Protocol_develop](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQWXO2IzpFZBqjPfpNIZC4MB4bdI7EqxyYneEO-qcKHLsQ?e=gl5yzv)
 
 ### Resultaten
 
-Alle observaties, scores en opmerkingen werden vastgelegd in het rapport ([rapport development 3](https://ugentbe-my.sharepoint.com/:w:/r/personal/amber_barra_ugent_be/Documents/SEM%204/Project%20Gebruiksgericht%20Ontwerp/Development%203%20-%20Rapport.docx?d=w897a453e12244f3387e9acf8304f88ad&csf=1&web=1&e=zsPiDr)).
+Alle observaties, scores en opmerkingen werden vastgelegd in het [rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EctJrjE2hWhOkK9FoJ35mxoB4LuyOcXaifnePtCdFwoktg?e=TSLeeg).
 
 **Sensoren:**
 
@@ -605,13 +611,15 @@ _“’k zou wel nog eens willen spelen.”_
 
 Door de ondervraagde criteria is ook duidelijk dat; ‘leuk’, ‘aangenaam’ en ‘amuserend’ zeer goed score. Voor ‘belonen’, ‘motiveren’ en ‘nuttig’ zijn er nog verbeterpunten. Het spel kan actiever worden gemaakt om het fysieke en cognitieve effect te versterken. Toepassing in een kinesistenpraktijk en het stimuleren van uitdaging tussen spelers kunnen het nut en de motivatie verhogen.
 
-Ook werd gevraagd voor de **Self-Assessment Mannequins** aan te duiden, zodat er een beter beeld kan geschets worden van hun gevoel.
+Ook werd gevraagd voor de **[Self-Assessment Mannequins](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUmh3NdmKvJLuPXBrOkhPvsBpiDNEyKo3DohPsiBbC7Wlg?e=djg9wg)** aan te duiden, zodat er een beter beeld kan geschets worden van hun gevoel.
 
 |Criteria|Persoon 1|Persoon 2|Persoon 3|Persoon 4|
 |---|---|---|---|---|
 |Verdrietig ---------------- Vrolijk| 5 | 5 | 4 | 4 |
 |Rustig -------------------- Actief| 4 | 3 | 1 | 3|
 |Afhankelijk ---- Onafhankelijk| 3 | 5 | 3 | 3 |
+
+[Self-Assessment Mannequins ingevuld](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaxuzW3S7NRErCW7rolVFQIBU2nGmjVR5IU0yjhYWCxc-g?e=KMl4S9)
 
 ![image](https://github.com/user-attachments/assets/56b51f8c-93a9-430a-9575-9ed3009f658e)  ![image](https://github.com/user-attachments/assets/8fea6910-f38c-44d1-a0ae-e5dc8e6fcc16)  ![image](https://github.com/user-attachments/assets/ba5d260d-7c96-4752-95de-ba507d4909a6)  ![image](https://github.com/user-attachments/assets/678adc61-37d4-46a9-acf4-1663f6e7d855)
 
@@ -649,7 +657,7 @@ Tot slot werd gevraagd welk materiaal zij voor het product zouden kiezen, met de
 Als resultaat gaven de meeste deelnemers kunststof (PP en PE) en siliconen (anti-slip) aan.
 
 **Hardware choices:**
-Er werd verder gewerkt op de [Hardware choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EcFJ2etrMgpIlNFl2ftn_6ABFTwz4HOpnhO2gToy7cThMg?e=DPyLck) van Development 2, waarbij de implicaties en feedback van de gebruikers zijn verwerkt.
+Er werd verder gewerkt op de [hardware choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ET1zpptYRHlJgKyQM1qBtJ4BlxcT5_yaMBnSr-xnkRJsfQ?e=freFly) van Development 2, waarbij de implicaties en feedback van de gebruikers zijn verwerkt.
 
 Dit zij de keuze:
 - Seeed studio model XIAO + aanvullend WiFi-module + LiPo batterij
@@ -670,9 +678,7 @@ Voor de materialen en uitstraling werd ook een eigen moodboard opgesteld.
 
 Kleine opmerking: De cirkel in het midden van de tegel is voor anti-slip en zorgt voor het licht van de LED-ring.
 
-![Render 12](https://github.com/user-attachments/assets/36c67a11-fc30-49a6-9951-1bd9e709a83c)  ![Render 14](https://github.com/user-attachments/assets/0653c9d0-96c6-4cbf-8cdb-13884e4941e2)  ![Render 15](https://github.com/user-attachments/assets/7ac7fe59-5395-4bde-9980-9386c28f2606)
-
-![Render 7](https://github.com/user-attachments/assets/d0be6f84-418e-407b-a905-ccf244bc756c)  ![Render 4](https://github.com/user-attachments/assets/dbb8a9b2-916a-48c6-981d-fc91ab01cab0)  ![Render 17](https://github.com/user-attachments/assets/61870aa3-20b5-45dc-ba46-710964e2a3ed)
+![Render 12](https://github.com/user-attachments/assets/36c67a11-fc30-49a6-9951-1bd9e709a83c)  ![Render 14](https://github.com/user-attachments/assets/0653c9d0-96c6-4cbf-8cdb-13884e4941e2)  ![Render 15](https://github.com/user-attachments/assets/7ac7fe59-5395-4bde-9980-9386c28f2606) ![Render 7](https://github.com/user-attachments/assets/d0be6f84-418e-407b-a905-ccf244bc756c)  ![Render 4](https://github.com/user-attachments/assets/dbb8a9b2-916a-48c6-981d-fc91ab01cab0)  ![Render 17](https://github.com/user-attachments/assets/61870aa3-20b5-45dc-ba46-710964e2a3ed)
 
 ### Conclusies & implicaties
 
@@ -693,7 +699,7 @@ Kunststof in combinatie met rubberachtige materialen wordt door gebruikers als h
 
 Het product voldoet goed aan de behoeften van de doelgroep, met duidelijke richtlijnen voor verdere ontwikkeling. Snelle en duidelijke feedback is essentieel. Het spel heeft potentie als leuk en gebruiksvriendelijk middel, maar moet technisch (arduino wifi-module) stabieler zijn. Het opbergstation werd compact, veilig en modern gevonden met prettige materiaallook. Deze inzichten vergroten de kans op een succesvolle verkoop en een langdurig gebruik. 
 
- Er is een beknopt businessmodel ([businessmodel Active Harmony](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/Businessmodel%20Active%20Harmony.docx?d=wf58087a61302436184ae68dcdf049b7b&csf=1&web=1&e=putJGU)) opgesteld met ideeën over de verkoopstrategie en de betrokken stakeholders bij de productie ... 
+ Er is een beknopt [businessmodel](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYVH78OmSddFi_5Vz1LwwT4BR4AGI-ZVwyMprqh8G3TjCw?e=SSUo5c) opgesteld met ideeën over de verkoopstrategie en de betrokken stakeholders bij de productie ... 
 
 ## Design requirements
 
@@ -814,10 +820,15 @@ Definition:
 - Papier
 - Karton
 - Yoga ballon materiaal
-- Zachte vulling
+- Zachte veren
+- Velcro
+- Balpen
+- Hout
+- Plakband
 
 Develop 1:
 - Karton
+- Stiften
 
 Develop 2:
 - 3D-print PLA
@@ -827,6 +838,7 @@ Develop 2:
 - 4x Lichtsensor
 - Elektronische geleiders
 - 4x Powerbank
+- Computer
 
 Develop 3:
 - Hout
@@ -840,6 +852,7 @@ Develop 3:
 - 4x Drukknop
 - Elektronische geleiders
 - 4x Powerbank
+- Computer
 
 **Final Bill of Materials:**
 
@@ -883,70 +896,91 @@ De tegels werden opgebouwd uit hout en lijm. De basis en schuine zijden werden g
 
 ![image](https://github.com/user-attachments/assets/a48dccd7-95de-40ca-b344-1b75d828770f)  ![image](https://github.com/user-attachments/assets/f2849c10-5167-49e4-bf21-1b800a2aee5e)   ![image](https://github.com/user-attachments/assets/1e1f14fa-c031-47d2-a433-1e30b495ef13)
 
-De verschillende variaties werden bijgehouden in een [ontwerpdocument](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EXrY1de04I1BsoMVRV-_7_cBATncOythYGbqQexk1Xapyg?e=UeQlNT).
+De verschillende variaties werden bijgehouden in een [ontwerpdocument](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ3NpIwATrZGp4_uY1njyJABunV3QDLnKJC49-ugDMR8Vw?e=T1gvcx).
 
 
 ## Bijlagen
 
-Templates: 
--	[WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/WWWWH-Model_template.pdf?csf=1&web=1&e=xSfze4)
--	[User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB)
--	[Persona](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB)
--	[Innovatrix](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/INNOVATRIX_template.pdf?csf=1&web=1&e=6s3CBK)
--	[LOTUS](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/LOTUS_BLOEM_template.pdf?csf=1&web=1&e=3lhmXI)
+Discovery:
 
-Literatuurstudie:
--	[Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)
--	[Research1](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research1_Rapport.pdf?csf=1&web=1&e=HAiX50)
- 	[Research2](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research2_Rapport.pdf?csf=1&web=1&e=1YDNdJ)
- 	[Research3](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research3_Rapport.pdf?csf=1&web=1&e=K6hXtP)
- 	[Research4](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Research4_Rapport.pdf?csf=1&web=1&e=KMOxsK)
+- [WWWWH-model](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Eb2BTOIQYoNPgViz66QgTowBeQ74xHOHPBdTTzjgx27Rkw?e=liArU3)
+- [User_Model](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EeT5JPQhoT9Il87CmLzDUhwBnuIiQGFslfVxvmP2XvJrvA?e=1uhM1b)
+- [Persona](https://ugentbe-my.sharepoint.com/:i:/g/personal/leni_theeten_ugent_be/EUt2wAV_optMj7JuAgD1PeQBA_siCJzXbVXICY0SYjfe7A?e=FWvq5k)
+- [Innovatrix](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdkjVfKgH2pHnB5uVPi7kr8Bnw1xOAUtfrK0q7NPQ2Yigg?e=AvybZz)
+- [Lotusbloem](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdI5ab2WS3JIiJnwhV0hnSYBGzaCBPrGbIVretOMGGWNTA?e=gRJoRW)
 
-Intervieuws:
--	[Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)
--	[Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun)
--	[Interview_rapport](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_Rapport.pdf?csf=1&web=1&e=gxyd6T)
-  
-Wave's:
--	[Protocol wave 1](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%201.docx?d=w4fbdd3e3fa8a45bcbff89271c83040fa&csf=1&web=1&e=LtEHxa)
--	[Protocol wave 2](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/protocol%20wave%202.docx?d=w30acc4d1e33b4e1794ab93a6d682908e&csf=1&web=1&e=5nlO7y)
--	[Informed consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/pdf%20informed%20consent%20wave%201%20en%202.pdf?csf=1&web=1&e=dfrrTi)
-- [Rapport wave 1](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERRFWS9-bCxKi_x_W7haszcBp11-S-wy_OMZbQtCtLh6Lg?e=spmyJ9)
-- [Rapport wave 2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Edp2z4fMv7RIjM0WtIWSaRcBYyjB8X5Bx9Ilxk6zJUd_Wg?e=Rhwbat)
+- [Protocol_Interview](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ed9Tg9MHxxxLjNeRAD1qHx4BbbeWkM66jpOKRjnQA1RbtA?e=SIPGgp)
+- [Interview_Informed_Consents](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXM5TNVYrNlKmqjKmqB2AT0Bvmq5wapY2ed5hnVDOPwtzg?e=zWSJka)
+- [Rapport_interview](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQBLqqrcJ7dLkSwrPoS_RuEBpcDvh8mPSXsrzcUtsbHcow?e=pgAIRI)
 
-Benchmarks:
--	[Benchmark_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=3QebM1)
--	[Benchmark_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EYvpPN4uwVRPkGC8mx5ZwMgBJAUoeWsQrEaWL9P0vtxejg?e=5866hT)
+- [Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdI5ab2WS3JIiJnwhV0hnSYBGzaCBPrGbIVretOMGGWNTA?e=gRJoRW)
+- [Rapport_1_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ER7Arm1DL6ZNr-xpVFqBKKEBzW85mcIWFiCbIAf0MApIyw?e=Hkb6fh)
+- [Rapport_2_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EV_8_h6YbRJPteX8cHt7UTQBjeDC3finbOSjWyDnyhi3Fw?e=hkQxCV)
+- [Rapport_3_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ea52tnMaCYNIj15GUdl_fIkBq8D-WqmgTdL9ondPxouKDA?e=xMghUE)
+- [Rapport_4_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZto4MPwcfRLnt4anlINZSUBgP6rLm86bkDjeDwdwwIQCg?e=4eJoPx)
 
-- [storyboard](https://ugentbe-my.sharepoint.com/:b:/r/personal/leni_theeten_ugent_be/Documents/Chatbestanden%20van%20Microsoft%20Teams/Storyboard.pdf?csf=1&web=1&e=mZUAqK)
+Definition:
+
+- [Protocol_Wave_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EbANW511LWNNsGvWQpc5gQIBuqMyODV8aUNs5kjBCZVgUg?e=4GcfeU)
+- [Protocol_Wave_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ERXhIqwXYx1Ltt6LiDt17yIBMhsqn2SXI9TY65UD3ha9fw?e=7xMpm6)
+- [Rapport_Wave_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ER700uWDjqFPoz_dBYzhKfABa-R9iyGG8hRXco3aUhLTSg?e=PIkCmg)
+- [Rapport_Wave_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfLeMs_svWBKkLvKr_yxo0EBOrXDc04VubmYaC-leUteIg?e=fZMTXc)
+- [Informed_Consents](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXZ0kbqbV0tAt5BtcgqJHGkB-bpq4xKJaCrRDLlcnR239Q?e=MTaa26)
+
+- [Protocol_Benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ_UbdvbrxxCpQCTad8GWK8BS1MLvDNTztjk93iY6IWJhg?e=w3q8ek)
+- [Rapport_Benchmarks](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ebe5ZKRW-7FBnCFcHk-Sb-gBvtW_tWaTy842xuI-NIs6bg?e=QeFaiu)
+
+- [Storyboard](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUyYYcLv6xxNjIo-U68ERVwBXmIZ3-MT567TcSU0i7ttcQ?e=n6mNIi)
 
 Develop 1:
-- [Literatuuronderzoek 2_protocol](https://ugentbe-my.sharepoint.com/:f:/g/personal/amber_barra_ugent_be/EmlXFazKElZHl0-18dP_LOIBXBfoJwNxMWfIDaCutvVNQA?e=D1DHOj)
-- [Literatuuronderzoek 2_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EfD4RJg_5RNIp21dfLDsmWQBkHR2P1bFz4B0FWIxsNzVIw?e=pR9z7s)
-- [Bevraging_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Ec1hUPYb7zRDoE2LG7lhJQwBG3r8PADqIow15AuP48VzOw?e=6swvXS)
-- [Bevraging_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVBC19PzliNBv2nJAG8V2FYBWU75DWE8H5IpxA-M4bC7JQ?e=ADMuIM)
-- [Antropometrie](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ERhBBPLdsilCtcZHyxPOscEBoxuF0XTou8eZ1hebcRLUUw?e=PYHdz9)
-- [Gebruikerstesten_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EbBdN8cEEBZEnKubPO4GDcIB7URGulgF5_XDvzKcvhPH5g?e=SLeIz9)
-- [Gebruikerstesten_rapport](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EY-EuLq6HiFLntbR0UOzbjcBp-6xQOo4F3TqE37nIXbfDA?e=mqJhR4)
+
+- [Protocol_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ES5WRMaQiqNNuu7Dh5JuNHwBzRA2tucVpcTmaLwArX13mg?e=N5sjMj)
+- [Rapport_Literatuurstudie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ2vHM7v0SxPsu57006gdCEBMrsGV9-CTEMW5ViNKqYYdw?e=iktdrC)
+
+- [Protocol_Bevraging](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfemSfONiTRBgJiA3QSlGK4BI2YB-jWXd4va0o2YSx8v3w?e=TGxQHM)
+- [Rapport_Bevraging](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQJyWh0UEaBFnMa6Jah2G1sBgQjOR-V--C7YCmGNLQJkkQ?e=zzcoyR)
+
+- [Rapport_Antropometrie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ6PHRjAGSBPgthQIm_aX_YB0ZPXzBCp-ItvmigKxjB_pQ?e=w8Twew)
+
+- [Protocol_Develop_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EV_IygXPRalPtrS1I5XQesUBwCMJmVDo8U40Bpl5j_BUiw?e=MBaob8)
+- [Rapport_Develop_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaLoDKUjlFZBukDpzQYdyiUB9ZKircovtSIOe9d3dzMy7A?e=ebQk7r)
 
 Develop 2:
-- [Triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5)
-- [Protocol_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EZ6zjfJua19Dk-QrMcrUoOMBwK6GUJZ0xblBtL6yCgC69w?e=1GbkXL)
-- [Logboek](https://ugentbe-my.sharepoint.com/:w:/r/personal/leni_theeten_ugent_be/Documents/Documenten/school/2IO/semester%202/project%20gebruiksgericht%20ontwerp/develop%202/logboek%20Develop%20Active%20Harmony%2001.docx?d=w8342728f28d64c8da7eb5ff659dd99a2&csf=1&web=1&e=43kQe6)
-- ([SUS](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EeoH8CZmnLhMgiC3C3AzJtABEacxWBImbtrPJ_n8sL6-RQ?e=fLgI5q))
-- [Antropometrie van de tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/ESMYJ2hMMlpNjmPszoZSaYsBGAYIlG5Dg3-M26ssu1h2lw?e=acZaUG)
-- [Protocol hardware](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EdtkzoFRTElEsCf0hhFcKSAB4dDqeZT6St2cVy-2HYfF6w?e=heA9mc)
-- [Rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/Eb14NZj02RpJueEuV5QmxaYB_O-dqX9yAyYtQIq0YhjybQ?e=pGeihz)
-- [Resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5)
-- [Ideale_ opstelling](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EVkTDc4jgJRFsCTWRzuXZmYB8Z7jepzxL4B9as2lDhtyWA?e=vVSqGP)
-- Document oma's en opa's
 
-Develop 2:
-- [Protocol_develop3]
-- [Rapport_develop3]
-- [Hardware_choices]
-- [Ontwerp_tegels]
-- [Self-assesment_mannequins]
+- [Protocol_Develop_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EamqfLQobHdItSjWbO3DidEB2z7TDTCNWqYe7Fh_vAhNIQ?e=7oi5rc)
+- [Rapport_Develop_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZh53ftpuitCpU6j7PnYtDMBJEH_pylTLkU87YrIaJVx_A?e=w6XE9O)
+
+- [Nirals_Eye_Trigger](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXUyqudRjgBBushXMzXYtYQBi_VrxR5BBEndkpyd1Zo9zw?e=hDQgdo)
+- [System_Usability_Scale](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYcgEizQVzFHrm3VPIPnzBwBR5Cr3yVQrYctaAgVbSHdvg?e=mq8erk)
+- [Logboek](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EcZ6CCxgOpJEtlvyZ4Q59C4Bh-Ldp7RHhGbKovcYx7OxCQ?e=4nBKUQ)
+
+- [Rapport Antropometrie](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ec9Esd6M5CdOirgLoZVe7lQBb4Ckn5KQeGYfeoDUMCPgrA?e=fKSjQD)
+
+- [Hardware choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EfOFYgQVXHlLr8tAMDEF2OQBbchNQzLhaCWmz1phOQ-ggw?e=gpOsFI)
+
+Ingevulde logboeken en SUS (niet allemaal staan online)
+- [SUS_Oma](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaCJKPlC_2JMt7NVlHy85xAB9sk_uChGBVOy5lvwBuXzxA?e=r4mYtW)
+- [Logboek_Oma_Dag_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EcdQ5vvUuFNKqFcJHzASssgB1j7LIfy3lnr3eaIFP33w4A?e=AZgjk4)
+- [Logboek_Oma_Dag_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUGhwqe8011AuPG-7uhCuXQBk86aHsByHnGLUdLq7dcWRA?e=pf6gpC)
+- [Logboek_Oma_Dag_3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYa_ddyw__pGgm_rJmMuOG4Bu0_CCdsYNsgb5Jb2EU6YqQ?e=YTguyn)
+- [Logboek_Opa_Dag_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUgQ1TY7eZ9OkSF8mYZd7IoB5hrPQxk2bISYit9mYxVJ-A?e=QVTCVd)
+- [Logboek_Opa_Dag_2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdP_AryHtqxOqydgulOsYxMBseA_0YHL7fiuEH8726qm9Q?e=RqLdrN)
+- [Logboek_Opa_Dag_3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ERslKgd5XCZGux5H1_pXz-oBFeT2e5iD6px4kNijRhnnxA?e=dfFsUr)
+- [Logboek_Pascal_Dag_1](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUnijR0e5q5Frz81fW0hWWYBDaE0sINGzj2zKz2tUo1NkQ?e=UMOL8H)
+
+Develop 3:
+
+- [Protocol_Develop_3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EQWXO2IzpFZBqjPfpNIZC4MB4bdI7EqxyYneEO-qcKHLsQ?e=z0K8Oq)
+- [Rapport_Develop_3](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EctJrjE2hWhOkK9FoJ35mxoB4LuyOcXaifnePtCdFwoktg?e=r5Xbmy)
+
+- [Self-Assessment_Mannequins](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EUmh3NdmKvJLuPXBrOkhPvsBpiDNEyKo3DohPsiBbC7Wlg?e=cCnMW7)
+- [Self-Assessment_Mannequins_Ingevuld](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EaxuzW3S7NRErCW7rolVFQIBU2nGmjVR5IU0yjhYWCxc-g?e=7N1A1P)
+
+- [Hardware_Choices](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/ET1zpptYRHlJgKyQM1qBtJ4BlxcT5_yaMBnSr-xnkRJsfQ?e=03haZt)
+
+- [Video_Studenten](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EVWccGI__-ZJilQPaqF7-awBxodyvuzCGI0e_dsah5rndQ?e=59gGW1)
+- [Businessmodel](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYVH78OmSddFi_5Vz1LwwT4BR4AGI-ZVwyMprqh8G3TjCw?e=IJrGJU)
+- [Ontwerp_Tegels](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZ3NpIwATrZGp4_uY1njyJABunV3QDLnKJC49-ugDMR8Vw?e=iwkKta)
 
 ## Bronnen
 [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43]
