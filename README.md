@@ -25,7 +25,7 @@ Dankzij het modulaire ontwerp kunnen de tegels ook voor andere spelvormen ingeze
 
 In kader van het vak **Project Gebruiksgericht Ontwerp** en toepassing van het vak Gebruiksgericht Ontwerp, werd er de keuze uit drie challenges gegeven, de gekozen challenge voor dit project is Healthy Aging. Startende vanuit een bestaand concept, de Ronnie Gardiner Methode (RGM)[^1], wordt er gevraagd een nieuw concept te ontwikkelen of de RGM in een nieuw jasje te steken. Samengevat is de Ronnie Gardiner Methode een methode om mensen met ziektes zoals parkisons, revalidatie na hersenbloeding, etc… opnieuw in beweging te brengen terwijl er ook cognitieve uitdaging is (RGM Nederland, z.d.) . Het is een vrolijke, gestructureerde, multi-sensorische oefenmethode voor de hersenen, waarbij ritme en muziek worden ingezet om motoriek, spraak en cognitie te stimuleren. Dit zorgt ervoor dat mensen opnieuw mentaal fit worden. Het kan zowel alleen als in groep worden uitgevoerd.
 
-De grote uitdaging bij dit project is 65-plussers mentaal en fysiek bevorderd worden. De **smart product design** zorgt dat de interactie tussen gebruiker en het product moeiteloos verloopt. Het uiteindelijke concept zal zowel digitale als fysieke componenten bevatten. De mentale fitheid van ouderen kan worden beïnvloed door het actief zijn en het sociaal contact met anderen, dit kan een invloed hebben op het ontwerpen voor een enkel individu of een concept voor in groep.
+De grote uitdaging bij dit project is 65-plussers mentaal en fysiek bevorderen. De **smart product design** zorgt dat de interactie tussen gebruiker en het product moeiteloos verloopt. Het uiteindelijke concept zal zowel digitale als fysieke componenten bevatten. De mentale fitheid van ouderen kan worden beïnvloed door het actief zijn en het sociaal contact met anderen, dit kan een invloed hebben op het ontwerpen voor een enkel individu of een concept voor in groep.
   
 Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 -	Veiligheid: De bewegingen mogen de fysieke mogelijkheden van de deelnemers niet overstijgen.
@@ -39,7 +39,7 @@ Randvoorwaarden voor een effectieve Ronnie Gardiner Methode:
 ![Methodologie_double_diamond](https://github.com/user-attachments/assets/55b4af1c-f183-42d0-a7af-c83b90110e76)
 
 
-Het ontwerpproces werd gestructureerd aan de hand van het **Double Diamond-model**, met focus op gebruiksvriendelijkheid, veiligheid en effectiviteit voor ouderen. Elke fase werd onderbouwd met methoden en testen die bijdragen aan een gebruiksgericht en iteratief ontwerp, telkens werder **design requirements** bijgehouden.
+Het ontwerpproces werd gestructureerd aan de hand van het **Double Diamond-model**, met focus op gebruiksvriendelijkheid, veiligheid en effectiviteit voor ouderen. Elke fase werd onderbouwd met methoden en testen die bijdragen aan een gebruiksgericht en iteratief ontwerp, telkens werden de **design requirements** bijgehouden.
 
 **Discover – Probleemverkenning:**
 
@@ -47,7 +47,7 @@ De eerste fase draaide om de vraag: Wat is het probleem? Via **literatuuronderzo
 
 **Define – Probleemafbakening:**
 
-In deze fase stond de vraag centraal: Wat is de juiste oplossing? Door middel van **benchmarkonderzoek** werd de bestaande markt verkend. Uit de ideegeneratie werd één concept gekozen. De begrijpelijkheid ervan werd getest met het **Think Aloud-protocol (wave 1 & 2 (N=5))**. Deze tests boden vroeg inzicht in gebruikerservaring, hoewel ze deels al in de ontwikkelingsfase vielen. Een **storyboard** visualiseerde het gekozen concept ter validatie.
+In deze fase stond de vraag centraal: Wat is de juiste oplossing? Door middel van **benchmarkonderzoek** werd de bestaande markt verkend. Uit de ideegeneratie werd één concept gekozen. De begrijpelijkheid ervan werd getest met behulp van het **Think Aloud-protocol (wave 1 & 2 (N=5))**. Deze testen boden vroege inzichten in gebruikerservaring, hoewel ze deels al in de ontwikkelingsfase vielen. Een **storyboard** visualiseerde het gekozen concept ter validatie.
 
 **Develop – Ontwikkeling en Iteratie:**
 
@@ -77,16 +77,17 @@ Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plus
 
 Om een gestructureerde en onderbouwde probleemstelling te formuleren, werd gebruik gemaakt van de Definition Template, waarmee een "How might we?" - vraag werd opgesteld. Voorafgaande hieraan werd het **WWWWH-model** toegepast om de onderzoeksvraag te verfijnen.
 
-Allereerst een **literatuurstudie** ([Literatuurstudie_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Literatuuronderzoek_protocol.pdf?csf=1&web=1&e=XgmGoY)) aan de hand van een onderzoeksprotocol waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
+Allereerst een **literatuurstudie** aan de hand van een ([onderzoeksprotocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdI5ab2WS3JIiJnwhV0hnSYBGzaCBPrGbIVretOMGGWNTA?e=fCM3pE)) waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
+
 De centrale onderzoeksvragen waren:
-1. Hoe werkt de RGM-methode?
-2. Wat doet muziek met het menselijk brein en lichaam?
-3. Wat zijn cognitieve functies of vaardigheden?
-4. Hoe kan healthy aging worden bevorderd?
+1. Hoe werkt de RGM-methode? [^1]
+2. Wat doet muziek met het menselijk brein en lichaam? [^2][^3]
+3. Wat zijn cognitieve functies of vaardigheden?[^4][^5][^6]
+4. Hoe kan healthy aging worden bevorderd?[^7][^8][^9][^10]
 
-Om kwalitatieve inzichten te verkrijgen, werden **interviews**([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_protocol.pdf?csf=1&web=1&e=AlWYwa)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen. Voorafgaande aan elk interview werd een [Interview_informed_consent](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/Interview_informed_consent.pdf?csf=1&web=1&e=EIryun) ondertekend. Uit de inzichten van de intervieuws werd een **user model** en [User-model](https://ugentbe-my.sharepoint.com/:b:/r/personal/amber_barra_ugent_be/Documents/SEM%203/Aging%20Young-%20PGO/Documenten%20github/USER-MODEL.pdf?csf=1&web=1&e=7EjlYB) **persona** opgesteld.
+Om kwalitatieve inzichten te verkrijgen, werden **interviews** ([Interview_protocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/Ed9Tg9MHxxxLjNeRAD1qHx4BbbeWkM66jpOKRjnQA1RbtA?e=XPNxeX)) afgenomen met de doelgroep. Deze richtten zich op de ervaringen en meningen van de gebruikers over de Ronnie Gardiner Methode, evenals hun dagelijkse routines en uitdagingen. Voorafgaande aan elk interview werd een [informed consent](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EXM5TNVYrNlKmqjKmqB2AT0Bvmq5wapY2ed5hnVDOPwtzg?e=O9AUdu) ondertekend. Uit de inzichten van de intervieuws werd een **[user-model](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EeT5JPQhoT9Il87CmLzDUhwBnuIiQGFslfVxvmP2XvJrvA?e=qtHXya))** en **persona** opgesteld.
 
-In de sprintdag begon de **ideegeneratiefase** waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de **innovatrix** (om de graad van innovatie te bepalen) en de **lotusbloem** ( om de brainstormsessie te structureren).
+In de sprintdag begon de **ideegeneratiefase** waarbij schetsen en ideeën werden gegenereerd. De toegepaste templates om het proces te ondersteunen waren de **[innovatrix](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdkjVfKgH2pHnB5uVPi7kr8Bnw1xOAUtfrK0q7NPQ2Yigg?e=abiBrG)** (om de graad van innovatie te bepalen) en de **[lotusbloem](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EWPI5N-yksNMkH7ecEv-5qYBS7CTrXczUbx8ZkWyUEFj4w?e=nj2gAT)** ( om de brainstormsessie te structureren).
 
 ### Resultaten
 
@@ -357,7 +358,7 @@ Elk deel van de code werd eerst apart opgebouwd om in een latere fase de delen i
 
 ![image](https://github.com/user-attachments/assets/edbe5ea7-2764-4274-baec-e31820c7c796)
 
-Voorafgaand aan de **gebruikerstesten** werd het spel virtueel uitgevoerd door simulaties. De Arduino’s worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld). Hierbij werden de denkpatronen van de ouderen nagebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd. Bij de map Data zijn de gebruikte codebestanden terug te vinden.
+Voorafgaand aan de **gebruikerstesten** werd het spel virtueel uitgevoerd door simulaties. De Arduino’s worden gesimuleerd op een scherm met een Python-interface. Deze diende om de software op punt te stellen. Mogelijke valkuilen en misverstanden in het spel werden opgespoord door fysieke spellen (door ons gespeeld). Hierbij werden de denkpatronen van de ouderen nagebootst. Zodanig dat er al zoveel mogelijk “kinderziektes” uit het prototype kunnen worden verwijderd. Bij de map [Data](./Data)  zijn de gebruikte codebestanden terug te vinden.
 
 Op basis van *Nirals Eye* werden de [triggers](https://ugentbe-my.sharepoint.com/:b:/g/personal/amber_barra_ugent_be/EQjJuYKT7SpIocswMUID6toBS9MeLrJ1l6RW-CMr5J-jhw?e=SFd5G5) van de gebruiker vastgelegd, met als doel begrijpen waarom de ouderen met ons product aan de slag zouden gaan. Deze informatie werd meegenomen in een aantal ontwerpkeuzes. Zoals herkenbare elementen, een muziekfragment dat vaak op de radio wordt gespeeld associëren met ons spel. 
 
