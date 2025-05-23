@@ -77,7 +77,7 @@ Het effectief inzetten van muziek/spelen als een hulpmiddel voor gezonde 65-plus
 
 Om een gestructureerde en onderbouwde probleemstelling te formuleren, werd gebruik gemaakt van de Definition Template, waarmee een "How might we?" - vraag werd opgesteld. Voorafgaande hieraan werd het **WWWWH-model** toegepast om de onderzoeksvraag te verfijnen.
 
-Allereerst een **literatuurstudie** aan de hand van een ([onderzoeksprotocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdI5ab2WS3JIiJnwhV0hnSYBGzaCBPrGbIVretOMGGWNTA?e=fCM3pE)) waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
+Allereerst een **literatuurstudie** aan de hand van een [onderzoeksprotocol](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EdI5ab2WS3JIiJnwhV0hnSYBGzaCBPrGbIVretOMGGWNTA?e=fCM3pE) waarin gedefineerd werd waar de informatie werd gezocht, welke sleutelwoorden als zoektermen werden gebruikt en welke bronnen relevant en betrouwbaar waren. Na een analyse van de gevonden bronnen werdt een rapport opgesteld met de gevonden conclusies.
 
 De centrale onderzoeksvragen waren:
 1. Hoe werkt de RGM-methode? [^1]
