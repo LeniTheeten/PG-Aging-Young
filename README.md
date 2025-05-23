@@ -383,7 +383,7 @@ Dag 2 bood de deelnemers de vrijheid om het spel zelfstandig te gebruiken in hun
 
 Dag 3 werd opnieuw begeleid door testleider en observator, waarbij belangrijke veranderingen werden genoteerd. 
 
-Elke dag vulden de gebruikers een **[logboek](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EcZ6CCxgOpJEtlvyZ4Q59C4Bh-Ldp7RHhGbKovcYx7OxCQ?e=0Hdbcm)** in dat verschillende aspecten van het spel bevragen. Op de laatste dag werd de **[System Usability Scale](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYcgEizQVzFHrm3VPIPnzBwBR5Cr3yVQrYctaAgVbSHdvg?e=nYVDGw)**(SUS)[^43] ook ingevuld.
+Elke dag vulden de gebruikers een **[logboek](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EcZ6CCxgOpJEtlvyZ4Q59C4Bh-Ldp7RHhGbKovcYx7OxCQ?e=0Hdbcm)** in dat verschillende aspecten van het spel bevragen. Op de laatste dag werd de **[System Usability Scale](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EYcgEizQVzFHrm3VPIPnzBwBR5Cr3yVQrYctaAgVbSHdvg?e=nYVDGw)** (SUS)[^43] ook ingevuld.
 
 ![image](https://github.com/user-attachments/assets/07231d98-0818-4962-bcef-c458ec0b6bc6)
 
@@ -456,7 +456,7 @@ Daarnaast werden nog een paar open vragen gesteld, en kwamen de volgende tips na
 
 Uit de **System Usabilty Scale**-vragen, werd een score opgesteld van wat de mensen van het product vinden. Het product kreeg een gemiddelde score van 78,33. Een hoge score duidt op gebruiksvriendelijkheid en bereidheid tot herhaaldelijk gebruik. 65-plussers zijn gemotiveerd om het spel opnieuw of op een moeilijker niveau te spelen.
 
-[Rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZh53ftpuitCpU6j7PnYtDMBJEH_pylTLkU87YrIaJVx_A?e=t309vA)  [Resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5))
+[Rapport_develop2](https://ugentbe-my.sharepoint.com/:b:/g/personal/leni_theeten_ugent_be/EZh53ftpuitCpU6j7PnYtDMBJEH_pylTLkU87YrIaJVx_A?e=t309vA)  [Resultaten](https://ugentbe-my.sharepoint.com/:x:/g/personal/amber_barra_ugent_be/EZisuz8RQLlJroZy1_gAlesBaEa5cT0UC1tvLGssuJYFsA?e=nLEzi5)
 
 ![image](https://github.com/user-attachments/assets/1942d9a5-d578-4271-bdcf-da37fffb3767)
 
